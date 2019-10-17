@@ -43,7 +43,8 @@ for intitute in Institutes_athorships.keys():
     
     institute_name = intitute.replace(' ', '')
     #save in file the institute authors
-    with open (folder+'institute'+'/'+institute_name+".csv",'w') as institute_file:
+
+    with open (folder+'institutes'+'/'+institute_name+".csv",'w') as institute_file:
         writer = csv.writer(institute_file)
         writer.writerows(author_institute_csv)             
     institute_file.close()     
