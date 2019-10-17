@@ -14,7 +14,7 @@ Institutes_athorships={}
 payload = ""
 response = requests.request("GET", url, data=payload)
 
-author_decoded = response.content.decode('utf-8')
+author_decoded = response.content
 
 authors_csv = csv.reader(author_decoded.splitlines(), delimiter=',')
 
@@ -27,9 +27,9 @@ authors_csv = csv.reader(author_decoded.splitlines(), delimiter=',')
 for institute in Institutes:
     Institutes_athorships[institute]=[]
 
-authors_csv= list(authors_csv)[1:]
+authors_list = list(authors_csv)
 
-for author in authors_csv:
+for author in authors_list:
     if len(author) > 0:
         if author[1] in Institutes:
             Institutes_athorships[author[1]].append(author[0])
