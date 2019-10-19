@@ -8,9 +8,9 @@ organitation= 'Google'
 os.getcwd()
 
 #json file 
-savefile = os.getcwd()+'/../data/google/google_authors.json'
+savefile = os.getcwd()+'/data/google/google_authors.json'
 #csv file (name,organitation)
-savecsv= os.getcwd()+'/../data/google/google_authors.csv'
+savecsv= os.getcwd()+'data/google/google_authors.csv'
 
 response = requests.request("GET", url)
 

@@ -3,7 +3,7 @@ import csv
 
 #parameters
 url = "http://csrankings.org/csrankings.csv"
-folder = "../data/"
+folder = "data/institutes"
 
 Institutes=['Carnegie Mellon University','Massachusetts Institute of Technology','Univ. of Illinois at Urbana-Champaign','Stanford University','University of California - Berkeley']
 
@@ -44,7 +44,7 @@ for intitute in Institutes_athorships.keys():
     institute_name = intitute.replace(' ', '')
     #save in file the institute authors
 
-    with open (folder+'institutes'+'/'+institute_name+".csv",'w') as institute_file:
+    with open (folder+'/'+institute_name+".csv",'wb') as institute_file:
         writer = csv.writer(institute_file)
         writer.writerows(author_institute_csv)             
     institute_file.close()     
