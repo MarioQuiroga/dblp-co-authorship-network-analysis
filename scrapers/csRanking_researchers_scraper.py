@@ -4,8 +4,9 @@ import csv
 #parameters
 url = "http://csrankings.org/csrankings.csv"
 folder = "data/institutes"
+type='authors'
 
-Institutes=['Carnegie Mellon University','Massachusetts Institute of Technology','Univ. of Illinois at Urbana-Champaign','Stanford University','University of California - Berkeley']
+Institutes=['Carnegie Mellon University','Massachusetts Institute of Technology','Univ. of Illinois at Urbana-Champaign']
 
 Institutes_athorships={} 
 
@@ -33,7 +34,7 @@ for author in authors_list:
     if len(author) > 0:
         if author[1] in Institutes:
             Institutes_athorships[author[1]].append(author[0])
-            print(author[0],author[1])
+            
 
 for intitute in Institutes_athorships.keys():
     
@@ -44,7 +45,7 @@ for intitute in Institutes_athorships.keys():
     institute_name = intitute.replace(' ', '')
     #save in file the institute authors
 
-    with open (folder+'/'+institute_name+".csv",'wb') as institute_file:
+    with open (folder+'/'+institute_name+"_" +type+".csv",'wb') as institute_file:
         writer = csv.writer(institute_file)
         writer.writerows(author_institute_csv)             
     institute_file.close()     

@@ -9,7 +9,7 @@ import csv
 org = 'Facebook'
 count_pages = 35
 
-save_csv= os.getcwd()+'/../data/facebook/facebook_authors.csv'
+save_csv= os.getcwd()+'data/facebook/facebook_authors.csv'
 authors = []
 for i in range(count_pages):
     url = 'https://research.fb.com/people/page/'+str(i+1)+'/?paginated=true'

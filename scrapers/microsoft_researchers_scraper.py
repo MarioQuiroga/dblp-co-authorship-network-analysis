@@ -6,7 +6,7 @@ import requests
 import os
 import csv
 
-save_csv= os.getcwd()+'/../data/microsoft/microsoft_authors.csv'
+save_csv= os.getcwd()+'data/microsoft/microsoft_authors.csv'
 org = 'Microsoft'
 authors = []
 more_pages = True
