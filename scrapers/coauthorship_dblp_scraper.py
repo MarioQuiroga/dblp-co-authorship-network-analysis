@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup as Soup
 
 # Read csv data
 csv_file = os.getcwd()+'/../data/Authors.csv'
+save_csv= os.getcwd()+'../data/edges_list.csv'
 rows = []
 with open(csv_file, 'r') as f:
     csv_reader = csv.reader(f, delimiter=',')
@@ -18,6 +19,7 @@ with open(csv_file, 'r') as f:
 # Scraping coautorship rows
 names, inst = zip(*rows)
 not_founds = []
+edges_list = []
 #print(names)
 for row in rows:
     spl = row[0].split(' ')
@@ -29,8 +31,13 @@ for row in rows:
     if response.status_code == 200:
         for author in Soup(response.content.decode()).find_all('author'):
             if row[0] in names:
-                print(row[0], author.string)
+                edges_list.append([row[0], author.string, author['count']])
+                print(row[0], author.string, author['count'])
     else:
         not_founds.append(row[0])
     time.sleep(2)
+
+with open(save_csv, 'w') as f:
+    writer = csv.writer(f)
+    writer.writerows(edges_list)
 
