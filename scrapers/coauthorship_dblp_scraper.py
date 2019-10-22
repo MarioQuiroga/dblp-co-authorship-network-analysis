@@ -43,7 +43,7 @@ for row in rows:
 
 with open(save_csv, 'w') as f:
     writer = csv.writer(f)
-    writer.writerows(edges_list)
+    writer.writerows(not_founds)
 
 with open(save_csv_not_founds, 'w') as f:
     writer = csv.writer(f)
