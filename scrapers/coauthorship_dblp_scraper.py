@@ -25,8 +25,8 @@ edges_list = []
 for row in rows:
     spl = row[0].split(' ')
     if len(spl) > 1:
-        name = spl[0]
-        last = spl[1]
+        name = spl[0].strip()
+        last = spl[1].strip()
         url = 'https://dblp.org/pers/xc/'+last[0].lower()+'/'+last+':'+name+'.xml'
         print(url)
         response = requests.request('GET', url)
@@ -36,10 +36,10 @@ for row in rows:
                     edges_list.append([row[0], author.string, author['count']])
                     print(row[0], author.string, author['count'])
         else:
-            not_founds.append([row[0],row[1])
+            not_founds.append([row[0],row[1]])
         time.sleep(2)
     else:
-        not_founds.append([row[0],row[1])
+        not_founds.append([row[0],row[1]])
 
 with open(save_csv, 'w') as f:
     writer = csv.writer(f)
