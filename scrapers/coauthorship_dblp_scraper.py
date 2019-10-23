@@ -8,9 +8,9 @@ import requests
 from bs4 import BeautifulSoup as Soup
 
 # Read csv data
-csv_file = os.getcwd()+'/data/Authors.csv'
-save_csv= os.getcwd()+'/data/edges_list.csv'
-save_csv_not_founds = os.getcwd()+'/data/not_founds_names.csv'
+csv_file = os.getcwd()+'/data/facebook/facebook_authors.csv'
+save_csv= os.getcwd()+'/data/edges_list/facebook.csv'
+save_csv_not_founds = os.getcwd()+'/data/not_founds_names_facebook.csv'
 rows = []
 with open(csv_file, 'r') as f:
     csv_reader = csv.reader(f, delimiter=',')
@@ -42,10 +42,13 @@ for row in rows:
     else:
         not_founds.append([row[0],row[1]])
 
-with open(save_csv, 'w') as f:
+# Store data
+with open(save_csv_not_founds, 'w') as f:
     writer = csv.writer(f)
     writer.writerows(not_founds)
 
-with open(save_csv_not_founds, 'w') as f:
+with open(save_csv, 'w') as f:
     writer = csv.writer(f)
     writer.writerows(edges_list)
+
+print('succes')
