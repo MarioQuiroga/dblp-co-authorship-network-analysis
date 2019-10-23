@@ -6,6 +6,7 @@ import os
 import time
 import requests
 from bs4 import BeautifulSoup as Soup
+import json
 
 # Read csv data
 csv_file = os.getcwd()+'/data/facebook/facebook_authors.csv'
@@ -21,26 +22,45 @@ with open(csv_file, 'r') as f:
 names, inst = zip(*rows)
 not_founds = []
 edges_list = []
-#print(names)
 for row in rows:
-    spl = row[0].replace('  ',' ').split(' ')
-    #spl = row[0].split(' ')
+    # Search in dblp
+    row[0] = row[0].replace('  ',' ')
+    spl = row[0].split(' ')
     if len(spl) > 1:
         name = spl[0].strip()
         last = spl[1].strip()
-        url = 'https://dblp.org/pers/xc/'+last[0].lower()+'/'+last+':'+name+'.xml'
-        print(url)
+        print(row[0])
+        url = 'https://dblp.org/search/author/api?q='+row[0]+'&format=json'
+        print('Search:', url)
         response = requests.request('GET', url)
-        if response.status_code == 200:
-            for author in Soup(response.content.decode()).find_all('author'):
-                if row[0] in names:
-                    edges_list.append([row[0], author.string, author['count']])
-                    print(row[0], author.string, author['count'])
+        json_content = j = json.loads(response.content)
+        url_author = ''
+        if int(j['result']['hits']['@total']) != 0:
+            # Scrap coautorship user
+            url_author = j['result']['hits']['hit'][0]['info']['url']+'.xml'
+            response_coaut = requests.request('GET', url_author)
+            if response_coaut.status_code == 200:
+                # Get author url
+                url_author = response_coaut.history[len(response_coaut.history)-1].headers['Location']
+                # Get coauthor url
+                #print(url_author)
+                url_coauthors = url_author.replace('xx','xc') + '.xml'
+                print('Url coauthors',url_coauthors)
+                response_coaut = requests.request('GET', url_coauthors)
+                print('name found')
+                #print(response_coaut.content)
+                for author in Soup(response_coaut.content.decode()).find_all('author'):
+                    if row[0] in names:
+                        edges_list.append([row[0], author.string, author['count']])
+                        print(row[0], author.string, author['count'])   
         else:
+            print('Search not found')
             not_founds.append([row[0],row[1]])
-        time.sleep(2)
+        time.sleep(1)
     else:
+        print('Bad name')
         not_founds.append([row[0],row[1]])
+    
 
 # Store data
 with open(save_csv_not_founds, 'w') as f:
@@ -51,4 +71,4 @@ with open(save_csv, 'w') as f:
     writer = csv.writer(f)
     writer.writerows(edges_list)
 
-print('succes')
+print('success')
