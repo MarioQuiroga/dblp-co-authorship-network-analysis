@@ -78,14 +78,14 @@ Sarah Bird,Microsoft
 Christopher Bishop,Microsoft
 Hadas Bitran,Microsoft
 Ray Bittner,Microsoft
-Nikolaj Bjørner,Microsoft
+Nikolaj Bjrner,Microsoft
 Richard Black,Microsoft
 Ambrosio Blanco,Microsoft
 William Blum,Microsoft
 Sandy Blyth,Microsoft
 Alex Bocharov,Microsoft
 Andreas Bode,Microsoft
-Peter Bodík,Microsoft
+Peter Bodik,Microsoft
 Federica Bogo,Microsoft
 Dan Bohus,Microsoft
 Bill Bolosky,Microsoft
@@ -103,7 +103,7 @@ Chris Brockett,Microsoft
 Marc Brockschmidt,Microsoft
 Dave Brown,Microsoft
 A.J. Brush,Microsoft
-Sébastien Bubeck,Microsoft
+Sebastien Bubeck,Microsoft
 William Buchwalter,Microsoft
 Sebastian Burckhardt,Microsoft
 Doug Burger,Microsoft
@@ -215,11 +215,11 @@ Ben Cutler,Microsoft
 Ed Cutrell,Microsoft
 Mary Czerwinski,Microsoft
 Jacek Czerwonka,Microsoft
-Marc-Alexandre Côté,Microsoft
+Marc-Alexandre Cote,Microsoft
 Qi Dai,Microsoft
 Wei Dai,Microsoft
 Neil Dalchau,Microsoft
-Hal Daumé III,Microsoft
+Hal Daume III,Microsoft
 Rob DeLine,Microsoft
 Tim Deegan,Microsoft
 Ofer Dekel,Microsoft
@@ -251,7 +251,7 @@ Rich Draves,Microsoft
 Rokas Drevinskas,Microsoft
 Steven Drucker,Microsoft
 Nan Duan,Microsoft
-Miro Dudík,Microsoft
+Miro Dudik,Microsoft
 Susan Dumais,Microsoft
 Sara-Jane Dunn,Microsoft
 Anshuman Dutt,Microsoft
@@ -270,7 +270,7 @@ Sameh Elnikety,Microsoft
 Joshua Elsdon,Microsoft
 Neil Emerton,Microsoft
 Dimitra Emmanouilidou,Microsoft
-Mark Encarnación,Microsoft
+Mark Encarnacion,Microsoft
 Paul England,Microsoft
 Sefik Emre Eskimez,Microsoft
 Nathan Evans,Microsoft
@@ -294,7 +294,7 @@ Avrilia Floratou,Microsoft
 Dinei Florencio,Microsoft
 Denae Ford Robinson,Microsoft
 Alessandro Forin,Microsoft
-Cédric Fournet,Microsoft
+Cedric Fournet,Microsoft
 Adam Fourney,Microsoft
 Jeremy Fowers,Microsoft
 Spencer Fowers,Microsoft
@@ -344,7 +344,7 @@ Christos Gkantsidis,Microsoft
 Adam Glass,Microsoft
 Robert Gmyr,Microsoft
 Patrice Godefroid,Microsoft
-Íñigo Goiri,Microsoft
+Inigo Goiri,Microsoft
 Dan Goldstein,Microsoft
 Jonathan Goldstein,Microsoft
 Ariel Gomez Diaz,Microsoft
@@ -448,7 +448,7 @@ Galen Hunt,Microsoft
 Qiang Huo,Microsoft
 Aviv Hurvitz,Microsoft
 Stephanie Hyland,Microsoft
-René Hülswitt,Microsoft
+Rene Hulswitt,Microsoft
 Guilherme Ilunga,Microsoft
 Nicole Immorlica,Microsoft
 Kori Inkpen,Microsoft
@@ -501,7 +501,7 @@ Nikos Karampatziakis,Microsoft
 Konstantinos Karanasos,Microsoft
 Nikolaos Karianakis,Microsoft
 Fotini Karinou,Microsoft
-Börje Karlsson,Microsoft
+Borje Karlsson,Microsoft
 Torsten Karzig,Microsoft
 Helmut Katzgraber,Microsoft
 Raghav Kaushik,Microsoft
@@ -543,8 +543,8 @@ Noboru Sean Kuno,Microsoft
 Markus Kuppe,Microsoft
 Nate Kushman,Microsoft
 Nipun Kwatra,Microsoft
-Arnd Christian König,Microsoft
-Boris Köpf,Microsoft
+Arnd Christian Konig,Microsoft
+Boris Kopf,Microsoft
 Brian LaMacchia,Microsoft
 Jacob LaRiviere,Microsoft
 Andreas Lachenmann,Microsoft
@@ -607,7 +607,7 @@ Chin-Yew Lin,Microsoft
 Steve Lin,Microsoft
 Xihui (Eric) Lin,Microsoft
 Yiyong Lin,Microsoft
-Siân Lindley,Microsoft
+Sian Lindley,Microsoft
 Ming Liu,Microsoft
 Yang Liu,Microsoft
 Tie-Yan Liu,Microsoft
@@ -832,7 +832,7 @@ Bo Qiao,Microsoft
 Tao Qin,Microsoft
 Tingting Qin,Microsoft
 Lei Qu,Microsoft
-Marina Quintero Pérez,Microsoft
+Marina Quintero Perez,Microsoft
 Chris Quirk,Microsoft
 Brian Quistorff,Microsoft
 Bozidar Radunovic,Microsoft
@@ -905,7 +905,7 @@ Anton Schwaighofer,Microsoft
 Lee Schwartz,Microsoft
 Michael Schwarz,Microsoft
 Scarlet Schwiderski-Grosche,Microsoft
-Johannes Schönberger,Microsoft
+Johannes Schonberger,Microsoft
 James Scott,Microsoft
 Frank Seide,Microsoft
 Sundararajan Sellamanickam,Microsoft
@@ -1184,7 +1184,7 @@ Yan Yu,Microsoft
 Lu Yuan,Microsoft
 Xingdi (Eric) Yuan,Microsoft
 Anibal Yusem,Microsoft
-Emrah Yücelen,Microsoft
+Emrah Yucelen,Microsoft
 Tal Zaccai,Microsoft
 Santiago Zanella-Beguelin,Microsoft
 Shuayb Zarar,Microsoft
@@ -1251,10 +1251,10 @@ Adam M. Bates,Massachusetts Institute of Technology
 Alex Kirlik,Massachusetts Institute of Technology
 Alexander G. Schwing,Massachusetts Institute of Technology
 Alexander Gerhard Schwing,Massachusetts Institute of Technology
-Andreas Klöckner,Massachusetts Institute of Technology
+Andreas Klockner,Massachusetts Institute of Technology
 Andrew Miller 0001,Massachusetts Institute of Technology
 Anil N. Hirani,Massachusetts Institute of Technology
-Bertram Ludäscher,Massachusetts Institute of Technology
+Bertram Ludascher,Massachusetts Institute of Technology
 Bill Gropp,Massachusetts Institute of Technology
 Bo Li 0026,Massachusetts Institute of Technology
 Brian P. Bailey,Massachusetts Institute of Technology
@@ -1293,7 +1293,7 @@ Jiawei Han 0001,Massachusetts Institute of Technology
 Jingrui He,Massachusetts Institute of Technology
 John C. Hart,Massachusetts Institute of Technology
 Josep Torrellas,Massachusetts Institute of Technology
-José Meseguer,Massachusetts Institute of Technology
+Jose Meseguer,Massachusetts Institute of Technology
 Julia Hockenmaier,Massachusetts Institute of Technology
 Karrie G. Karahalios,Massachusetts Institute of Technology
 Karrie Karahalios,Massachusetts Institute of Technology
@@ -1306,7 +1306,7 @@ Kris Hauser,Massachusetts Institute of Technology
 Kris K. Hauser,Massachusetts Institute of Technology
 Lav R. Varshney,Massachusetts Institute of Technology
 Lav Raj Varshney,Massachusetts Institute of Technology
-Laxmikant V. Kalé,Massachusetts Institute of Technology
+Laxmikant V. Kale,Massachusetts Institute of Technology
 Leonard Pitt,Massachusetts Institute of Technology
 Leslie Gasser,Massachusetts Institute of Technology
 Lui Sha,Massachusetts Institute of Technology
@@ -1390,10 +1390,10 @@ Adam M. Bates,Univ. of Illinois at Urbana-Champaign
 Alex Kirlik,Univ. of Illinois at Urbana-Champaign
 Alexander G. Schwing,Univ. of Illinois at Urbana-Champaign
 Alexander Gerhard Schwing,Univ. of Illinois at Urbana-Champaign
-Andreas Klöckner,Univ. of Illinois at Urbana-Champaign
+Andreas Klockner,Univ. of Illinois at Urbana-Champaign
 Andrew Miller 0001,Univ. of Illinois at Urbana-Champaign
 Anil N. Hirani,Univ. of Illinois at Urbana-Champaign
-Bertram Ludäscher,Univ. of Illinois at Urbana-Champaign
+Bertram Ludascher,Univ. of Illinois at Urbana-Champaign
 Bill Gropp,Univ. of Illinois at Urbana-Champaign
 Bo Li 0026,Univ. of Illinois at Urbana-Champaign
 Brian P. Bailey,Univ. of Illinois at Urbana-Champaign
@@ -1432,7 +1432,7 @@ Jiawei Han 0001,Univ. of Illinois at Urbana-Champaign
 Jingrui He,Univ. of Illinois at Urbana-Champaign
 John C. Hart,Univ. of Illinois at Urbana-Champaign
 Josep Torrellas,Univ. of Illinois at Urbana-Champaign
-José Meseguer,Univ. of Illinois at Urbana-Champaign
+Jose Meseguer,Univ. of Illinois at Urbana-Champaign
 Julia Hockenmaier,Univ. of Illinois at Urbana-Champaign
 Karrie G. Karahalios,Univ. of Illinois at Urbana-Champaign
 Karrie Karahalios,Univ. of Illinois at Urbana-Champaign
@@ -1445,7 +1445,7 @@ Kris Hauser,Univ. of Illinois at Urbana-Champaign
 Kris K. Hauser,Univ. of Illinois at Urbana-Champaign
 Lav R. Varshney,Univ. of Illinois at Urbana-Champaign
 Lav Raj Varshney,Univ. of Illinois at Urbana-Champaign
-Laxmikant V. Kalé,Univ. of Illinois at Urbana-Champaign
+Laxmikant V. Kale,Univ. of Illinois at Urbana-Champaign
 Leonard Pitt,Univ. of Illinois at Urbana-Champaign
 Leslie Gasser,Univ. of Illinois at Urbana-Champaign
 Lui Sha,Univ. of Illinois at Urbana-Champaign
@@ -1529,10 +1529,10 @@ Adam M. Bates,Carnegie Mellon University
 Alex Kirlik,Carnegie Mellon University
 Alexander G. Schwing,Carnegie Mellon University
 Alexander Gerhard Schwing,Carnegie Mellon University
-Andreas Klöckner,Carnegie Mellon University
+Andreas Klockner,Carnegie Mellon University
 Andrew Miller 0001,Carnegie Mellon University
 Anil N. Hirani,Carnegie Mellon University
-Bertram Ludäscher,Carnegie Mellon University
+Bertram Ludascher,Carnegie Mellon University
 Bill Gropp,Carnegie Mellon University
 Bo Li 0026,Carnegie Mellon University
 Brian P. Bailey,Carnegie Mellon University
@@ -1571,7 +1571,7 @@ Jiawei Han 0001,Carnegie Mellon University
 Jingrui He,Carnegie Mellon University
 John C. Hart,Carnegie Mellon University
 Josep Torrellas,Carnegie Mellon University
-José Meseguer,Carnegie Mellon University
+Jose Meseguer,Carnegie Mellon University
 Julia Hockenmaier,Carnegie Mellon University
 Karrie G. Karahalios,Carnegie Mellon University
 Karrie Karahalios,Carnegie Mellon University
@@ -1584,7 +1584,7 @@ Kris Hauser,Carnegie Mellon University
 Kris K. Hauser,Carnegie Mellon University
 Lav R. Varshney,Carnegie Mellon University
 Lav Raj Varshney,Carnegie Mellon University
-Laxmikant V. Kalé,Carnegie Mellon University
+Laxmikant V. Kale,Carnegie Mellon University
 Leonard Pitt,Carnegie Mellon University
 Leslie Gasser,Carnegie Mellon University
 Lui Sha,Carnegie Mellon University
@@ -1735,7 +1735,7 @@ Martin Cochran,Google
 Yasutaka Furukawa,Google
 Joshua Tabak,Google
 Eugene Ie,Google
-Sébastien Lahaie,Google
+Sebastien Lahaie,Google
 Venkatesh Basker,Google
 Flip Korn,Google
 Sanjay Bhansali,Google
@@ -1758,7 +1758,7 @@ Dirk Holz,Google
 Abhishek Kumar,Google
 Ashish Vaswani,Google
 Dale Webster,Google
-Gonçalo Simões,Google
+Goncalo Simoes,Google
 Pavlos Papageorge,Google
 Jonathon Shlens,Google
 Ignacio Garcia-Dorado,Google
@@ -1770,8 +1770,8 @@ Amir Globerson,Google
 Johan Mathe,Google
 Jane Chiu,Google
 Emilie Danna,Google
-Gábor Molnár,Google
-Michał Januszewski,Google
+Gabor Molnar,Google
+Micha Januszewski,Google
 Emma Soederberg,Google
 T. V. Raman,Google
 Piyush Sharma,Google
@@ -1787,7 +1787,7 @@ Gokulnath Babu Manoharan,Google
 Navdeep Jaitly,Google
 Manasa Prasad,Google
 Apostol (Paul) Natsev,Google
-Urs Hölzle,Google
+Urs Holzle,Google
 John Elliot Karro,Google
 Jasper Uijlings,Google
 Hang Qi,Google
@@ -1860,11 +1860,11 @@ Deepak Ravichandran,Google
 Denny Zhou,Google
 Yang Li,Google
 Zhe Zhao,Google
-Joëlle Skaf,Google
+Joelle Skaf,Google
 Mateusz Jurczyk,Google
 Alexey Kurakin,Google
 Menglong Zhu,Google
-Martín Abadi,Google
+Martin Abadi,Google
 Eugene Brevdo,Google
 Si Si,Google
 Valliappa Lakshmanan,Google
@@ -1977,7 +1977,7 @@ Alex Scott,Google
 Peter Collingbourne,Google
 Jeremy Maitin-Shepard,Google
 Vinny Ganeshan,Google
-Edgar Gonzàlez Pellicer,Google
+Edgar Gonzalez Pellicer,Google
 Lei Zhang,Google
 Rajat Monga,Google
 Jaeheon Yi,Google
@@ -2015,7 +2015,7 @@ Louis Yuanlong Shao,Google
 Reena Jana,Google
 Ashish Bhambhani,Google
 Jeffrey D. Oldham,Google
-Hendrik Müller,Google
+Hendrik Muller,Google
 Rajagopal Ananthanarayanan (ananth),Google
 Sundar Dorai-Raj,Google
 Eric Rollins,Google
@@ -2129,7 +2129,7 @@ Tadek Pietraszek,Google
 Susanna Ricco,Google
 Vitaly Kuznetsov,Google
 Warren Kumari,Google
-Jelena Pješivac–Grbović,Google
+Jelena PjesivacGrbovic,Google
 Erik Lucero,Google
 James Long,Google
 Karthik Krishnamoorthi,Google
@@ -2206,7 +2206,7 @@ Alvin Rishi Rajkomar,Google
 Vidhya Navalpakkam,Google
 Ritendra Datta,Google
 Jennimaria Palomaki,Google
-Martin Pál,Google
+Martin Pal,Google
 Colin Cherry,Google
 Theo Sanderson,Google
 Subhasree Mandal,Google
@@ -2223,7 +2223,7 @@ Gabe Krabbe,Google
 Sandeep Govind Dhoot,Google
 Jacob Barrett,Google
 Alex Beutel,Google
-Gábor Bartók,Google
+Gabor Bartok,Google
 Walid Krichene,Google
 Jingang Miao,Google
 Mario Callegaro,Google
@@ -2262,7 +2262,7 @@ Taylor Marable,Google
 Derek Wu,Google
 Emily Johnston,Google
 Igor Bilogrevic,Google
-Félix de Chaumont Quitry,Google
+Felix de Chaumont Quitry,Google
 Kai Chen,Google
 Dave Bacon,Google
 Richard Zens,Google
@@ -2336,7 +2336,7 @@ Sajid M. Siddiqi,Google
 John C. Platt,Google
 Ben Laurie,Google
 Alex Brik,Google
-Luiz André Barroso,Google
+Luiz Andre Barroso,Google
 Afshin Rostamizadeh,Google
 Dean Michael Berris,Google
 Kuzman Ganchev,Google
@@ -2367,7 +2367,7 @@ Daniel Myers,Google
 Vahab S. Mirrokni,Google
 Danny Raz,Google
 Himani Apte,Google
-Hsiao-keng Jerry Chu (朱曉耕),Google
+Hsiao-keng Jerry Chu (),Google
 Suhani Vora,Google
 Nicholas Rubin,Google
 Omid Madani,Google
@@ -2384,7 +2384,7 @@ Marc Cartright,Google
 Brian Roark,Google
 Shun-Tak Leung,Google
 Kshitij Bansal,Google
-Raphaël Marinier,Google
+Raphael Marinier,Google
 Muthuprasanna Muthusrinivasan,Google
 Jonathan Shen,Google
 Murtaza Motiwala,Google
@@ -2432,7 +2432,7 @@ Ori Folger,Google
 Jason Baldridge,Google
 Aren Jansen,Google
 Xiaobing Liu,Google
-Christoph Schütte,Google
+Christoph Schutte,Google
 Ofir Nachum,Google
 David Glazer,Google
 Craig Chambers,Google
@@ -2444,7 +2444,7 @@ Sam McVeety,Google
 Gal Chechik,Google
 Markus Rabe,Google
 Keith Stevens,Google
-Benjamin Börschinger,Google
+Benjamin Borschinger,Google
 Mikhail Kozhevnikov,Google
 James Atwood,Google
 Helge Bahmann,Google
@@ -2477,7 +2477,7 @@ Hector Yee,Google
 Dhyanesh Narayanan,Google
 David Dohan,Google
 Ruoming Pang,Google
-Mario Guajardo-Céspedes,Google
+Mario Guajardo-Cespedes,Google
 Been Kim,Google
 Scott Jenson,Google
 Asif Islam,Google
@@ -2521,7 +2521,7 @@ Eric Breck,Google
 Jonathan Zolla,Google
 Harry Bleyan,Google
 Rory Ward,Google
-Iulia-Maria Comșa,Google
+Iulia-Maria Comsa,Google
 Dominique Shipmon,Google
 Mustaq Ahmed,Google
 David Berthelot,Google
@@ -2602,7 +2602,7 @@ Derek Bruening,Google
 Mingcheng Chen,Google
 Mehran Bozorgi,Google
 Radu Jurca,Google
-Štěpán Davidovič,Google
+Stepan Davidovic,Google
 Piotr Zielinski,Google
 Sam Greydanus,Google
 Hasim Sak,Google
@@ -2716,7 +2716,7 @@ Jing Kong,Google
 Mohammad Saleh,Google
 Roberto J. Bayardo,Google
 Ming Zhao,Google
-Marek Fišer,Google
+Marek Fiser,Google
 Hieu Pham,Google
 Wolfgang Hess,Google
 Andreas Veit,Google
@@ -2754,7 +2754,7 @@ Dayu Yuan,Google
 Dennis Abts,Google
 Jenny Chen,Google
 Ross McIlroy,Google
-Monika Podsiadło,Google
+Monika Podsiado,Google
 David Weiss,Google
 Milad Hashemi,Google
 Patrick Riley,Google
@@ -2922,7 +2922,7 @@ Mitch Hatscher,Google
 Erich Elsen,Google
 Charles DuHadway,Google
 Eddie Pettis,Google
-Rafael Müller,Google
+Rafael Muller,Google
 Ankur Bapna,Google
 Ian Tenney,Google
 Feng Lu,Google
@@ -2937,7 +2937,7 @@ Ioannis Tsochantaridis,Google
 Lluis Garcia-Pueyo,Google
 David Wetherall,Google
 Andrew Harp,Google
-Stéphane Lafon,Google
+Stephane Lafon,Google
 Maxwell D. Collins,Google
 Aditi Viswanathan,Google
 Hyrum Wright,Google
@@ -3018,7 +3018,7 @@ Matthias Grundmann,Google
 Nevan Wichers,Google
 Yin-Wen Chang,Google
 Fernando V. Bonassi,Google
-Jakub Łącki,Google
+Jakub acki,Google
 Bryan Seybold,Google
 Adam Feldman,Google
 Jahangir Hasan,Google
@@ -3030,7 +3030,7 @@ Michael Bendersky,Google
 Luca Invernizzi,Google
 Behnam Bastani,Google
 Abhinav Shrivastava,Google
-Ramón Medrano Llamas,Google
+Ramon Medrano Llamas,Google
 Jay Busch,Google
 Kayur Patel,Google
 Ignacio Lopez Moreno,Google
@@ -3069,12 +3069,12 @@ Jayanthkumar Kannan,Google
 Arran Schlosberg,Google
 Abhinandan Das,Google
 Rui Zhao,Google
-Oscar Täckström,Google
+Oscar Tackstrom,Google
 Avinatan Hassidim,Google
-Tomáš Ižo,Google
+Tomas Izo,Google
 Sagar Jain,Google
 Vitaly Feldman,Google
-Françoise Beaufays,Google
+Francoise Beaufays,Google
 Rina Panigrahy,Google
 David Akers,Google
 Cliff Sze,Google
@@ -3123,7 +3123,7 @@ Sridhar Srinivasan,Google
 Stefan Holmer,Google
 Irwan Bello,Google
 Richard Chiburis,Google
-Edgar A. Duéñez Guzmán,Google
+Edgar A. Duenez Guzman,Google
 Yasuhisa Fujii,Google
 Yuan Yuan,Google
 Nan Ding,Google
@@ -3135,7 +3135,7 @@ Ryan Babbush,Google
 Alexander De Luca,Google
 Huazhong Ning,Google
 Jakub Konecny,Google
-Stéphane Soppera,Google
+Stephane Soppera,Google
 Hugues Hoppe,Google
 Amit Singhal,Google
 Ilya Mironov,Google
@@ -3200,7 +3200,7 @@ Svilen Kanev,Google
 Xiaojun Bi,Google
 Thomas Deselaers,Google
 Isabelle Stanton,Google
-Marko Ivanković,Google
+Marko Ivankovic,Google
 Radek Vingralek,Google
 Emily Stark,Google
 Bradley Taylor,Google
@@ -3294,7 +3294,7 @@ Andrew Widdowson,Google
 Geoffrey E. Hinton,Google
 Richard M. Conlan,Google
 Neha Nayak,Google
-Rafael Fernández-Moctezuma,Google
+Rafael Fernandez-Moctezuma,Google
 Dillon Sharlet,Google
 Doug Kwan,Google
 Pavel Sountsov,Google
@@ -3334,7 +3334,7 @@ Sebastian Lekies,Google
 Aleksey Boyko,Google
 Negin (Nicki) Golrezaei,Google
 Jun Xu,Google
-Yuchung Cheng 鄭又中,Google
+Yuchung Cheng ,Google
 Thomas Colthurst,Google
 Timothy Yang,Google
 Jennifer Zamora,Google
@@ -3372,7 +3372,7 @@ Manoj Plakal,Google
 Emerson Murphy-Hill,Google
 Wei Zhang,Google
 Alejandro Estrella-Balderrama,Google
-Håkan L. S. Younes,Google
+Hakan L. S. Younes,Google
 Pawel Lichocki,Google
 Tyler Akidau,Google
 Tom Kenter,Google
@@ -3385,7 +3385,7 @@ Michael Cohen,Google
 Sean Dorward,Google
 Dravyansh Sharma,Google
 Ellie Pavlick,Google
-Bram Bonné,Google
+Bram Bonne,Google
 Cliff Young,Google
 Gil Shamir,Google
 Jiecao Chen,Google
@@ -3414,7 +3414,7 @@ Jan Wassenberg,Google
 Aaron Sedley,Google
 Bartosz Przydatek,Google
 Austin Fowler,Google
-Zoran Dimitrijević,Google
+Zoran Dimitrijevic,Google
 Ray Smith,Google
 Pranav Khaitan,Google
 Max Moroz,Google
@@ -3453,7 +3453,7 @@ Luke Church,Google
 Marija Mikic-Rakic,Google
 Tamas Sarlos,Google
 Marius Pasca,Google
-Henrik Stewénius,Google
+Henrik Stewenius,Google
 Azalia Mirhoseini,Google
 Arnar Birgisson,Google
 Niket Agarwal,Google
@@ -3463,7 +3463,7 @@ Pete Warden,Google
 David Sussillo,Google
 Xiao Yu,Google
 Xuanhui Wang,Google
-Cédric Deltheil,Google
+Cedric Deltheil,Google
 Decheng Dai,Google
 John Wilkes,Google
 Wei Wei,Google
@@ -3503,7 +3503,7 @@ Edward E. Aftandilian,Google
 Klaus Macherey,Google
 Leif Johnson,Google
 Russell Lee-Goldman,Google
-Úlfar Erlingsson,Google
+Ulfar Erlingsson,Google
 Liu Yang,Google
 Robert Bradshaw,Google
 Kurt Partridge,Google
@@ -3593,7 +3593,7 @@ Gunjan Baid,Google
 Daniel M. Russell,Google
 Alexander W. Blocker,Google
 Luis Antonio Perez,Google
-Elin Rønby Pedersen,Google
+Elin Rnby Pedersen,Google
 Gurmeet Singh Manku,Google
 Kai Kohlhoff,Google
 Steven Hickson,Google
@@ -3746,7 +3746,7 @@ Christian Buck,Google
 Martin Wicke,Google
 Evangelos Kanoulas,Google
 Sebastian Krause,Google
-Denny Vrandečić,Google
+Denny Vrandecic,Google
 Sai Teja Peddinti,Google
 Michael De Rosa,Google
 Neil Fraser,Google
@@ -3851,7 +3851,7 @@ John Amir-Abbassi,Facebook
 Brandon Amos,Facebook
 Zheng An,Facebook
 Eric Anderson,Facebook
-Paul André,Facebook
+Paul Andre,Facebook
 Pierre Andrews,Facebook
 Seth Andrzejewski,Facebook
 Michael Auli,Facebook
@@ -3866,7 +3866,7 @@ Eytan Bakshy,Facebook
 Anusha Balakrishnan,Facebook
 Max Balandat,Facebook
 Brooke Baldwin,Facebook
-Pablo Barberá,Facebook
+Pablo Barbera,Facebook
 Neta Barkay,Facebook
 Marco Baroni,Facebook
 Stanislav Basovnik,Facebook
@@ -3905,7 +3905,7 @@ Nicolas Carion,Facebook
 Bryan Carroll,Facebook
 Diego Castaneda,Facebook
 Trudy Cederman,Facebook
-Onur Çelebi,Facebook
+Onur Celebi,Facebook
 Kerem Cevahir,Facebook
 Neha Chachra,Facebook
 Kostas Chalkias,Facebook
@@ -3927,7 +3927,7 @@ Soumith Chintala,Facebook
 Brian Cho,Facebook
 Kyunghyun Cho,Facebook
 Jill Christ,Facebook
-Ezgi Çiçek,Facebook
+Ezgi Cicek,Facebook
 Alan Clark,Facebook
 Jen Clark,Facebook
 Peter Clasen,Facebook
@@ -3952,13 +3952,13 @@ Dina Dajani,Facebook
 George Danezis,Facebook
 Elissa Darnell,Facebook
 Sam Daulton,Facebook
-Andréa Davis,Facebook
+Andrea Davis,Facebook
 Elena Goetz Davis,Facebook
 Mikal Davis,Facebook
 Fernando De la Torre,Facebook
 Bethany de Gant,Facebook
 Aaron Defazio,Facebook
-Alexandre Défossez,Facebook
+Alexandre Defossez,Facebook
 Qingyuan Deng,Facebook
 Matthew Denny,Facebook
 Drew Dimmery,Facebook
@@ -3968,11 +3968,11 @@ Carlos Diuk,Facebook
 Jen DiZio,Facebook
 Piotr Dollar,Facebook
 Snow Dong,Facebook
-Yanzhi “Aaron” Dou,Facebook
+Yanzhi Aaron Dou,Facebook
 Matthijs Douze,Facebook
 Alex Dow,Facebook
 Jessica Drum,Facebook
-Thérèse E. Dugan,Facebook
+Therese E. Dugan,Facebook
 Ravikant DVS,Facebook
 Dmytro Dzhulgakov,Facebook
 Henry Ehrenberg,Facebook
@@ -4013,7 +4013,7 @@ Lingrui Gan,Facebook
 Lakshmi Ganesh,Facebook
 Fei Gao,Facebook
 Dario Garcia,Facebook
-François Garillot,Facebook
+Francois Garillot,Facebook
 Jason Gauci,Facebook
 Jonas Gehring,Facebook
 Alborz Geramifard,Facebook
@@ -4046,7 +4046,7 @@ Andreas Gros,Facebook
 Sam Gross,Facebook
 Amit Gruber,Facebook
 Jennifer Guadagno,Facebook
-Stephanie Guamán,Facebook
+Stephanie Guaman,Facebook
 Beth Guido,Facebook
 Lan Guo,Facebook
 Sonal Gupta,Facebook
@@ -4066,7 +4066,7 @@ Zijian He,Facebook
 Ali Heller,Facebook
 Hamid Hemmati,Facebook
 Justin Hepler,Facebook
-Amaç Herdağdelen,Facebook
+Amac Herdagdelen,Facebook
 Jan Herling,Facebook
 Daniel Herron,Facebook
 Aude Hofleitner,Facebook
@@ -4092,7 +4092,7 @@ Sanket Jadhav,Facebook
 Aaron Jaech,Facebook
 Sina Jafarpour,Facebook
 Myungha Jang,Facebook
-Hervé Jégou,Facebook
+Herve Jegou,Facebook
 Danny Jeong,Facebook
 Bill Jia,Facebook
 Yangqing Jia,Facebook
@@ -4143,7 +4143,7 @@ Maya Kuehn,Facebook
 Anuj Kumar,Facebook
 Julius Kusuma,Facebook
 Victoria Kyu,Facebook
-Timothée Lacroix,Facebook
+Timothee Lacroix,Facebook
 Jeff LaFlam,Facebook
 Joe Lajavic,Facebook
 Brenden Lake,Facebook
@@ -4208,7 +4208,7 @@ David Lopez-Paz,Facebook
 Catherine Lovazzano,Facebook
 Congxi Lu,Facebook
 Pauline Luc,Facebook
-Carla España Lynch,Facebook
+Carla Espana Lynch,Facebook
 Nikita Lytkin,Facebook
 Hao Ma,Facebook
 Jerry Ma,Facebook
@@ -4257,7 +4257,7 @@ Angie Morris,Facebook
 Dheevatsa Mudigere,Facebook
 Kelsey Mulcahy,Facebook
 Vijayaraghavan Murali,Facebook
-María Murcia López,Facebook
+Maria Murcia Lopez,Facebook
 Tullie Murrell,Facebook
 Vivek Natarajan,Facebook
 Maxim Naumov,Facebook
@@ -4276,13 +4276,13 @@ Nicholas Nomm,Facebook
 Nima Noorshams,Facebook
 Jami Novotarski,Facebook
 David Novotny,Facebook
-Barlas Oğuz,Facebook
-Peter O’Hearn,Facebook
+Barlas Oguz,Facebook
+Peter OHearn,Facebook
 Yann Ollivier,Facebook
 Myle Ott,Facebook
 Guilherme Ottoni,Facebook
 Blaze Owens,Facebook
-Umut Özertem,Facebook
+Umut Ozertem,Facebook
 Michela Paganini,Facebook
 Melissa Pak,Facebook
 Manohar Paluri,Facebook
@@ -4302,7 +4302,7 @@ Pedro Pedreira,Facebook
 Bingyue Peng,Facebook
 Xiaochang Peng,Facebook
 Quaneisha Penha,Facebook
-Jérôme Pesenti,Facebook
+Jerome Pesenti,Facebook
 Fabio Petroni,Facebook
 Thibault Peyronel,Facebook
 Reena Philip,Facebook
@@ -4321,14 +4321,14 @@ Lisa Preville,Facebook
 Christian Puhrsch,Facebook
 Sergey Pupyrev,Facebook
 Liezl Puzon,Facebook
-Joaquin Quiñonero Candela,Facebook
+Joaquin Quinonero Candela,Facebook
 Kevin Quirk,Facebook
 Mike Rabbat,Facebook
 Robert Racadio,Facebook
 Eleanor Ram,Facebook
 Vignesh Ramanathan,Facebook
 Krishnan Ramnath,Facebook
-Marc’Aurelio Ranzato,Facebook
+MarcAurelio Ranzato,Facebook
 Jinfeng Rao,Facebook
 Mrinalini Rao,Facebook
 Xi Rao,Facebook
@@ -4391,7 +4391,7 @@ Nika Smith Auld,Facebook
 Eric Smith,Facebook
 Kate Smith,Facebook
 Eric Sodomka,Facebook
-André L. Souza,Facebook
+Andre L. Souza,Facebook
 Tarah Srethwatanakul,Facebook
 Kavya Srinet,Facebook
 Sonal Srivastava,Facebook
@@ -4401,7 +4401,7 @@ Nicolas Stier,Facebook
 Pierre Stock,Facebook
 Ves Stoyanov,Facebook
 Roshan Sumbaly,Facebook
-Yutian “James” Sun,Facebook
+Yutian James Sun,Facebook
 Yu-Wei Eric Sung,Facebook
 Gabriel Synnaeve,Facebook
 Richard Szeliski,Facebook
