@@ -1,2176 +1,2186 @@
-Shaozhi Ye,Google
-Jim Shuma,Google
-Esteban Real,Google
-Liz Fong-Jones,Google
-Ariel Gutman,Google
-Rianne van den Berg,Google
-Ryan McDonald,Google
-Jason Schiller,Google
-Anton Raichuk,Google
-Vikas Sindhwani,Google
-Stefan Heule,Google
-Orhan Firat,Google
-Sherol Chen,Google
-Andrew Ferraiuolo,Google
-ALEXEY KOLESNIKOV,Google
-Xavi Gonzalvo,Google
-Deborah Cohen,Google
-Beryl Nelson,Google
-Eduardo Pinheiro,Google
-Yu Zhang,Google
-Rami Barends,Google
-Forrester Cole,Google
-Jaehoon Lee,Google
-Larry Lindsey,Google
-Wolf-Dietrich Weber,Google
-Shuang Song,Google
-Janara Christensen,Google
-Karol Kurach,Google
-Ming-Hsuan Yang,Google
-Ni Lao,Google
-Greg Dennis,Google
-Viet Dang,Google
-Krzysztof Choromanski,Google
-Surojit Chatterjee,Google
-J. Chase Kew,Google
-Kurt Alfred Kluever,Google
-Dmitry Lizorkin,Google
-Dan Moldovan,Google
-Shawn Hershey,Google
-Alexey Gritsenko,Google
-Marianne Berkovich,Google
-Jennifer Wang,Google
-Honggang Sheng,Google
-Yoel Drori,Google
-Yueqing Wang,Google
-RJ Skerry-Ryan,Google
-Gleb Skobeltsyn,Google
-Yossi Matias,Google
-Jonas Jongejan,Google
-Simon Glass,Google
-Hong Liu,Google
-Rohit Prabhavalkar,Google
-Daniel Andor,Google
-Dan B Goldman,Google
-David Rybach,Google
-Elizeu Santos-Neto,Google
-Martin Churchill,Google
-Mona Attariyan,Google
-Jasper Snoek,Google
-Abhishek Verma,Google
-Ashwin Ganti,Google
-Tyler Pirtle,Google
-Dave O'Connor,Google
-Xiang Wang,Google
-Dave Patterson,Google
-Mukund Sundararajan,Google
-Hui Lin,Google
-Dan Garrette,Google
-Martin Cochran,Google
-Yasutaka Furukawa,Google
-Joshua Tabak,Google
-Eugene Ie,Google
-Sébastien Lahaie,Google
-Venkatesh Basker,Google
-Flip Korn,Google
-Sanjay Bhansali,Google
-An Zhu,Google
-Rich Washington,Google
-Patrick S Ryan,Google
-Emilia Kasper,Google
-Nina Taft,Google
-Manpreet Singh,Google
-Wilson C. Hsieh,Google
-Karl Schnaitter,Google
-Sagar Mittal,Google
-Alex,Google
-Mike Colagrosso,Google
-Keith B. Hall,Google
-Florian Schroff,Google
-Dave Moore,Google
-Chelsea Finn,Google
-Dirk Holz,Google
-Abhishek Kumar,Google
-Ashish Vaswani,Google
-Dale Webster,Google
-Gonçalo Simões,Google
-Pavlos Papageorge,Google
-Jonathon Shlens,Google
-Ignacio Garcia-Dorado,Google
-Ben Adlam,Google
-Xinliang David Li,Google
-Geoff Pike,Google
-David Ha,Google
-Amir Globerson,Google
-Johan Mathe,Google
-Jane Chiu,Google
-Emilie Danna,Google
-Gábor Molnár,Google
-Michał Januszewski,Google
-Emma Soederberg,Google
-T. V. Raman,Google
-Piyush Sharma,Google
-Elad Eban,Google
-Eric Nichols,Google
-Eugen Hotaj,Google
-Peyman Milanfar,Google
-Philip Haeusser,Google
-Alyssa Whitlock Lees,Google
-Alex Irpan,Google
-Prakash Prabhu,Google
-Gokulnath Babu Manoharan,Google
-Navdeep Jaitly,Google
-Manasa Prasad,Google
-Apostol (Paul) Natsev,Google
-Urs Hölzle,Google
-John Elliot Karro,Google
-Jasper Uijlings,Google
-Hang Qi,Google
-Aiyou Chen,Google
-Marc A. Coram,Google
-Raman Sarokin,Google
-Ekin Dogus Cubuk,Google
-Katy Blumer,Google
-Hongjie Bai,Google
-Jan Skoglund,Google
-Rico Jonschkowski,Google
-Eric Malmi,Google
-Rodrigo de Oliveira,Google
-Lorenzo Colitti,Google
-Sharat Chikkerur,Google
-Maxim Gurevich,Google
-Ramon Caceres,Google
-Yuxuan Wang,Google
-Manasi Joshi,Google
-Alessandro Epasto,Google
-Michael J. Procopio,Google
-Krunal Kishor Patel,Google
-Matt Trevithick,Google
-Massimiliano Ciaramita,Google
-Rick Altherr,Google
-Christophe Restif,Google
-Christoph Best,Google
-Bernd Bohnet,Google
-Itay Laish,Google
-Alex Rudnick,Google
-Aleksandr Chuklin,Google
-Paul A. Tucker,Google
-Rami Al-Rfou,Google
-Martin C. Stumpe,Google
-Sriraman Tallam,Google
-David Minnen,Google
-Jean-Michel Picod,Google
-Eric Brewer,Google
-Carrie Jun Cai,Google
-Aleksandra Faust,Google
-Teresa Johnson,Google
-Donald Metzler,Google
-Matthias Zenger,Google
-Kerwell Liao,Google
-Jim Gao,Google
-Shuo-yiin Chang,Google
-Jyrki Alakuijala,Google
-Luc Vincent,Google
-Craig Boutilier,Google
-KK Yap,Google
-HyunJeong Choe,Google
-Rob Springer,Google
-Balakrishnan Varadarajan,Google
-Stanislav Angelov,Google
-Tyler(Lixuan) Zhu,Google
-Yutaka I. Leon Suematsu,Google
-Elie Bursztein,Google
-Andrew Warr,Google
-Channing Moore,Google
-Gaurav Desai,Google
-Johan Tibell,Google
-Benjamin Solnik,Google
-Kevin Jing,Google
-Li Wan,Google
-Vincent Scheib,Google
-Siqi Liu,Google
-Anjuli Kannan,Google
-Ofer Naaman,Google
-Deepak Ravichandran,Google
-Denny Zhou,Google
-Yang Li,Google
-Zhe Zhao,Google
-Joëlle Skaf,Google
-Mateusz Jurczyk,Google
-Alexey Kurakin,Google
-Menglong Zhu,Google
-Martín Abadi,Google
-Eugene Brevdo,Google
-Si Si,Google
-Valliappa Lakshmanan,Google
-Dimitrios Vardoulakis,Google
-Shaun Lysen,Google
-Jens Riegelsberger,Google
-Stephen DiVerdi,Google
-Ketan Mandke,Google
-Daniel Silva,Google
-Chip Killian,Google
-Eugene J. Shekita,Google
-Jeremy Kubica,Google
-Peter Kairouz,Google
-Guillaume Chatelet,Google
-Adam Meyerson,Google
-Paul Lee,Google
-Dominic Hamon,Google
-Ben Appleton,Google
-Carl Vondrick,Google
-Rohit Saboo,Google
-Christopher Shallue,Google
-Jessica Staddon,Google
-Tomer Sharon,Google
-Ying Xiao,Google
-Kathy Walrath,Google
-Caroline Tice,Google
-Jingjie Zheng,Google
-Junda Liu,Google
-Jason Riesa,Google
-Samantha Ainsley,Google
-Nitin Gangahar,Google
-Stephanie Shin-Hui Zhang,Google
-Bryan Klingner,Google
-Max Saltonstall,Google
-Ullas Gargi,Google
-Manas Tungare,Google
-Yiteng Huang,Google
-Erik McDermott,Google
-Abhinav Rastogi,Google
-Makoto Uchida,Google
-Jonathan T Barron,Google
-Jean-Philippe Vert,Google
-Anna Huang,Google
-Ang Li,Google
-David H. Alexander,Google
-Martin Shelton,Google
-Andres Munoz Medina,Google
-Umar Syed,Google
-Eric Penner,Google
-Sami Abu-El-Haija,Google
-Paul Klimov,Google
-Yishay Mansour,Google
-Marc Levoy,Google
-Adel Ahmadyan,Google
-Andrew Rabinovich,Google
-Amit Daniely,Google
-Brian Barritt,Google
-Kevin P. Murphy,Google
-ying sheng,Google
-Chuck Rosenberg,Google
-John Blitzer,Google
-Michael Nirschl,Google
-Ted White,Google
-Marco Cuturi,Google
-Miles Hutson,Google
-Wojciech Gajewski,Google
-Douglas Eck,Google
-William Baxter,Google
-Andrew Rice,Google
-Antonella Pavese,Google
-Gynvael Coldwind,Google
-Max Pashkevich,Google
-James S. Larson,Google
-Arunachalam Narayanaswamy,Google
-Sourish Chaudhuri,Google
-Radu Soricut,Google
-Sarah Loos,Google
-Lucy Vasserman,Google
-Philip M Wells,Google
-Ananda Theertha Suresh,Google
-Alireza Shabani,Google
-Dave Anderson,Google
-Jesse Engel,Google
-Ciera Jaspan,Google
-Lucia Terrenghi,Google
-Yuxiang Yang,Google
-Aleksey Shlyapnikov,Google
-Catherine Olsson,Google
-Markus Freitag,Google
-Burcu Karagol Ayan,Google
-Divy Thakkar,Google
-Chris Harrelson,Google
-Curtis Hawthorne,Google
-James Wexler,Google
-Dan Gnanapragasam,Google
-Nathan Germer,Google
-Michael Collis,Google
-Ian Williams,Google
-Anja Gruenheid,Google
-Wenbo Zhu,Google
-Krzysztof Czuba,Google
-Ansley Post,Google
-Aaron Segal,Google
-Nitesh Goyal,Google
-Tom Ouyang,Google
-Lucy Colwell,Google
-Jie Yang,Google
-Matt Mathis,Google
-Alex Scott,Google
-Peter Collingbourne,Google
-Jeremy Maitin-Shepard,Google
-Vinny Ganeshan,Google
-Edgar Gonzàlez Pellicer,Google
-Lei Zhang,Google
-Rajat Monga,Google
-Jaeheon Yi,Google
-Xiang Zhou,Google
-Kevin Aydin,Google
-Steve Padgett,Google
-Hideto Kazawa,Google
-Lantian Zheng,Google
-Greg Corrado,Google
-Yunqing Wang,Google
-Jeffrey Korn,Google
-Luciano Sbaiz,Google
-Michael J. Brzozowski,Google
-Rajan Patel,Google
-Ellen Spertus,Google
-Theo Vassilakis,Google
-Manzil Zaheer,Google
-David Lo,Google
-Sean Fanello,Google
-Claudio Gentile,Google
-Aart J.C. Bik,Google
-Dmitriy Genzel,Google
-Neil Birkbeck,Google
-Taedong Yun,Google
-Oscar Ramirez,Google
-Arif Merchant,Google
-Malcolm Slaney,Google
-Sean Lip,Google
-Sergio Boixo,Google
-Inbar Mosseri,Google
-David Ding,Google
-Yinlam Chow,Google
-Rob Jackson,Google
-Louis Yuanlong Shao,Google
-Reena Jana,Google
-Ashish Bhambhani,Google
-Jeffrey D. Oldham,Google
-Hendrik Müller,Google
-Rajagopal Ananthanarayanan (ananth),Google
-Sundar Dorai-Raj,Google
-Eric Rollins,Google
-Yannet Interian,Google
-Markose Thomas,Google
-Stephan Gouws,Google
-Simon Kornblith,Google
-Erik Kline,Google
-Daniel M. Bikel,Google
-Tamsyn Waterhouse,Google
-Jason Miller,Google
-Pedro Gonnet,Google
-Yonghui Wu,Google
-Eric Anderson,Google
-Hai Hong,Google
-John Lindsay Orr,Google
-Maryam Karimzadehgan,Google
-Diane Tang,Google
-Andrei Z. Broder,Google
-Thomas Brovelli (Meyer),Google
-Brian Milch,Google
-Sooel Son,Google
-Rapha Gontijo Lopes,Google
-Yang Song,Google
-Philip Nelson,Google
-Nicholas FitzGerald,Google
-Sergei Vassilvitskii,Google
-Alexander E. Mohr,Google
-Eric Jang,Google
-David Cai,Google
-Xiao Zhang,Google
-Avital Oliver,Google
-Kareem Amin,Google
-Aaron Sarna,Google
-Fabien Viger,Google
-Jim Koehler,Google
-Bao Nguyen,Google
-Andrew de los Reyes,Google
-Pi-Chuan Chang,Google
-Gal Elidan,Google
-Hans-Juergen Boehm,Google
-Delesley Hutchins,Google
-Victor Manuel Escobedo,Google
-Yu-hui Chen,Google
-Andrew Macvean,Google
-Matthew McEwen,Google
-Minjie Fan,Google
-David Applegate,Google
-Theodore Ts'o,Google
-Hossein Esfandiari,Google
-Tim Salimans,Google
-Julian Mason,Google
-Gopalan Sivathanu,Google
-Manjunath Kudlur,Google
-Robbie Shade,Google
-Kristen LeFevre,Google
-Tristan Launay,Google
-Yu Zhong,Google
-Irfan Essa,Google
-Tom Bagby,Google
-Sanjay Ghemawat,Google
-Mark Segal,Google
-Berthier Ribeiro-Neto,Google
-Mingyang Zhang,Google
-Srini Narayanan,Google
-Sudip Roy,Google
-Salem Haykal,Google
-Fernando Pereira,Google
-John Daughtry,Google
-Markus Becker,Google
-Jason Gurevitch,Google
-Martin Bokeloh,Google
-Alexander Lloyd,Google
-Foad Dabiri,Google
-Sarvjeet Singh,Google
-Jingyue Wu,Google
-Tomas Pfister,Google
-Shaowei Png,Google
-Carl Lebsack,Google
-Paul Carff,Google
-Iustin Pop,Google
-Heiga Zen,Google
-Alireza Fathi,Google
-Craig Michael Gidney,Google
-Alessandro Bissacco,Google
-Fangtao Li,Google
-Chris Fry,Google
-Stephen Stuart,Google
-Hanie Sedghi,Google
-Hongrae Lee,Google
-Alexander Shraer,Google
-Emily Reif,Google
-Fay W. Chang,Google
-Erik Vee,Google
-Chris Welty,Google
-Sunny Consolvo,Google
-Fei Wu,Google
-Soren Pirk,Google
-Steven Hand,Google
-Bilson Jake Libres Campana,Google
-Chris Jones,Google
-Rajhans Samdani,Google
-Divanshu Garg,Google
-Cassidy Curtis,Google
-Yangqing Jia,Google
-Michael Christoph Muelly,Google
-Shih-Wei Liao,Google
-Petros Venetis,Google
-D. Sivakumar,Google
-Tadek Pietraszek,Google
-Susanna Ricco,Google
-Vitaly Kuznetsov,Google
-Warren Kumari,Google
-Jelena Pješivac–Grbović,Google
-Erik Lucero,Google
-James Long,Google
-Karthik Krishnamoorthi,Google
-Varden Wang,Google
-Ramanathan V. Guha,Google
-Morteza Zadimoghaddam,Google
-Richard Sproat,Google
-Karn Seth,Google
-Navneet Potti,Google
-Ajay J. Joshi,Google
-Ruli Manurung,Google
-John Cox,Google
-Thomas Dean,Google
-Golnaz Ghiasi,Google
-Ofer Meshi,Google
-Oddur Kjartansson,Google
-Ankur Bhargava,Google
-Daniel Cer,Google
-Andrew Selle,Google
-A Theeraphol,Google
-Neoklis Polyzotis,Google
-Siyang Qin,Google
-Carlos Colmenares,Google
-John Cieslewicz,Google
-Thomas K. Leung,Google
-Jie Ren,Google
-Alejandro Luebs,Google
-Ankit Jain,Google
-Robert W. Bowdidge,Google
-Astrid Weber,Google
-Ben Collins-Sussman,Google
-"Michael D. Howell, MD MPH",Google
-Shibani Sanan,Google
-Jingtao Wang,Google
-Cyril Allauzen,Google
-Deniz Oktay,Google
-Scott B. Huffman,Google
-Bruno M. Fonseca,Google
-Michael R. Marty,Google
-Wei-Yen Day,Google
-Da-Cheng Juan,Google
-Hannes Payer,Google
-Kedar Dhamdhere,Google
-Dominik Roblek,Google
-Jessa D. Mittleman,Google
-Andre Araujo,Google
-Raluca Sauciuc,Google
-Fabian Gallusser,Google
-Franjo Ivancic,Google
-B. Yang,Google
-Simon Baumgartner,Google
-Maryam Tohidi,Google
-Danny Tom,Google
-Tejinder K. Judge,Google
-Zhen Qin,Google
-Bozhena Bidyuk,Google
-Daniel Clifford,Google
-Xinyang Yi,Google
-Umesh Shankar,Google
-Charles Weill,Google
-Gaoang Bian,Google
-Lusann Yang,Google
-April Rasala Lehman,Google
-Tom Kwiatkowski,Google
-Aspi Siganporia,Google
-Swaroop Ramaswamy,Google
-Ranjith Unnikrishnan,Google
-Noah Fiedel,Google
-Maggie Johnson,Google
-Thomas Fu,Google
-Matthew Henderson,Google
-Vlad Tsyrklevich,Google
-Alvin Rishi Rajkomar,Google
-Vidhya Navalpakkam,Google
-Ritendra Datta,Google
-Jennimaria Palomaki,Google
-Martin Pál,Google
-Colin Cherry,Google
-Theo Sanderson,Google
-Subhasree Mandal,Google
-Li-Lun Wang,Google
-Yun Liu,Google
-Rodrigo Carceroni,Google
-Vinay Bettadapura,Google
-Sungjoon Choi,Google
-Tolga Bolukbasi,Google
-Marissa Giustina,Google
-Steffen Meschkat,Google
-Yair Movshovitz-Attias,Google
-Gabe Krabbe,Google
-Sandeep Govind Dhoot,Google
-Jacob Barrett,Google
-Alex Beutel,Google
-Gábor Bartók,Google
-Walid Krichene,Google
-Jingang Miao,Google
-Mario Callegaro,Google
-Will Drewry,Google
-Nevena Lazic,Google
-Yanping Huang,Google
-Jing Ai,Google
-Luheng He,Google
-Nandita Dukkipati,Google
-Amer Diwan,Google
-Stephanie Sapp,Google
-Lawrence S. Brakmo,Google
-Adam Sadilek,Google
-Kevin Canini,Google
-Lea Kissner,Google
-Yanzhang He,Google
-John Hershey,Google
-Katrina Sostek,Google
-Chieu Nguyen,Google
-James Kelly,Google
-Diana Borsa,Google
-Ashish Sharma,Google
-Kyra Singh,Google
-Amit Vainsencher,Google
-Guy Calvert,Google
-Ido Green,Google
-Colin Beske,Google
-Alessandro Presta,Google
-Michael Isard,Google
-Tipp Moseley,Google
-Jonathan Heek,Google
-John Penix,Google
-Dieterich Lawson,Google
-Daniel Mills,Google
-Taylor Marable,Google
-Derek Wu,Google
-Emily Johnston,Google
-Igor Bilogrevic,Google
-Félix de Chaumont Quitry,Google
-Kai Chen,Google
-Dave Bacon,Google
-Richard Zens,Google
-Julian Ibarz,Google
-Jiwoon Jeon,Google
-Chris Wren,Google
-Javier Snaider,Google
-Ke Yang,Google
-Mike Ando,Google
-Chris Sadler,Google
-Rama Kumar Pasumarthi,Google
-Dipanjan Das,Google
-Sebastian Schaffert,Google
-Yong Cheng,Google
-Alex Perry,Google
-Yuning Chai,Google
-Dan Dennison,Google
-Sam Hasinoff,Google
-Jim Reardon,Google
-William Chan,Google
-Robert Geisberger,Google
-Joonseok Lee,Google
-Jennifer Fernquist,Google
-Alexey Gusakov,Google
-Silvia Pareti,Google
-Christos Kozyrakis,Google
-Yaroslav Bulatov,Google
-Sue Lueder,Google
-Luca Bertelli,Google
-Konstantin Serebryany,Google
-Christian Daniel Howard,Google
-Ivan Neulander,Google
-Stephan Ellner,Google
-Kaihua Zhu,Google
-Kevin Wilson,Google
-Giulia DeSalvo,Google
-Richard F. Lyon,Google
-Shubin Zhao,Google
-Livio Baldini Soares,Google
-Cordelia Schmid,Google
-Vinay Shet,Google
-Chen Sun,Google
-Stephan Gudmundson,Google
-Brett Elliott,Google
-Jiawen Chen,Google
-Petros Maniatis,Google
-Sofien Bouaziz,Google
-Dina M. Betser,Google
-Alex Olwal,Google
-Zornitsa Kozareva,Google
-Krzysztof Maziarz,Google
-Kevin McCloskey,Google
-Bill N. Schilit,Google
-J. David Morgenthaler,Google
-Mohammad Mahdian,Google
-Leon Poutievski,Google
-Salvatore Candido,Google
-Genady Beryozkin,Google
-Lasse Espeholt,Google
-Tingbo Hou,Google
-Steven Ellis,Google
-Michael Schwarz,Google
-Mike Dusenberry,Google
-Hilary Hutchinson,Google
-Thierry Coppey,Google
-Abhishek Das,Google
-Yaogong Wang,Google
-Jonathan Huang,Google
-Reza Mahjourian,Google
-Sajid M. Siddiqi,Google
-John C. Platt,Google
-Ben Laurie,Google
-Alex Brik,Google
-Luiz André Barroso,Google
-Afshin Rostamizadeh,Google
-Dean Michael Berris,Google
-Kuzman Ganchev,Google
-Shakeel Butt,Google
-Praneet Dutta,Google
-Lei Yang,Google
-Edith Cohen,Google
-David Deutscher,Google
-Nitish Korula,Google
-CATALINA NARANJO-BOCK,Google
-Billy Lau,Google
-Dong Xin,Google
-Alex Alemi,Google
-Douglas Aberdeen,Google
-Robin Anil,Google
-Marta Recasens,Google
-Kay H. Brodersen,Google
-Nikolay Chirkov,Google
-Daan van Esch,Google
-Thomas Hofmann,Google
-Amarnag Subramanya,Google
-Archit Sharma,Google
-Gabor Simko,Google
-Kathy Baxter,Google
-Sameer Ajmani,Google
-Alistair C. Veitch,Google
-Daniel Myers,Google
-Vahab S. Mirrokni,Google
-Danny Raz,Google
-Himani Apte,Google
-Hsiao-keng Jerry Chu (朱曉耕),Google
-Suhani Vora,Google
-Nicholas Rubin,Google
-Omid Madani,Google
-Peter Shaw,Google
-Willem de Bruijn,Google
-Cibu C Johny,Google
-Ning Wang,Google
-Roy Frostig,Google
-Daniele Pighin,Google
-Suyog Gupta,Google
-Shuai Jiang,Google
-Sara L. Su,Google
-Marc Cartright,Google
-Brian Roark,Google
-Shun-Tak Leung,Google
-Kshitij Bansal,Google
-Raphaël Marinier,Google
-Muthuprasanna Muthusrinivasan,Google
-Jonathan Shen,Google
-Murtaza Motiwala,Google
-Jianmin Chen,Google
-Olivier Bachem,Google
-Alexandrin Popescul,Google
-Cliff L. Biffle,Google
-Chris Han,Google
-Pei-Yu (Peggy) Chi,Google
-Keshan Sodimana,Google
-Andrew O. Arnold,Google
-Andreas Rossberg,Google
-Ludwig Schubert,Google
-Ahmed Metwally,Google
-Quoc V. Le,Google
-David Sehr,Google
-Vera Axelrod,Google
-Steve Gribble,Google
-Alexander Potapenko,Google
-Assaf  Hurwitz-Michaely,Google
-Ian Kelly,Google
-Chad Whipkey,Google
-Jeffrey Ling,Google
-Felix Halim,Google
-Daniel Pierce Delorey,Google
-Ye Zhang,Google
-Ed Parsons,Google
-Peter H. Li,Google
-Ben Caine,Google
-David Cohn,Google
-Andrew Swerdlow,Google
-Ali Zand,Google
-Omer Boyaci,Google
-Fadi Biadsy,Google
-Nicholas Etienne Clinton,Google
-Chris Bond,Google
-Ciprian Chelba,Google
-Troy T. Chinen,Google
-John Lunney,Google
-Mark Lentczner,Google
-Konstantinos Katsiapis,Google
-Sridatta Chegu,Google
-Saurabh Saxena,Google
-Ori Folger,Google
-Jason Baldridge,Google
-Aren Jansen,Google
-Xiaobing Liu,Google
-Christoph Schütte,Google
-Ofir Nachum,Google
-David Glazer,Google
-Craig Chambers,Google
-Yinfei Yang,Google
-Adam Dickinson,Google
-Matthieu Devin,Google
-Marvin Ritter,Google
-Sam McVeety,Google
-Gal Chechik,Google
-Markus Rabe,Google
-Keith Stevens,Google
-Benjamin Börschinger,Google
-Mikhail Kozhevnikov,Google
-James Atwood,Google
-Helge Bahmann,Google
-Shobhit Saxena,Google
-Amin Vahdat,Google
-Healfdene Goguen,Google
-Andrew W. Senior,Google
-Mohammad Norouzi,Google
-Ken Caluwaerts,Google
-Daphne Luong,Google
-Philip MacKenzie,Google
-Megan Ruthven,Google
-Stephan Wolf,Google
-Jake Marcus,Google
-Lihong Li,Google
-Yu-An Chung,Google
-Manolis Delakis,Google
-Hanxiao Liu,Google
-Kurt Thomas,Google
-Kanishka Rao,Google
-Vincent Furnon,Google
-Quentin de Laroussilhe,Google
-Vijay D'Silva,Google
-Nicholas Chi-Yuen Kong,Google
-Matthew D. Hoffman,Google
-Lawrence Page,Google
-Chris Thompson,Google
-Sergey Brin,Google
-Hector Yee,Google
-Dhyanesh Narayanan,Google
-David Dohan,Google
-Ruoming Pang,Google
-Mario Guajardo-Céspedes,Google
-Been Kim,Google
-Scott Jenson,Google
-Asif Islam,Google
-Quan Wang,Google
-Paul M. Aoki,Google
-Rama Govindaraju,Google
-Natasha Noy,Google
-Fergus Henderson,Google
-Sangho Yoon,Google
-Zbigniew Wojna,Google
-Eric Lee Turner,Google
-Daniel Sank,Google
-Yongzhe Wang,Google
-Mike Perry,Google
-Deepak Kumar,Google
-Eric Giguere,Google
-Gagan Aggarwal,Google
-Roee Ebenstein,Google
-Hyeontaek Lim,Google
-Jialu Liu,Google
-Tyler Lu,Google
-Aidan N. Gomez,Google
-Sashank Reddi,Google
-Roee Engelberg,Google
-Gregory Kossinets,Google
-Ziv Bar-Yossef,Google
-Larry P. Heck,Google
-Liangliang Cao,Google
-Jeffrey Dean,Google
-Rene Mayrhofer,Google
-Moshe Looks,Google
-Vittorio Ferrari,Google
-Walfredo Cirne,Google
-Yunting Sun,Google
-Jan A. Botha,Google
-Dilek Hakkani-Tur,Google
-Tobias Flach,Google
-Max Senges,Google
-Sebastian Goodman,Google
-Eric Breck,Google
-Jonathan Zolla,Google
-Harry Bleyan,Google
-Rory Ward,Google
-Iulia-Maria Comșa,Google
-Dominique Shipmon,Google
-Mustaq Ahmed,Google
-David Berthelot,Google
-Holden Karau,Google
-Fabio Riccardi,Google
-Nadav Eiron,Google
-Julia Wilkowski,Google
-Mohammadreza Ghodsi,Google
-Zheng Xu,Google
-Tim Hesterberg,Google
-Jeffrey De Fauw,Google
-Peter J. Liu,Google
-Chi-yao Hong,Google
-Yang Song,Google
-Sayali Kulkarni,Google
-Aseem Agarwala,Google
-Vinton G. Cerf,Google
-Mingxing Tan,Google
-Tania Bedrax-Weiss,Google
-Ankit Singh Rawat,Google
-Corinna Cortes,Google
-Serena Lutong Wang,Google
-Boqing Gong,Google
-Nicolas Le Roux,Google
-Or Litany,Google
-Rafael Sanchez,Google
-Frederico Quintao,Google
-Nicolas Papernot,Google
-Hartwig Adam,Google
-Congcong Li,Google
-Julia Proskurnia,Google
-Francesco Piccinno,Google
-Arun Narayanan,Google
-Kasumi Widner,Google
-H. Brendan McMahan,Google
-David Reitter,Google
-Kyle Gorman,Google
-Steven Euijong Whang,Google
-Jia-Yu (Tim) Pan,Google
-Alex Fabrikant,Google
-John Martinis,Google
-Jianyong Zhang,Google
-Joshua Maynez,Google
-Derya Toka,Google
-Sylvain Gelly,Google
-Filip Radlinski,Google
-Tara Matthews,Google
-Michiel Bacchiani,Google
-Victoria Schwanda Sosik,Google
-Michael Collins,Google
-Mehdi S. M. Sajjadi,Google
-Reza Ghanadan,Google
-Adam Lelkes,Google
-Christoph Albrecht,Google
-Li Li,Google
-Phil Long,Google
-Seungil You,Google
-Danijar Hafner,Google
-Amol Kapoor,Google
-William W. Cohen,Google
-Lawrence Ip,Google
-Brad Chen,Google
-Tatiana Merkulova,Google
-Chong Wang,Google
-Li Zhang,Google
-Richard Tucker,Google
-Yunkai Zhou,Google
-Manaal Faruqui,Google
-Xiang Wu,Google
-Diane Lambert,Google
-Charles Sutton,Google
-Jean Pouget-Abadie,Google
-Zhi Xu,Google
-Trevor Strohman,Google
-Maithra Raghu,Google
-Elad Hazan,Google
-Derek Bruening,Google
-Mingcheng Chen,Google
-Mehran Bozorgi,Google
-Radu Jurca,Google
-Štěpán Davidovič,Google
-Piotr Zielinski,Google
-Sam Greydanus,Google
-Hasim Sak,Google
-Francisco Passos,Google
-Adel El-Atawy,Google
-Yuan Zhang,Google
-Song Zuo,Google
-Ed H. Chi,Google
-Sandeep Tata,Google
-Jasmine Hsu,Google
-Ashutosh Kulshreshtha,Google
-Craig Citro,Google
-Rory Sayres,Google
-Howard Zhou,Google
-Josh Lovejoy,Google
-Quang Anh Duong,Google
-Joseph Bonneau,Google
-Haomiao Jiang,Google
-Joachim Kupke,Google
-Mario Lucic,Google
-Anoop Korattikara,Google
-Kishore Papineni,Google
-Jakub Onufry Wojtaszczyk,Google
-Mrinal Kalakrishnan,Google
-George Tucker,Google
-Stefan Popov,Google
-Monique V. Vieira,Google
-Evan Jeffrey,Google
-Satnam Singh,Google
-Tom Madams,Google
-Aaron Archer,Google
-Jack Sim,Google
-Olga Kapralova,Google
-Melody Guan,Google
-Matt Tierney,Google
-Biswanath Panda,Google
-Jeff Klingner,Google
-Jamie Kiros,Google
-Steven Kearnes,Google
-Bruno De Backer,Google
-Greg Hecht,Google
-David Lomax,Google
-Dumitru Erhan,Google
-Roman Novak,Google
-Ashwinkumar Badanidiyuru Varadaraja,Google
-Benoit Steiner,Google
-Sacha Arnoud,Google
-Dotan Emanuel,Google
-Andrew Slater,Google
-Ahmed M. Aly,Google
-Alex Ingerman,Google
-Hui Fang,Google
-Jort Gemmeke,Google
-Lily Peng,Google
-Philip Guo,Google
-Geetanjali Sampemane,Google
-Zhonghua Xi,Google
-Ben Hutchinson,Google
-Christian Szegedy,Google
-Mohammad Izadi,Google
-Sugato Basu,Google
-Jana Strnadova,Google
-Hyun Oh Song,Google
-Renato Paes Leme,Google
-Tal Cohen,Google
-Tony Bruguier,Google
-Sarah Lucas,Google
-Juhyun Lee,Google
-Jon Orwant,Google
-Thang Luong,Google
-Weifeng Pan,Google
-Matthew Brown,Google
-Tao Dong,Google
-Michael Frumkin,Google
-Michael Brundage,Google
-Chun-an Chan,Google
-Andrew Zaldivar,Google
-Xinchen Yan,Google
-Marc G. Bellemare,Google
-Margaret Mitchell,Google
-Andrew Fandrianto,Google
-Hartmut Neven,Google
-Kevin Regan,Google
-Eric Christiansen,Google
-Kevin Kilgour,Google
-Jeremy Hurwitz,Google
-Niki Parmar,Google
-Jeremiah J. Harmsen,Google
-Rob Shakir,Google
-Kevin Swersky,Google
-Matthias Blume,Google
-David Talbot,Google
-Thomas Duebendorfer,Google
-Yu He,Google
-Jonathan Krause,Google
-Anton Bakhtin,Google
-Tara N. Sainath,Google
-Cedric F. Lam,Google
-Brent Bryan,Google
-Claire Kayacik,Google
-Yuchen Wu,Google
-Parisa Tabriz,Google
-Ryan H. Moulton,Google
-Yuan Xue,Google
-Wessam Hassanein,Google
-Slava Chernyak,Google
-Neil Houlsby,Google
-Francois Chollet,Google
-Sergey Ioffe,Google
-Jing Kong,Google
-Mohammad Saleh,Google
-Roberto J. Bayardo,Google
-Ming Zhao,Google
-Marek Fišer,Google
-Hieu Pham,Google
-Wolfgang Hess,Google
-Andreas Veit,Google
-Julio Angulo,Google
-Jonathan M. McCune,Google
-Nadav Golbandi,Google
-Rishabh Singh,Google
-Francois-Rene Rideau,Google
-Nicholas Carlini,Google
-Fuchun Peng,Google
-Sean Quinlan,Google
-Arvind Jain,Google
-Bill Byrne,Google
-Diomidis Spinellis,Google
-Anselm Levskaya,Google
-Shraman Ray Chaudhuri,Google
-Pat Stephenson,Google
-Justin T. Ho,Google
-Xiaojing Wang,Google
-Ashish Vijay Tendulkar,Google
-Xavier Velez,Google
-Alejandra Estanislao,Google
-Harikrishna Narasimhan,Google
-Ryan Harrison,Google
-Michael Hughes,Google
-David Konerding,Google
-Ali Elkahky,Google
-Nevin Heintze,Google
-Manya Sleeper,Google
-Arvind Satyanarayan,Google
-Michael Lippautz,Google
-Julien Tinnes,Google
-Yuk Wah Wong,Google
-Dayu Yuan,Google
-Dennis Abts,Google
-Jenny Chen,Google
-Ross McIlroy,Google
-Monika Podsiadło,Google
-David Weiss,Google
-Milad Hashemi,Google
-Patrick Riley,Google
-Sreenivas Gollapudi,Google
-Samy Bengio,Google
-Abhijit Mahabal,Google
-Garen Checkley,Google
-Zafarali Ahmed,Google
-Benjamin Eysenbach,Google
-Aliaksei Severyn,Google
-Marco Fornoni,Google
-Denis Baylor,Google
-Raphael Cendrillon,Google
-Tzvika Hartman,Google
-Jeremy Cole,Google
-Iulia Ion,Google
-Cheng Chen,Google
-Ahmed Taei,Google
-Uri Nadav,Google
-Andrew Adams,Google
-Shuang Yin,Google
-Mehmet Emre Sargin,Google
-Moti Yung,Google
-Arkanath Pathak,Google
-Chao-Yeh Chen,Google
-Mariano Schain,Google
-Mostafa Dehghani,Google
-Joshua S. Herbach,Google
-Jay Han,Google
-Alex Gilgur,Google
-Yannis Agiomyrgiannakis,Google
-Jeongwoo Ko,Google
-Diana Jaunzeikare,Google
-Ben Poole,Google
-Pushmeet Kohli,Google
-Milos Besta,Google
-Kristina N Toutanova,Google
-Sebastian Bruch,Google
-Valentin I. Spitkovsky,Google
-David Lowe,Google
-Nal Kalchbrenner,Google
-Ron Merom,Google
-Marcin Michalski,Google
-Craig Mermel,Google
-Madhukar R. Korupolu,Google
-Katherine Heller,Google
-Uday R. Naik,Google
-Andreas Terzis,Google
-Wei Wang,Google
-Chao Chen,Google
-Pauline Anthonysamy,Google
-Csaba Szepesvari,Google
-Manfred K. Warmuth,Google
-Kevin Millikin,Google
-Phillip Yelland,Google
-Dennis Fetterly,Google
-Hayes Raffle,Google
-Emily Fertig,Google
-Sherry Moore,Google
-Christian Plagemann,Google
-Tolga Kayadelen,Google
-John Khawam,Google
-Alexandre Mah,Google
-Kunal Talwar,Google
-Andrea Tagliasacchi,Google
-Noe Lutz,Google
-Joseph Roth,Google
-Gagan Bansal,Google
-John Palowitch,Google
-Boulos Harb,Google
-George Papandreou,Google
-Daniel Peng,Google
-Rich Cannings,Google
-Saurabh Singh,Google
-Warren Shen,Google
-Atil Iscen,Google
-Bryan Perozzi,Google
-Bo Dai,Google
-Rahul Sukthankar,Google
-Dean Jackson,Google
-Tim Blakely,Google
-Alan Papir,Google
-Deborah Weisser,Google
-Matthew Kelcey,Google
-Genzhi Ye,Google
-Azade Nazi,Google
-Michele Spagnuolo,Google
-Erwin Coumans,Google
-Amitabh Saikia,Google
-Joel Shor,Google
-Tobias Weyand,Google
-Murray Stokely,Google
-Bikash Koley,Google
-Peng Dai,Google
-Sean O'Malley,Google
-Dan Gillick,Google
-Zhiping Yang,Google
-Tim King,Google
-Alex Ainslie,Google
-Juan Lang,Google
-Carolina Parada,Google
-Christina Funk,Google
-Rehan Khan,Google
-Angelika Moscicki,Google
-Mark Sandler,Google
-Frank Dabek,Google
-James Bankoski,Google
-Alexander Toshev,Google
-Christian Stefansen,Google
-Frederic Didier,Google
-Ramprasad Venkataraman,Google
-Michele Covell,Google
-Weicheng Kuo,Google
-Aditya Bhaskara,Google
-Keith Bonawitz,Google
-Kevin Graney,Google
-Enrique Alfonseca,Google
-Anil Kokaram,Google
-Mia Chen,Google
-Rob Pike,Google
-Anastasios Kementsietsidis,Google
-Alexander Kolesnikov,Google
-Matthew Otey,Google
-Hongji Bao,Google
-Josh Mutus,Google
-Rif A. Saurous,Google
-Rachel Fan,Google
-Rishabh Agarwal,Google
-Ashish Gupta,Google
-Thomas Steiner,Google
-Balasubramanian Sivan,Google
-Georg Heigold,Google
-Matthew C. Loring,Google
-Xiance Si,Google
-Maxwell Bileschi,Google
-Jochen Eisinger,Google
-Laura A. Granka,Google
-Caitlin Taggart,Google
-Brett Slatkin,Google
-Ouais Alsharif,Google
-Andrew Rosenberg,Google
-Karan Singh,Google
-Andrew M. Dai,Google
-Arkajit Dey,Google
-Prabhakar Raghavan,Google
-Mila Hardt,Google
-Brian Tagiku,Google
-Ian Fischer,Google
-Nick Johnston,Google
-Nicholas Frosst,Google
-David Oppenheimer,Google
-Farhad Shahmohammadi,Google
-Hossein Mobahi,Google
-Ana Klimovic,Google
-Nicole Forsgren,Google
-Casey Burkhardt,Google
-Sean Augenstein,Google
-Kathryn Rough,Google
-Raviteja Vemulapalli,Google
-Evgeniy Stepanov,Google
-Ehsan Variani,Google
-Nemanja Petrovic,Google
-Kazoo Sone,Google
-Mitch Hatscher,Google
-Erich Elsen,Google
-Charles DuHadway,Google
-Eddie Pettis,Google
-Rafael Müller,Google
-Ankur Bapna,Google
-Ian Tenney,Google
-Feng Lu,Google
-Kshipra Bhawalkar,Google
-Benedikt Meurer,Google
-Sanketh Shetty,Google
-Jeremy Rahe,Google
-James B. Wendt,Google
-Matthias Ruhl,Google
-Jonathan Berant,Google
-Ioannis Tsochantaridis,Google
-Lluis Garcia-Pueyo,Google
-David Wetherall,Google
-Andrew Harp,Google
-Stéphane Lafon,Google
-Maxwell D. Collins,Google
-Aditi Viswanathan,Google
-Hyrum Wright,Google
-Laszlo Szekeres,Google
-Avneesh Sud,Google
-John D. Perreault,Google
-Richard Rose,Google
-Shankar Kumar,Google
-Noah Snavely,Google
-Ian Langmore,Google
-Mateusz Malinowski,Google
-David Steiner,Google
-Yasaman Bahri,Google
-Erika Rice Scherpelz,Google
-David Thau,Google
-Alexei Czeskis,Google
-Dan Ellis,Google
-Sagi Perel,Google
-Fei Xiao,Google
-Mike Schuster,Google
-Jess Holbrook,Google
-Bridget Spitznagel,Google
-Yao-Chung Lin,Google
-Piotr Teterwak,Google
-Josh Bailey,Google
-Yun-hsuan Sung,Google
-Finnegan Southey,Google
-Kaveh Shahabi,Google
-Peter Dienes,Google
-Adnan Ozturel,Google
-bertrand Le cun,Google
-Gary R. Holt,Google
-Cheng Yi,Google
-Radhika Niranjan Mysore,Google
-Andre Gaschler,Google
-Vincent Simonet,Google
-Pradyumna Narayana,Google
-Ekaterina Gonina,Google
-Dana Movshovitz-Attias,Google
-Eugene Weinstein,Google
-Nicolas Remy,Google
-Srinivas Vasudevan,Google
-Christopher Olah,Google
-Ye Jia,Google
-Le Zhao,Google
-Yasemin Altun,Google
-Charles Reis,Google
-Zan Armstrong,Google
-Goetz Graefe,Google
-Jacques Pienaar,Google
-Kerry Rodden,Google
-Lauren Wilcox,Google
-Hugo Larochelle,Google
-Matthias Minderer,Google
-Jon Feldman,Google
-Ted Baltz,Google
-Andreas Moser,Google
-Joe Gregorio,Google
-Ivan Bogatyy,Google
-Carrie Grimes Bostock,Google
-Chad Yoshikawa,Google
-Nishant Patil,Google
-Monica Dinculescu,Google
-Juergen Sturm,Google
-Yongwei Yang,Google
-Anand Kanagala,Google
-Cayden Meyer,Google
-Anne-Claire Haury,Google
-Golan Pundak,Google
-Michael Abd-El-Malek,Google
-Varun Gulshan,Google
-Jack Hebert,Google
-Kathryn S. McKinley,Google
-Marc Najork,Google
-Olivia Redfield,Google
-Chun-Ta Lu,Google
-Matthias Grundmann,Google
-Nevan Wichers,Google
-Yin-Wen Chang,Google
-Fernando V. Bonassi,Google
-Jakub Łącki,Google
-Bryan Seybold,Google
-Adam Feldman,Google
-Jahangir Hasan,Google
-Wolfgang Grieskamp,Google
-Gilad Bracha,Google
-Michael Piatek,Google
-Tianli Yu,Google
-Michael Bendersky,Google
-Luca Invernizzi,Google
-Behnam Bastani,Google
-Abhinav Shrivastava,Google
-Ramón Medrano Llamas,Google
-Jay Busch,Google
-Kayur Patel,Google
-Ignacio Lopez Moreno,Google
-Gaurav Singh Tomar,Google
-Mohammad Sajjad Hossain,Google
-Rong Liu,Google
-Yuan Yu,Google
-Dustin Tran,Google
-Jacob Devlin,Google
-Weisi Dai,Google
-Flavien Prost,Google
-Ariel Gordon,Google
-Samuel L. Smith,Google
-Praveen Paritosh,Google
-Yue Chen,Google
-Ananth Raghunathan,Google
-Minmin Chen,Google
-Evgeniy Gabrilovich,Google
-Terry Lam,Google
-Liviu Panait,Google
-Oleksandr Zinenko,Google
-Oskar Sandberg,Google
-Igor Naverniouk,Google
-Mohsen Vakilian,Google
-Trevor Gale,Google
-Mike Tyka,Google
-Bhargav Kanagal,Google
-Denton Gentry,Google
-Rupa Krishnan,Google
-Telmo Pires,Google
-Slav Petrov,Google
-Tianjian Lu,Google
-Andrea Spadaccini,Google
-Tiziana Refice,Google
-Jayanthkumar Kannan,Google
-Arran Schlosberg,Google
-Abhinandan Das,Google
-Rui Zhao,Google
-Oscar Täckström,Google
-Avinatan Hassidim,Google
-Tomáš Ižo,Google
-Sagar Jain,Google
-Vitaly Feldman,Google
-Françoise Beaufays,Google
-Rina Panigrahy,Google
-David Akers,Google
-Cliff Sze,Google
-Xin Luna Dong,Google
-Jennifer Petoff,Google
-Alexander Gruenstein,Google
-Chris Bregler,Google
-Gamaleldin Fathy Elsayed,Google
-Paul J. Turner,Google
-Yin Cui,Google
-Seth Ladd,Google
-Sara Sabour,Google
-David F. Bacon,Google
-Andy Davis,Google
-Keren Gu,Google
-Todd Phillips,Google
-Raziel Alvarez,Google
-Bernhard Friedrich Brodowsky,Google
-Karol Hausman,Google
-Bart Samwel,Google
-Scott Satkin,Google
-Dale Woodford,Google
-Chinnadhurai Sankar,Google
-Roee Aharoni,Google
-Utku Evci,Google
-Gokhan Tur,Google
-David Mease,Google
-Xiaoqiang Zheng,Google
-Dina Papagiannaki,Google
-Christine Maiquyen Luu,Google
-Alireza Ghaffarkhah,Google
-Vighnesh Birodkar,Google
-Jonathan B. Phillips,Google
-Gabriel Ilharco Magalhaes,Google
-Niels Provos,Google
-Jennifer L. Gove,Google
-Chen Gu,Google
-Soheil Hassas Yeganeh,Google
-Alexander Gorban,Google
-Chris Alberti,Google
-Nikhil Sharma,Google
-Ami Patel,Google
-Julie Cattiau,Google
-Rob Anderson,Google
-Sridhar Srinivasan,Google
-Stefan Holmer,Google
-Irwan Bello,Google
-Richard Chiburis,Google
-Edgar A. Duéñez Guzmán,Google
-Yasuhisa Fujii,Google
-Yuan Yuan,Google
-Nan Ding,Google
-Lode Vandevenne,Google
-Dan Steinberg,Google
-Jarek Kusmierek,Google
-Johan G. Granstrom,Google
-Ryan Babbush,Google
-Alexander De Luca,Google
-Huazhong Ning,Google
-Jakub Konecny,Google
-Stéphane Soppera,Google
-Hugues Hoppe,Google
-Amit Singhal,Google
-Ilya Mironov,Google
-Bor-Yiing Su,Google
-Andrew Allen,Google
-Charles Spirakis,Google
-Alan Skelley,Google
-Eli Bendersky,Google
-Eirikur Agustsson,Google
-Krzysztof Ostrowski,Google
-Alexander D'Amour,Google
-Ulrich Rueckert,Google
-Carlos Riquelme,Google
-Daniel V. Klein,Google
-Pararth Shah,Google
-Keun Soo Yim,Google
-Cheng Li,Google
-Martin Ortlieb,Google
-Xiaohua Zhai,Google
-Daniel Smilkov,Google
-Michelle Dimon,Google
-Hui Miao,Google
-Olivier Siohan,Google
-Robert W. Reeder,Google
-Rohan Anil,Google
-Fernanda Viegas,Google
-Bay-Wei Chang,Google
-Bruno Cartoni,Google
-Mehdi Sharifzadeh,Google
-Olivier Pietquin,Google
-Xiangyu Wang,Google
-Ta'id Holmes,Google
-Andrey Zhmoginov,Google
-Parisa Haghani,Google
-Vihan Jain,Google
-Silvio Lattanzi,Google
-Alexander Ku,Google
-Ulan Degenbaev,Google
-Rodrigo Damazio,Google
-Ashish Raniwala,Google
-Sean Blaes,Google
-Boris Smus,Google
-George Foster,Google
-Sergei Glazunov,Google
-Robert Dadashi,Google
-Chanwoo Kim,Google
-John S. Webb,Google
-Naeem Esfahani,Google
-Yury Pisarchyk,Google
-Ehud Rivlin,Google
-Marc Nunkesser,Google
-Quan Geng,Google
-Robert Spalek,Google
-Vitaly Nikolaev,Google
-Rastislav Lenhardt,Google
-Maya Gupta,Google
-Ken Dauber,Google
-Michael Vrable,Google
-Hugo Penedones,Google
-Andrea Knight,Google
-Svilen Kanev,Google
-Xiaojun Bi,Google
-Thomas Deselaers,Google
-Isabelle Stanton,Google
-Marko Ivanković,Google
-Radek Vingralek,Google
-Emily Stark,Google
-Bradley Taylor,Google
-Kentaro Hara,Google
-JJ Lueck,Google
-Daisy Stanton,Google
-Harish Chandran,Google
-Effrosyni Kokiopoulou,Google
-Noor Ali-Hasan,Google
-Vasil S. Denchev,Google
-Josh Levenberg,Google
-Edward K. Smith,Google
-Ari Morcos,Google
-Robert Griesemer,Google
-Yuxue Jin,Google
-Janne Kontkanen,Google
-Vincent Wan,Google
-Daniel von Dincklage,Google
-Roy Tromble,Google
-You (Will) Wu,Google
-Seungyeon Kim,Google
-Rahul Gupta,Google
-Akosua Busia,Google
-Daniel Hewlett,Google
-Arnaud Sahuguet,Google
-Andrei Kulik,Google
-Michael Burrows,Google
-Timur Iskhodzhanov,Google
-Hee Jung Ryu,Google
-Jing Xie,Google
-Jessica Kirchner,Google
-Alexander Totok,Google
-Ramakrishnan Srikant,Google
-Penporn Koanantakool,Google
-Jennifer N. Wei,Google
-Kunal Taneja,Google
-Hyduke Noshadi,Google
-Clement Courbet,Google
-Raghav Gupta,Google
-Aurko Roy,Google
-Goran Petrovic,Google
-Qifan Wang,Google
-Marc Berndl,Google
-Bob Felderman,Google
-Anelia Angelova,Google
-Jichuan Chang,Google
-Alfred Z. Spector,Google
-Lieven Verslegers,Google
-Yaowu Xu,Google
-Trieu H. Trinh,Google
-John Paul Alex,Google
-Maryam Kamvar,Google
-Davi de Castro Reis,Google
-Will Hayworth,Google
-Minghui Shi,Google
-Rahul Garg,Google
-Chris Chapman,Google
-Daniel Keysers,Google
-Claudio Criscione,Google
-Lukas Weichselbaum,Google
-Daniel S. Park,Google
-Alexandros Andre Chaaraoui,Google
-Keon Jang,Google
-Mark Woodward,Google
-Illia Polosukhin,Google
-Jeff Shute,Google
-Bhaskar Mehta,Google
-Jianing Wei,Google
-Vahid Kazemi,Google
-Moustafa A. Hammad,Google
-Krishnendu Chaudhury (aka Krish Chaudhury),Google
-Colin Evans,Google
-Evan Leonard,Google
-Christine Robson,Google
-Narayan Hegde,Google
-Alan Su,Google
-Eric Tune,Google
-Balint Miklos,Google
-Priyam Dutta,Google
-Patrick Hummel,Google
-Nathan Coehlo,Google
-Rebecca Isaacs,Google
-Jarrod R. McClean,Google
-Tanvir Amin,Google
-Jindong (JD) Chen,Google
-Maria-Ines Carrera,Google
-Sneha Reddy Kudugunta,Google
-Mahesh Palekar,Google
-Shixiang (Shane) Gu,Google
-Andrew Widdowson,Google
-Geoffrey E. Hinton,Google
-Richard M. Conlan,Google
-Neha Nayak,Google
-Rafael Fernández-Moctezuma,Google
-Dillon Sharlet,Google
-Doug Kwan,Google
-Pavel Sountsov,Google
-Brendan Jou,Google
-Joseph Kelly,Google
-Chris Frost,Google
-Emily Pitler,Google
-Francois Belletti,Google
-Yuan Wang,Google
-Stephan Hoyer,Google
-Mustafa Emre Acer,Google
-Pasindu De Silva,Google
-Elizabeth Churchill,Google
-Ozan Cakmakci,Google
-Shabsi Walfish,Google
-David L. Presotto,Google
-Rob Clark,Google
-Laura Vardoulakis,Google
-Fred Bertsch,Google
-Damien Desfontaines,Google
-Petar Aleksic,Google
-Min Wang,Google
-Stefano Mazzocchi,Google
-Anna Turner,Google
-Xiaobo Fan,Google
-Ott Tinn,Google
-Krzysztof Kotowicz,Google
-Carl Staelin,Google
-Nav Jagpal,Google
-David A. Ross,Google
-Amelia Archer,Google
-D. Sculley,Google
-Anthony Francis,Google
-Marc Pickett,Google
-Mark S. Miller,Google
-Sebastian Lekies,Google
-Aleksey Boyko,Google
-Negin (Nicki) Golrezaei,Google
-Jun Xu,Google
-Yuchung Cheng 鄭又中,Google
-Thomas Colthurst,Google
-Timothy Yang,Google
-Jennifer Zamora,Google
-Emmanuel Guere,Google
-Michael Tseng,Google
-Jie Tan,Google
-George Toderici,Google
-Paul Barham,Google
-Irippuge Milinda Perera,Google
-Felicia S. C. Lim,Google
-Louis Wasserman,Google
-Haim Kaplan,Google
-Gabriel Kliot,Google
-Alok Kumar,Google
-David Martin,Google
-Marina Kobayashi,Google
-Blake Lemoine,Google
-James Laudon,Google
-Martin Wattenberg,Google
-Stephanie C.Y. Chan,Google
-Jeff Bailey,Google
-Leonid Velikovich,Google
-Dylan Freedman,Google
-Austin Waters,Google
-Jouni Kerman,Google
-Chandler Carruth,Google
-Robert E. Gruber,Google
-Vineet Gupta,Google
-John DeNero,Google
-Ruiqi Guo,Google
-Ashok Popat,Google
-Arvind Neelakantan,Google
-Prajit Ramachandran,Google
-Manoj Plakal,Google
-Emerson Murphy-Hill,Google
-Wei Zhang,Google
-Alejandro Estrella-Balderrama,Google
-Håkan L. S. Younes,Google
-Pawel Lichocki,Google
-Tyler Akidau,Google
-Tom Kenter,Google
-Damien Kelly,Google
-Kellie Webster,Google
-Barclay Osborn,Google
-Mykhaylo Andriluka,Google
-Felix X. Yu,Google
-Michael Cohen,Google
-Sean Dorward,Google
-Dravyansh Sharma,Google
-Ellie Pavlick,Google
-Bram Bonné,Google
-Cliff Young,Google
-Gil Shamir,Google
-Jiecao Chen,Google
-Ryohei Urata,Google
-K. Shirriff,Google
-Anne Aula,Google
-Pushkar Tripathi,Google
-Vincent Perot,Google
-Marina Ganea,Google
-Pierre Sermanet,Google
-Diego Ardila,Google
-Matt Welsh,Google
-Ravi Jain,Google
-Man Kit (Joe) Cheuk,Google
-Jayant Madhavan,Google
-Tushar Deepak Chandra,Google
-Ido Cohn,Google
-Viren Jain,Google
-Ting Liu,Google
-Cory McLean,Google
-Urvang Joshi,Google
-Mandy Guo,Google
-Joe Jiang,Google
-Rasmus Munk Larsen,Google
-Jan Wassenberg,Google
-Aaron Sedley,Google
-Bartosz Przydatek,Google
-Austin Fowler,Google
-Zoran Dimitrijević,Google
-Ray Smith,Google
-Pranav Khaitan,Google
-Max Moroz,Google
-Ryan Poplin,Google
-Eric Battenberg,Google
-Sanjiv Kumar,Google
-David Majnemer,Google
-JC van Winkel,Google
-Rachel Potvin,Google
-Wiesner Vos,Google
-Niru Maheswaranathan,Google
-Tingnan Zhang,Google
-Hailong Cai,Google
-Samuel J. Yang,Google
-Xiaozhou Li,Google
-Jie Jessie Ren,Google
-Sam Whittle,Google
-Lukasz Kaiser,Google
-Dror Aiger,Google
-Benjamin Lee,Google
-Ondrej Sykora,Google
-Shailesh Kumar,Google
-Nitin Gupta,Google
-Patrick Copeland,Google
-Bin Shen,Google
-John Field,Google
-Li Zhang,Google
-Masrour Zoghi,Google
-Jan Pfeifer,Google
-Sowmya Karunakaran,Google
-Rohit Jnagal,Google
-Albert Cohen,Google
-Ted Hardie,Google
-Thomas C. Walters,Google
-Luke Church,Google
-Marija Mikic-Rakic,Google
-Tamas Sarlos,Google
-Marius Pasca,Google
-Henrik Stewénius,Google
-Azalia Mirhoseini,Google
-Arnar Birgisson,Google
-Niket Agarwal,Google
-Julius Adebayo,Google
-Johnny Chung Lee,Google
-Pete Warden,Google
-David Sussillo,Google
-Xiao Yu,Google
-Xuanhui Wang,Google
-Cédric Deltheil,Google
-Decheng Dai,Google
-John Wilkes,Google
-Wei Wei,Google
-Oriol Vinyals,Google
-Marc Donner,Google
-Olivier Bousquet,Google
-Sebastian Kirsch,Google
-Robert Ormandi,Google
-Cong Yu,Google
-Ana Radovanovic,Google
-Stefan Hinterstoisser,Google
-Satyen Kale,Google
-Heng-Tze Cheng,Google
-Po-Hsuan Cameron Chen,Google
-Eduard Trulls,Google
-Josh Hyman,Google
-Dmitry Storcheus,Google
-Mohammad Taghi Saffar,Google
-Geoffrey Irving,Google
-Aakanksha Chowdhery,Google
-Robert Hundt,Google
-Javier Tordable,Google
-Kenton Lee,Google
-Nikhil Rao,Google
-Philip Quinn,Google
-Honglak Lee,Google
-Zhongyi (Cherie) Shi,Google
-Ravi Kumar,Google
-Alexandre Tachard Passos,Google
-Xiao Zhang,Google
-Hrishikesh Aradhye,Google
-Jeremy Ginsberg,Google
-Arno Eigenwillig,Google
-Alex Wiltschko,Google
-Sara Hooker,Google
-Edward E. Aftandilian,Google
-Klaus Macherey,Google
-Leif Johnson,Google
-Russell Lee-Goldman,Google
-Úlfar Erlingsson,Google
-Liu Yang,Google
-Robert Bradshaw,Google
-Kurt Partridge,Google
-Thomas Mensink,Google
-Adrienne Porter Felt,Google
-Tony Gentilcore,Google
-Chenyang Zhang,Google
-Jana Iyengar,Google
-Mohammed Attia,Google
-Shumeet Baluja,Google
-Kumar Krishna Agrawal,Google
-Rebecca Moore,Google
-Annalisa Pawlosky,Google
-Sella Nevo,Google
-Michael Starzinger,Google
-Jon Vaver,Google
-Jingning Han,Google
-Sameer Agarwal,Google
-Derek Zhiyuan Cheng,Google
-Bruno Possas,Google
-Youlong Cheng,Google
-Yunfei Bai,Google
-Pascal Getreuer,Google
-Joe Faith,Google
-Nick Black,Google
-David Fork,Google
-Xiaoxue Zhao,Google
-Nithum Thain,Google
-Paul Covington,Google
-Beat Gfeller,Google
-Paulo Braz Golgher,Google
-Dmitry Vyukov,Google
-Tali Dekel,Google
-Suming Jeremiah Chen,Google
-Sandy Ritchie,Google
-Yun-Ta Tsai,Google
-Eyal Carmi,Google
-Greg Kochanski,Google
-Lin Liao,Google
-Georg M. Goerg,Google
-Mirjam Wattenhofer,Google
-Dustin Zelle,Google
-Jeffrey C. Mogul,Google
-Paul Nordstrom,Google
-Andy Zeng,Google
-Justin McWilliams,Google
-Kevin S. McCurley,Google
-Dan Zigmond,Google
-Zhang Jiang,Google
-Ian Simon,Google
-Isin Demirsahin,Google
-Lawrence Ying,Google
-Aniket Mokashi,Google
-Lucas Beyer,Google
-Oran Lang,Google
-Lechao Xiao,Google
-Aditya Paliwal,Google
-Neal Cardwell,Google
-Amir Yazdanbakhsh,Google
-Philippe Hamel,Google
-Debargha Mukherjee,Google
-Yi Liu,Google
-Wolfgang Macherey,Google
-Caitlin Sadowski,Google
-Robert Love,Google
-Daniel Golovin,Google
-Andrew Gallagher,Google
-Zoya Svitkina,Google
-Shanqing Cai,Google
-Chunhui Gu,Google
-Michal Jastrzebski,Google
-George Dahl,Google
-Michael Rubinstein,Google
-Fereshteh Sadeghi,Google
-Holger Rapp,Google
-Kostas Kollias,Google
-Xuezhi Wang,Google
-Brandon Yang,Google
-Chia-Kai Liang,Google
-Juri Ganitkevitch,Google
-David K. Rensin,Google
-Meire Fortunato,Google
-Mei Han,Google
-Pablo Samuel Castro,Google
-James J. Kuffner,Google
-Gunjan Baid,Google
-Daniel M. Russell,Google
-Alexander W. Blocker,Google
-Luis Antonio Perez,Google
-Elin Rønby Pedersen,Google
-Gurmeet Singh Manku,Google
-Kai Kohlhoff,Google
-Steven Hickson,Google
-Gleb Mazovetskiy,Google
-David Gallup,Google
-Vijay Vasudevan,Google
-Quan Nguyen,Google
-Zachary Nado,Google
-Jiongxin Jin,Google
-Ke Hu,Google
-Zvika Ben-Haim,Google
-Adam Roberts,Google
-Jhilmil Jain,Google
-Alexander Gutkin,Google
-William T. Freeman,Google
-Scott Schwartz,Google
-Aaron Cheang,Google
-David Morris Hoffman,Google
-Ekaterina Ignasheva,Google
-Xiaoqiang Luo,Google
-Michael Dikovsky,Google
-Peng Xu,Google
-Paul (Tony) Watson,Google
-Vijay Vusirikala,Google
-Juan Antonio Elices Crespo,Google
-Parthasarathy Ranganathan,Google
-Andrew Hard,Google
-Evgeny Skvortsov,Google
-Amr Ahmed,Google
-Chandrasekhar Boyapati,Google
-Derek G. Murray,Google
-Michael Dietz,Google
-Ameesh Makadia,Google
-Henry A. Rowley,Google
-David Pal,Google
-Dara Bahri,Google
-Olga Wichrowska,Google
-Jay Yagnik,Google
-Hao Zhang,Google
-Liang-Chieh Chen,Google
-Wei Li,Google
-Thad Hughes,Google
-Patrick Bowen,Google
-Zhen Li,Google
-Uri Lerner,Google
-Richard Hay,Google
-Julius Kammerl,Google
-Emmanuel Mogenet,Google
-Roy Want,Google
-Aranyak Mehta,Google
-Michael Ringgaard,Google
-Abhishek Kumar,Google
-Kun Lin,Google
-Hongil Yoon,Google
-Vignesh Ganapathy,Google
-Ilan Horn,Google
-Aaron D'Souza,Google
-Milo Martin,Google
-Victor Carbune,Google
-Liang Jia,Google
-Michael DeWitt,Google
-Shumin Zhai,Google
-David Belanger,Google
-Konstantinos Bousmalis,Google
-Sam Sudar,Google
-Manan Shah,Google
-Mohamed Elfeky,Google
-Jing Conan Wang,Google
-Michal Segalov,Google
-Andrew Tomkins,Google
-Liz Looney,Google
-Theresa Breiner,Google
-Jeffrey Sorensen,Google
-Vincent Vanhoucke,Google
-(June) Yuan Shangguan,Google
-Ankur Parikh,Google
-Moheeb Abu Rajab,Google
-Jarek Wilkiewicz,Google
-Subhodeep Moitra,Google
-Mosha Pasumansky,Google
-Jannis Bulian,Google
-Marcel Hlopko,Google
-Betsy (Adrienne Elizabeth) Beyer,Google
-Vivek Kwatra,Google
-Qiqi Yan,Google
-Mehryar Mohri,Google
-Adam Bloniarz,Google
-Hao-Tien Lewis Chiang,Google
-Ian Lance Taylor,Google
-Collin Winter,Google
-Andrew T. Miller,Google
-Yoshikiyo Kato,Google
-Jai Gupta,Google
-Pavel Simakov,Google
-Chris Quintana,Google
-Yael Pritch Knaan,Google
-Julian Kelly,Google
-Mahima Pushkarna,Google
-Tsuwei Chen,Google
-Zhe Li,Google
-Casey Whitelaw,Google
-Michal Lukasik,Google
-Cristian Sminchisescu,Google
-Michael Stay,Google
-SHEN-FU TSAI,Google
-Marcus Fontoura,Google
-Gang Li,Google
-Ankur Taly,Google
-Matthieu Geist,Google
-Ruofei Du,Google
-Ivan Grishchenko,Google
-Hongbo Deng,Google
-Sen Zhao,Google
-Matt Pharr,Google
-Vinodkumar Prabhakaran,Google
-Lev Shamardin,Google
-Mohamed Elhawary,Google
-Jiquan Ngiam,Google
-Muthian Sivathanu,Google
-Shuguang Han,Google
-Dale Schuurmans,Google
-Panayiotis Mavrommatis,Google
-Etienne Pot,Google
-Ryan Sepassi,Google
-Jeffrey van Gogh,Google
-Gregory Collins,Google
-Ananya Misra,Google
-Jen Tong,Google
-Mor Geva,Google
-Pieter-jan Kindermans,Google
-Qi Zhao,Google
-Khe Chai Sim,Google
-Peter Norgaard,Google
-Knot Pipatsrisawat,Google
-Michael Gygli,Google
-Zhifeng Chen,Google
-David Huffaker,Google
-Andrea Gesmundo,Google
-Ben L. Titzer,Google
-Christopher Semturs,Google
-Sergio Guadarrama,Google
-Idan Szpektor,Google
-Matthew Streeter,Google
-Wei Ding,Google
-Jennifer Wang,Google
-Brad Penoff,Google
-Dvir Kafri,Google
-William D Heavlin,Google
-Christian Buck,Google
-Martin Wicke,Google
-Evangelos Kanoulas,Google
-Sebastian Krause,Google
-Denny Vrandečić,Google
-Sai Teja Peddinti,Google
-Michael De Rosa,Google
-Neil Fraser,Google
-Melvin Johnson,Google
-David X. Chan,Google
-Supheakmungkol Sarin,Google
-Hank Liao,Google
-Younghee Kwon,Google
-Niall Murphy,Google
-Ricardo A Garcia,Google
-Sudheendra Vijayanarasimhan,Google
-Renaud Hartert,Google
-Chen Wang,Google
-Naty Leiser,Google
-Jay Adams,Google
-Lamtharn (Hanoi) Hantrakul,Google
-Anton Geraschenko,Google
-Saurabh Kumar,Google
-Ali Mousavi,Google
-Nithya Sambasivan,Google
-Martin Jansche,Google
-Paolo M Piselli,Google
-Masoud Mohseni,Google
-Janak Ramakrishnan,Google
-Mohammadhossein Bateni,Google
-Caroline Pantofaru,Google
-Caglar Gulcehre,Google
-Debidatta Dwibedi,Google
-Sami Boukortt,Google
-Felipe Goldstein,Google
-Hossein Ahmadi,Google
-Atul Adya,Google
-Liqun Cheng,Google
-David Soergel,Google
-Lamia Youseff,Google
-Daniel Freedman,Google
-Brian W. Fitzpatrick,Google
-Michael Riley,Google
-Derek Schuff,Google
-Heidi Lam,Google
-Noel Gorelick,Google
-Ron J. Weiss,Google
-Michael Fink,Google
-Shanxiang Qi,Google
-Boyang Deng,Google
-Javier A. Bargas-Avila,Google
-Jill Palzkill Woelfer,Google
-Dario Freni,Google
-Vinay Rao,Google
-Oxana Comanescu,Google
-Nan Du,Google
-Matthew Simpson,Google
-Daniel Freeman,Google
-Anthony J. Nicholson,Google
-Branislav Kveton,Google
-Changkyu Kim,Google
-Judy Chen,Google
-James C. Corbett,Google
-Qin Gao,Google
-Okan Kolak,Google
-Bo Li,Google
-Eva Schlinger,Google
-Peter Norvig,Google
-Scott Wisdom,Google
-Valey Kamalov,Google
-Rob Siemborski,Google
-Damon Kohler,Google
-Hassan Wassel,Google
-Moritz Hardt,Google
-Chung-Cheng Chiu,Google
-Pedro J. Moreno,Google
-Yonathan Schwarzkopf,Google
-Izhak Shafran,Google
-Shravan Rayanchu,Google
-Domagoj Babic,Google
-Jing (David) Dai,Google
-Dirk Balfanz,Google
-Jakob Uszkoreit,Google
-Manish Purohit,Google
-Sebastian Schnorf,Google
-Hyoun Kyu Cho,Google
-Brian Patton,Google
-Andrew W. Moore,Google
-Matthew Neeley,Google
-Lu Jiang,Google
-Celal Ziftci,Google
-Katja Filippova,Google
-Jascha Sohl-dickstein,Google
-Sujith Ravi,Google
-John Micco,Google
-Vijay Janapa Reddi,Google
-Vladimir Macko,Google
+Shaozhi Ye,Google,ShaozhiYe.html
+Jim Shuma,Google,JimShuma.html
+Esteban Real,Google,EstebanReal.html
+Liz Fong-Jones,Google,105479.html
+Ariel Gutman,Google,105627.html
+Rianne van den Berg,Google,RiannevandenBerg.html
+Ryan McDonald,Google,author32317.html
+Jason Schiller,Google,JasonSchiller.html
+Anton Raichuk,Google,AntonRaichuk.html
+Vikas Sindhwani,Google,VikasSindhwani.html
+Stefan Heule,Google,StefanHeule.html
+Orhan Firat,Google,105696.html
+Sherol Chen,Google,105793.html
+Andrew Ferraiuolo,Google,106061.html
+ALEXEY KOLESNIKOV,Google,106615.html
+Xavi Gonzalvo,Google,XaviGonzalvo.html
+Deborah Cohen,Google,105826.html
+Beryl Nelson,Google,BerylNelson.html
+Eduardo Pinheiro,Google,author1777.html
+Yu Zhang,Google,105680.html
+Rami Barends,Google,RamiBarends.html
+Forrester Cole,Google,ForresterCole.html
+Jaehoon Lee,Google,JaehoonLee.html
+Larry Lindsey,Google,LarryLindsey.html
+Wolf-Dietrich Weber,Google,author10649.html
+Shuang Song,Google,106460.html
+Janara Christensen,Google,106418.html
+Karol Kurach,Google,KarolKurach.html
+Ming-Hsuan Yang,Google,105989.html
+Ni Lao,Google,105037.html
+Greg Dennis,Google,GregDennis.html
+Viet Dang,Google,106409.html
+Krzysztof Choromanski,Google,KrzysztofChoromanski.html
+Surojit Chatterjee,Google,106271.html
+J. Chase Kew,Google,JChaseKew.html
+Kurt Alfred Kluever,Google,author37822.html
+Dmitry Lizorkin,Google,author39292.html
+Dan Moldovan,Google,DanMoldovan.html
+Shawn Hershey,Google,105584.html
+Alexey Gritsenko,Google,AlexeyGritsenko.html
+Marianne Berkovich,Google,MarianneBerkovich.html
+Jennifer Wang,Google,105485.html
+Honggang Sheng,Google,HonggangSheng.html
+Yoel Drori,Google,105618.html
+Yueqing Wang,Google,105228.html
+RJ Skerry-Ryan,Google,RJSkerryRyan.html
+Gleb Skobeltsyn,Google,GlebSkobeltsyn.html
+Yossi Matias,Google,YossiMatias.html
+Jonas Jongejan,Google,JonasJongejan.html
+Simon Glass,Google,SimonGlass.html
+Hong Liu,Google,author3723.html
+Rohit Prabhavalkar,Google,RohitPrabhavalkar.html
+Daniel Andor,Google,DanielAndor.html
+Dan B Goldman,Google,DanBGoldman.html
+David Rybach,Google,DavidRybach.html
+Elizeu Santos-Neto,Google,ElizeuSantosNeto.html
+Martin Churchill,Google,MartinChurchill.html
+Mona Attariyan,Google,MonaAttariyan.html
+Jasper Snoek,Google,105484.html
+Abhishek Verma,Google,AbhishekVerma.html
+Ashwin Ganti,Google,author37533.html
+Tyler Pirtle,Google,TylerPirtle.html
+Dave O'Connor,Google,DaveOConnor.html
+Xiang Wang,Google,XiangWang.html
+Dave Patterson,Google,105290.html
+Mukund Sundararajan,Google,MukundSundararajan.html
+Hui Lin,Google,HuiLin.html
+Dan Garrette,Google,106059.html
+Martin Cochran,Google,author38098.html
+Yasutaka Furukawa,Google,YasutakaFurukawa.html
+Joshua Tabak,Google,JoshuaTabak.html
+Eugene Ie,Google,author10168.html
+Sébastien Lahaie,Google,105420.html
+Venkatesh Basker,Google,VenkateshBasker.html
+Flip Korn,Google,106040.html
+Sanjay Bhansali,Google,SanjayBhansali.html
+An Zhu,Google,author832.html
+Rich Washington,Google,RichardWashington.html
+Patrick S Ryan,Google,PatrickRyan.html
+Emilia Kasper,Google,author58129.html
+Nina Taft,Google,NinaTaft.html
+Manpreet Singh,Google,105183.html
+Wilson C. Hsieh,Google,author1760.html
+Karl Schnaitter,Google,104808.html
+Sagar Mittal,Google,author39858.html
+Alex,Google,author41145.html
+Mike Colagrosso,Google,MikeColagrosso.html
+Keith B. Hall,Google,author38002.html
+Florian Schroff,Google,FlorianSchroff.html
+Dave Moore,Google,105874.html
+Chelsea Finn,Google,106147.html
+Dirk Holz,Google,DirkHolz.html
+Abhishek Kumar,Google,106466.html
+Ashish Vaswani,Google,AshishVaswani.html
+Dale Webster,Google,DaleWebster.html
+Gonçalo Simões,Google,105809.html
+Pavlos Papageorge,Google,105022.html
+Jonathon Shlens,Google,JonathonShlens.html
+Ignacio Garcia-Dorado,Google,106636.html
+Ben Adlam,Google,BenAdlam.html
+Xinliang David Li,Google,XinliangLi.html
+Geoff Pike,Google,GeoffPike.html
+David Ha,Google,105004.html
+Amir Globerson,Google,105825.html
+Johan Mathe,Google,JohanMathe.html
+Jane Chiu,Google,author15306.html
+Emilie Danna,Google,EmilieDanna.html
+Gábor Molnár,Google,104924.html
+Michał Januszewski,Google,MichalJanuszewski.html
+Emma Soederberg,Google,EmmaSoederberg.html
+T. V. Raman,Google,author3559.html
+Piyush Sharma,Google,PiyushSharma.html
+Elad Eban,Google,EladEban.html
+Eric Nichols,Google,EricNichols.html
+Eugen Hotaj,Google,106494.html
+Peyman Milanfar,Google,PeymanMilanfar.html
+Philip Haeusser,Google,104975.html
+Alyssa Whitlock Lees,Google,106429.html
+Alex Irpan,Google,106016.html
+Prakash Prabhu,Google,PrakashPrabhu.html
+Gokulnath Babu Manoharan,Google,104806.html
+Navdeep Jaitly,Google,NavdeepJaitly.html
+Manasa Prasad,Google,104955.html
+Apostol (Paul) Natsev,Google,ApostolNatsev.html
+Urs Hölzle,Google,author79.html
+John Elliot Karro,Google,105483.html
+Jasper Uijlings,Google,JasperUijlings.html
+Hang Qi,Google,HangQi.html
+Aiyou Chen,Google,author35860.html
+Marc A. Coram,Google,105083.html
+Arindrima Datta,Google,ArindrimaDatta.html
+Ekin Dogus Cubuk,Google,EkinDogusCubuk.html
+Katy Blumer,Google,KatyBlumer.html
+Hongjie Bai,Google,author29895.html
+Jan Skoglund,Google,JanSkoglund.html
+Rico Jonschkowski,Google,RicoJonschkowski.html
+Eric Malmi,Google,105882.html
+Rodrigo de Oliveira,Google,RodrigodeOliveira.html
+Lorenzo Colitti,Google,author35869.html
+Sharat Chikkerur,Google,SharatChikkerur.html
+Maxim Gurevich,Google,MaximGurevich.html
+Ramon Caceres,Google,RamonCaceres.html
+Yuxuan Wang,Google,105216.html
+Manasi Joshi,Google,106472.html
+Alessandro Epasto,Google,AlessandroEpasto.html
+Michael J. Procopio,Google,MichaelProcopio.html
+Krunal Kishor Patel,Google,105745.html
+Matt Trevithick,Google,MattTrevithick.html
+Massimiliano Ciaramita,Google,MCiaramita.html
+Rick Altherr,Google,105468.html
+Christophe Restif,Google,ChristopheRestif.html
+Christoph Best,Google,ChristophBest.html
+Bernd Bohnet,Google,104855.html
+Itay Laish,Google,ItayLaish.html
+Alex Rudnick,Google,AlexRudnick.html
+Aleksandr Chuklin,Google,AleksandrChuklin.html
+Paul A. Tucker,Google,PaulTucker.html
+Rami Al-Rfou,Google,104839.html
+Martin C. Stumpe,Google,MartinStumpe.html
+Sriraman Tallam,Google,author37618.html
+David Minnen,Google,DavidMinnen.html
+Jean-Michel Picod,Google,JeanMichelPicod.html
+Eric Brewer,Google,EricBrewer.html
+Carrie Jun Cai,Google,CarrieJunCai.html
+Aleksandra Faust,Google,AleksandraFaust.html
+Teresa Johnson,Google,106206.html
+Donald Metzler,Google,DonaldMetzler.html
+Matthias Zenger,Google,author11305.html
+Kerwell Liao,Google,KerwellLiao.html
+Jim Gao,Google,JimGao.html
+Shuo-yiin Chang,Google,105406.html
+Jyrki Alakuijala,Google,105344.html
+Luc Vincent,Google,author1415.html
+Craig Boutilier,Google,CraigBoutilier.html
+KK Yap,Google,KKYap.html
+HyunJeong Choe,Google,HyunJeongChoe.html
+Rob Springer,Google,RobSpringer.html
+Balakrishnan Varadarajan,Google,105053.html
+Stanislav Angelov,Google,StanislavAngelov.html
+Tyler(Lixuan) Zhu,Google,TylerZhu.html
+Yutaka I. Leon Suematsu,Google,105455.html
+Elie Bursztein,Google,ElieBursztein.html
+Andrew Warr,Google,AndrewWarr.html
+Channing Moore,Google,ChanningMoore.html
+Gaurav Desai,Google,105353.html
+Johan Tibell,Google,author39484.html
+Benjamin Solnik,Google,105679.html
+Kevin Jing,Google,105345.html
+Li Wan,Google,105594.html
+Vincent Scheib,Google,author2570.html
+Siqi Liu,Google,SiqiLiu.html
+Anjuli Kannan,Google,AnjuliKannan.html
+Ofer Naaman,Google,105699.html
+Deepak Ravichandran,Google,author14731.html
+Denny Zhou,Google,DennyZhou.html
+Yang Li,Google,author38946.html
+Zhe Zhao,Google,105547.html
+Joëlle Skaf,Google,JoelleSkaf.html
+Mateusz Jurczyk,Google,MateuszJurczyk.html
+Alexey Kurakin,Google,AlexeyKurakin.html
+Menglong Zhu,Google,MenglongZhu.html
+Martín Abadi,Google,abadi.html
+Eugene Brevdo,Google,EugeneBrevdo.html
+Si Si,Google,105487.html
+Valliappa Lakshmanan,Google,104918.html
+Dimitrios Vardoulakis,Google,DimitriosVardoulakis.html
+Shaun Lysen,Google,ShaunLysen.html
+Jens Riegelsberger,Google,author35817.html
+Stephen DiVerdi,Google,StephenDiVerdi.html
+Ketan Mandke,Google,KetanMandke.html
+Daniel Silva,Google,DanSilva.html
+Chip Killian,Google,ChipKillian.html
+Eugene J. Shekita,Google,105862.html
+Jeremy Kubica,Google,author16771.html
+Peter Kairouz,Google,PeterKairouz.html
+Guillaume Chatelet,Google,106221.html
+Adam Meyerson,Google,AdamMeyerson.html
+Paul Lee,Google,PaulLee.html
+Dominic Hamon,Google,DominicHamon.html
+Ben Appleton,Google,author1328.html
+Carl Vondrick,Google,CarlVondrick.html
+Rohit Saboo,Google,RohitSaboo.html
+Christopher Shallue,Google,ChristopherShallue.html
+Jessica Staddon,Google,JessicaStaddon.html
+Tomer Sharon,Google,TomerSharon.html
+Ying Xiao,Google,YingXiao.html
+Kathy Walrath,Google,KathyWalrath.html
+Caroline Tice,Google,CarolineTice.html
+Jingjie Zheng,Google,105224.html
+Junda Liu,Google,JundaLiu.html
+Jason Riesa,Google,JasonRiesa.html
+Samantha Ainsley,Google,SamanthaAinsley.html
+Nitin Gangahar,Google,NitinGangahar.html
+Stephanie Shin-Hui Zhang,Google,105242.html
+Bryan Klingner,Google,BryanKlingner.html
+Max Saltonstall,Google,MaxSaltonstall.html
+Ullas Gargi,Google,UllasGargi.html
+Manas Tungare,Google,author35897.html
+Yiteng Huang,Google,YitengHuang.html
+Erik McDermott,Google,ErikMcDermott.html
+Abhinav Rastogi,Google,AbhinavRastogi.html
+Makoto Uchida,Google,MakotoUchida.html
+Jonathan T Barron,Google,JonathanBarron.html
+Jean-Philippe Vert,Google,JeanPhilippeVert.html
+Anna Huang,Google,105787.html
+Ang Li,Google,AngLi.html
+Fabian Pedregosa,Google,FabianPedregosa.html
+David H. Alexander,Google,105522.html
+Martin Shelton,Google,105296.html
+Andres Munoz Medina,Google,105168.html
+Umar Syed,Google,author58264.html
+Eric Penner,Google,EricPenner.html
+Sami Abu-El-Haija,Google,104861.html
+Paul Klimov,Google,PaulKlimov.html
+Yishay Mansour,Google,105861.html
+Marc Levoy,Google,MarcLevoy.html
+Adel Ahmadyan,Google,AdelAhmadyan.html
+Andrew Rabinovich,Google,AndrewRabinovich.html
+Amit Daniely,Google,106046.html
+Brian Barritt,Google,BrianBarritt.html
+Kevin P. Murphy,Google,KevinMurphy.html
+ying sheng,Google,105935.html
+Chuck Rosenberg,Google,author30937.html
+John Blitzer,Google,author14735.html
+Michael Nirschl,Google,MichaelAlexanderNirschl.html
+Ted White,Google,105024.html
+Marco Cuturi,Google,106184.html
+Miles Hutson,Google,106504.html
+Wojciech Gajewski,Google,105836.html
+Douglas Eck,Google,author39086.html
+William Baxter,Google,author7432.html
+Andrew Rice,Google,106555.html
+Antonella Pavese,Google,AntonellaPavese.html
+Gynvael Coldwind,Google,GynvaelColdwind.html
+Max Pashkevich,Google,MaxPashkevich.html
+James S. Larson,Google,author38117.html
+Arunachalam Narayanaswamy,Google,105157.html
+Sourish Chaudhuri,Google,SourishChaudhuri.html
+Radu Soricut,Google,105783.html
+Sarah Loos,Google,SarahLoos.html
+Lucy Vasserman,Google,LucyVasserman.html
+Philip M Wells,Google,author38014.html
+Ananda Theertha Suresh,Google,106051.html
+Alireza Shabani,Google,104801.html
+Dave Anderson,Google,DaveAnderson.html
+Jesse Engel,Google,JesseEngel.html
+Ciera Jaspan,Google,CieraJaspan.html
+Lucia Terrenghi,Google,LuciaTerrenghi.html
+Yuxiang Yang,Google,YuxiangYang.html
+Aleksey Shlyapnikov,Google,105695.html
+Catherine Olsson,Google,CatherineOlsson.html
+Markus Freitag,Google,MarkusFreitag.html
+Yu Zhong,Google,YuZhong.html
+Burcu Karagol Ayan,Google,BurcuKaragolAyan.html
+Divy Thakkar,Google,106305.html
+Chris Harrelson,Google,author6357.html
+Curtis Hawthorne,Google,CurtisHawthorne.html
+James Wexler,Google,105507.html
+Dan Gnanapragasam,Google,DanGnanapragasam.html
+Nathan Germer,Google,NathanGermer.html
+Michael Collis,Google,MichaelCollis.html
+Ian Williams,Google,105792.html
+Anja Gruenheid,Google,105687.html
+Wenbo Zhu,Google,WenboZhu.html
+Krzysztof Czuba,Google,author14749.html
+Ansley Post,Google,AnsleyPost.html
+Aaron Segal,Google,105298.html
+Nitesh Goyal,Google,105380.html
+Tom Ouyang,Google,TomOuyang.html
+Lucy Colwell,Google,106569.html
+Jie Yang,Google,JieYang.html
+Matt Mathis,Google,MattMathis.html
+Alex Scott,Google,AlexScott.html
+Peter Collingbourne,Google,PeterCollingbourne.html
+Jeremy Maitin-Shepard,Google,JeremyMaitinShepard.html
+Vinny Ganeshan,Google,105495.html
+Edgar Gonzàlez Pellicer,Google,EdgarGonzlezPellicer.html
+Lei Zhang,Google,author836.html
+Rajat Monga,Google,RajatMonga.html
+Jaeheon Yi,Google,JaeheonYi.html
+Xiang Zhou,Google,XiangZhou.html
+Kevin Aydin,Google,106559.html
+Steve Padgett,Google,StevePadgett.html
+Hideto Kazawa,Google,HidetoKazawa.html
+Lantian Zheng,Google,LantianZheng.html
+Greg Corrado,Google,GregCorrado.html
+Yunqing Wang,Google,YunqingWang.html
+Jeffrey Korn,Google,JeffreyKorn.html
+Luciano Sbaiz,Google,105960.html
+Michael J. Brzozowski,Google,MichaelBrzozowski.html
+Rajan Patel,Google,author37597.html
+Ellen Spertus,Google,author40.html
+Theo Vassilakis,Google,author28247.html
+Manzil Zaheer,Google,ManzilZaheer.html
+David Lo,Google,DavidLo.html
+Sean Fanello,Google,SeanFanello.html
+Claudio Gentile,Google,106399.html
+Aart J.C. Bik,Google,author38459.html
+Dmitriy Genzel,Google,author14721.html
+Neil Birkbeck,Google,NeilBirkbeck.html
+Taedong Yun,Google,TaedongYun.html
+Oscar Ramirez,Google,OscarRamirez.html
+Arif Merchant,Google,author57990.html
+Malcolm Slaney,Google,105191.html
+Sean Lip,Google,SeanLip.html
+Sergio Boixo,Google,SergioBoixo.html
+Inbar Mosseri,Google,InbarMosseri.html
+David Ding,Google,DavidDing.html
+Yinlam Chow,Google,106512.html
+Rob Jackson,Google,105337.html
+Louis Yuanlong Shao,Google,LouisYuanlongShao.html
+Reena Jana,Google,105797.html
+Ashish Bhambhani,Google,105280.html
+Jeffrey D. Oldham,Google,JeffreyOldham.html
+Hendrik Müller,Google,HendrikMueller.html
+Rajagopal Ananthanarayanan (ananth),Google,RajagopalAnanthanarayanan.html
+Sundar Dorai-Raj,Google,author38116.html
+Eric Rollins,Google,EricRollins.html
+Yannet Interian,Google,author37416.html
+Markose Thomas,Google,author35780.html
+Stephan Gouws,Google,StephanGouws.html
+Simon Kornblith,Google,106005.html
+Erik Kline,Google,ErikKline.html
+Daniel M. Bikel,Google,DanielMBikel.html
+Tamsyn Waterhouse,Google,TamsynWaterhouse.html
+Jason Miller,Google,JasonMiller.html
+Pedro Gonnet,Google,104794.html
+Yonghui Wu,Google,104868.html
+Eric Anderson,Google,EricAnderson.html
+Hai Hong,Google,104846.html
+John Lindsay Orr,Google,JohnOrr.html
+Maryam Karimzadehgan,Google,106155.html
+Diane Tang,Google,author3770.html
+Andrei Z. Broder,Google,AndreiBroder.html
+Thomas Brovelli (Meyer),Google,105388.html
+Brian Milch,Google,author101.html
+Sooel Son,Google,105300.html
+Rapha Gontijo Lopes,Google,RaphaGontijoLopes.html
+Yang Song,Google,104900.html
+Philip Nelson,Google,PhilipNelson.html
+Nicholas FitzGerald,Google,106332.html
+Wenhan Lu,Google,106699.html
+Alexander E. Mohr,Google,author37505.html
+Eric Jang,Google,EricJang.html
+David Cai,Google,DavidCai.html
+Xiao Zhang,Google,105415.html
+Avital Oliver,Google,AvitalOliver.html
+Kareem Amin,Google,106597.html
+Aaron Sarna,Google,AaronSarna.html
+Fabien Viger,Google,author39327.html
+Jim Koehler,Google,JimKoehler.html
+Bao Nguyen,Google,105198.html
+Andrew de los Reyes,Google,author36260.html
+Pi-Chuan Chang,Google,author39216.html
+Gal Elidan,Google,105719.html
+Hans-Juergen Boehm,Google,HansJuergenBoehm.html
+Delesley Hutchins,Google,DelesleyHutchins.html
+Victor Manuel Escobedo,Google,VictorManuelEscobedo.html
+Yu-hui Chen,Google,YuhuiChen.html
+Andrew Macvean,Google,AndrewMacvean.html
+Matthew McEwen,Google,106600.html
+Minjie Fan,Google,MinjieFan.html
+David Applegate,Google,DavidApplegate.html
+Theodore Ts'o,Google,105165.html
+Hossein Esfandiari,Google,HosseinEsfandiari.html
+Tim Salimans,Google,106222.html
+Julian Mason,Google,JulianMason.html
+Gopalan Sivathanu,Google,author37466.html
+Manjunath Kudlur,Google,ManjunathKudlur.html
+Robbie Shade,Google,RobbieShade.html
+Kristen LeFevre,Google,KristenLeFevre.html
+Tristan Launay,Google,TristanLaunay.html
+Yanping Huang,Google,105661.html
+Irfan Essa,Google,IrfanEssa.html
+Tom Bagby,Google,TomBagby.html
+Sanjay Ghemawat,Google,SanjayGhemawat.html
+Mark Segal,Google,MarkSegal.html
+Berthier Ribeiro-Neto,Google,author2723.html
+Mingyang Zhang,Google,MingyangZhang.html
+Srini Narayanan,Google,SriniNarayanan.html
+Sudip Roy,Google,SudipRoy.html
+Salem Haykal,Google,105425.html
+Fernando Pereira,Google,author1092.html
+John Daughtry,Google,JohnDaughtry.html
+Markus Becker,Google,106134.html
+Jason Gurevitch,Google,JasonGurevitch.html
+Martin Bokeloh,Google,106293.html
+Alexander Lloyd,Google,AlexanderLloyd.html
+Foad Dabiri,Google,FoadDabiri.html
+Sarvjeet Singh,Google,author39110.html
+Jingyue Wu,Google,JingyueWu.html
+Tomas Pfister,Google,105803.html
+Shaowei Png,Google,ShaoweiPng.html
+Carl Lebsack,Google,CarlLebsack.html
+Paul Carff,Google,PaulCarff.html
+Iustin Pop,Google,author39392.html
+Heiga Zen,Google,HeigaZen.html
+Alireza Fathi,Google,105222.html
+Craig Michael Gidney,Google,CraigMichaelGidney.html
+Alessandro Bissacco,Google,AlessandroBissacco.html
+Brian Ichter,Google,BrianAndrewIchter.html
+Fangtao Li,Google,FangtaoLi.html
+Chris Fry,Google,ChrisFry.html
+Stephen Stuart,Google,StephenStuart.html
+Hanie Sedghi,Google,HanieSedghi.html
+Hongrae Lee,Google,HongraeLee.html
+Alexander Shraer,Google,AlexanderShraer.html
+Emily Reif,Google,106150.html
+Fay W. Chang,Google,author19234.html
+Erik Vee,Google,106648.html
+Chris Welty,Google,104789.html
+Sunny Consolvo,Google,SunnyConsolvo.html
+Fei Wu,Google,FeiWu.html
+Soren Pirk,Google,105693.html
+Steven Hand,Google,105153.html
+Bilson Jake Libres Campana,Google,BilsonJakeLibresCampana.html
+Chris Jones,Google,ChrisJones.html
+Rajhans Samdani,Google,RajhansSamdani.html
+Divanshu Garg,Google,106282.html
+Cassidy Curtis,Google,CassidyCurtis.html
+Yangqing Jia,Google,YangqingJia.html
+Michael Christoph Muelly,Google,MichaelChristophMuelly.html
+Shih-Wei Liao,Google,author2837.html
+Petros Venetis,Google,106292.html
+D. Sivakumar,Google,DSivakumar.html
+Tadek Pietraszek,Google,104976.html
+Susanna Ricco,Google,SusannaRicco.html
+Vitaly Kuznetsov,Google,104920.html
+Warren Kumari,Google,WarrenKumari.html
+Jelena Pješivac–Grbović,Google,author17181.html
+Erik Lucero,Google,ErikLucero.html
+James Long,Google,JamesLong.html
+Karthik Krishnamoorthi,Google,106486.html
+Varden Wang,Google,VardenWang.html
+Ramanathan V. Guha,Google,author17184.html
+Morteza Zadimoghaddam,Google,MortezaZadimoghaddam.html
+Richard Sproat,Google,RichardSproat.html
+Karn Seth,Google,106426.html
+Navneet Potti,Google,106262.html
+Ajay J. Joshi,Google,AjayJoshi.html
+Ruli Manurung,Google,104989.html
+John Cox,Google,JohnCox.html
+Thomas Dean,Google,author189.html
+Golnaz Ghiasi,Google,GolnazGhiasi.html
+Ofer Meshi,Google,OferMeshi.html
+Oddur Kjartansson,Google,105957.html
+Ankur Bhargava,Google,author6218.html
+Daniel Cer,Google,DanielCer.html
+Andrew Selle,Google,105402.html
+A Theeraphol,Google,105921.html
+Neoklis Polyzotis,Google,NeoklisPolyzotis.html
+Siyang Qin,Google,106618.html
+Carlos Colmenares,Google,CarlosColmenares.html
+John Cieslewicz,Google,JohnCieslewicz.html
+Thomas K. Leung,Google,ThomasLeung.html
+Jie Ren,Google,author9136.html
+Alejandro Luebs,Google,AlejandroLuebs.html
+Ankit Jain,Google,author39692.html
+Robert W. Bowdidge,Google,RobertBowdidge.html
+Astrid Weber,Google,AstridWeber.html
+Ben Collins-Sussman,Google,author35664.html
+"Michael D. Howell, MD MPH",Google,MichaelDHowellMDMPH.html
+Shibani Sanan,Google,ShibaniSanan.html
+Jingtao Wang,Google,105917.html
+Cyril Allauzen,Google,author130.html
+Deniz Oktay,Google,106081.html
+Scott B. Huffman,Google,author6921.html
+Bruno M. Fonseca,Google,author11808.html
+Michael R. Marty,Google,author36386.html
+Wei-Yen Day,Google,WeiYenDay.html
+Da-Cheng Juan,Google,DaChengJuan.html
+Hannes Payer,Google,HannesPayer.html
+Kedar Dhamdhere,Google,author4526.html
+Dominik Roblek,Google,DominikRoblek.html
+Jessa D. Mittleman,Google,author32358.html
+Andre Araujo,Google,AndreAraujo.html
+Raluca Sauciuc,Google,RalucaSauciuc.html
+Fabian Gallusser,Google,106302.html
+Franjo Ivancic,Google,FranjoIvancic.html
+B. Yang,Google,author83.html
+Simon Baumgartner,Google,105996.html
+Maryam Tohidi,Google,MaryamTohidi.html
+Danny Tom,Google,DannyTom.html
+Tejinder K. Judge,Google,TejinderJudge.html
+Zhen Qin,Google,106036.html
+Bozhena Bidyuk,Google,author13603.html
+Daniel Clifford,Google,DanielClifford.html
+Xinyang Yi,Google,105550.html
+Umesh Shankar,Google,author14566.html
+Charles Weill,Google,CharlesWeill.html
+Gaoang Bian,Google,Gaoang.html
+Lusann Yang,Google,LusannYang.html
+April Rasala Lehman,Google,author6607.html
+Tom Kwiatkowski,Google,105075.html
+Aspi Siganporia,Google,AspiSiganporia.html
+Swaroop Ramaswamy,Google,106336.html
+Ranjith Unnikrishnan,Google,author20740.html
+Noah Fiedel,Google,NoahFiedel.html
+Maggie Johnson,Google,104788.html
+Thomas Fu,Google,104854.html
+Matthew Henderson,Google,MatthewHenderson.html
+Vlad Tsyrklevich,Google,VladTsyrklevich.html
+Alvin Rishi Rajkomar,Google,AlvinRishiRajkomar.html
+Vidhya Navalpakkam,Google,VidhyaNavalpakkam.html
+Ritendra Datta,Google,author14191.html
+Jennimaria Palomaki,Google,105807.html
+Martin Pál,Google,author20.html
+Colin Cherry,Google,ColinCherry.html
+Theo Sanderson,Google,TheoSanderson.html
+Subhasree Mandal,Google,105046.html
+Li-Lun Wang,Google,LiLunWang.html
+Yun Liu,Google,105698.html
+Rodrigo Carceroni,Google,author36323.html
+Vinay Bettadapura,Google,VinayBettadapura.html
+Sungjoon Choi,Google,SungjoonChoi.html
+Tolga Bolukbasi,Google,TolgaBolukbasi.html
+Marissa Giustina,Google,MarissaGiustina.html
+Steffen Meschkat,Google,SteffenMeschkat.html
+Yair Movshovitz-Attias,Google,YairMovshovitzAttias.html
+Gabe Krabbe,Google,GabeKrabbe.html
+Sandeep Govind Dhoot,Google,105846.html
+Jacob Barrett,Google,JacobBarrett.html
+Alex Beutel,Google,AlexBeutel.html
+Gábor Bartók,Google,GaborBartok.html
+Walid Krichene,Google,WalidKrichene.html
+Jingang Miao,Google,106537.html
+Mario Callegaro,Google,MarioCallegaro.html
+Will Drewry,Google,author36121.html
+Nevena Lazic,Google,104936.html
+Jing Ai,Google,105212.html
+Luheng He,Google,LuhengHe.html
+Nandita Dukkipati,Google,author39115.html
+Amer Diwan,Google,AmerDiwan.html
+Stephanie Sapp,Google,StephanieSapp.html
+Lawrence S. Brakmo,Google,author2372.html
+Adam Sadilek,Google,AdamSadilek.html
+Kevin Canini,Google,KevinCanini.html
+Lea Kissner,Google,author20709.html
+Yanzhang He,Google,106380.html
+John Hershey,Google,106072.html
+Katrina Sostek,Google,105399.html
+Chieu Nguyen,Google,105676.html
+James Kelly,Google,author39667.html
+Diana Borsa,Google,105295.html
+Ashish Sharma,Google,AshishSharma.html
+Kyra Singh,Google,KyraSingh.html
+Amit Vainsencher,Google,105023.html
+Guy Calvert,Google,GuyCalvert.html
+Ido Green,Google,IdoGreen.html
+Colin Beske,Google,105486.html
+Alessandro Presta,Google,AlessandroPresta.html
+Michael Isard,Google,MichaelIsard.html
+Tipp Moseley,Google,author39194.html
+Jonathan Heek,Google,JonathanHeek.html
+John Penix,Google,author2207.html
+Dieterich Lawson,Google,105253.html
+Daniel Mills,Google,105390.html
+Taylor Marable,Google,TaylorMarable.html
+Derek Wu,Google,DerekWu.html
+Emily Johnston,Google,EmilyJohnston.html
+Igor Bilogrevic,Google,IgorBilogrevic.html
+Félix de Chaumont Quitry,Google,FelixdeChaumontQuitry.html
+Kai Chen,Google,KaiChen.html
+Dave Bacon,Google,105078.html
+Richard Zens,Google,RichardZens.html
+Julian Ibarz,Google,JulianIbarz.html
+Jiwoon Jeon,Google,author38335.html
+Chris Wren,Google,ChrisWren.html
+Javier Snaider,Google,JavierSnaider.html
+Ke Yang,Google,author61.html
+Mike Ando,Google,MikeAndo.html
+Chris Sadler,Google,ChrisSadler.html
+Rama Kumar Pasumarthi,Google,105966.html
+Dipanjan Das,Google,DipanjanDas.html
+Sebastian Schaffert,Google,SebastianSchaffert.html
+Yong Cheng,Google,106360.html
+Alex Perry,Google,AlexPerry.html
+Yuning Chai,Google,YuningChai.html
+Dan Dennison,Google,DanDennison.html
+Sam Hasinoff,Google,105138.html
+Jim Reardon,Google,JimReardon.html
+William Chan,Google,WilliamChan.html
+Robert Geisberger,Google,author39325.html
+Joonseok Lee,Google,JoonseokLee.html
+Jennifer Fernquist,Google,JenniferFernquist.html
+Alexey Gusakov,Google,author58091.html
+Silvia Pareti,Google,SilviaPareti.html
+Christos Kozyrakis,Google,ChristosKozyrakis.html
+Yaroslav Bulatov,Google,YaroslavBulatov.html
+Sue Lueder,Google,105372.html
+Luca Bertelli,Google,author39634.html
+Konstantin Serebryany,Google,KonstantinSerebryany.html
+Christian Daniel Howard,Google,ChristianHoward.html
+Ivan Neulander,Google,IvanNeulander.html
+Stephan Ellner,Google,author27288.html
+Kaihua Zhu,Google,author23207.html
+Kevin Wilson,Google,KevinWilson.html
+Giulia DeSalvo,Google,106565.html
+Richard F. Lyon,Google,author35932.html
+Shubin Zhao,Google,author17490.html
+Livio Baldini Soares,Google,104996.html
+Cordelia Schmid,Google,CordeliaSchmid.html
+Vinay Shet,Google,VinayShet.html
+Chen Sun,Google,ChenSun.html
+Stephan Gudmundson,Google,StephanGudmundson.html
+Brett Elliott,Google,105709.html
+Jiawen Chen,Google,105061.html
+Petros Maniatis,Google,PetrosManiatis.html
+Sofien Bouaziz,Google,105967.html
+Dina M. Betser,Google,DinaBetser.html
+Alex Olwal,Google,AlexOlwal.html
+Zornitsa Kozareva,Google,ZornitsaKozareva.html
+Krzysztof Maziarz,Google,KrzysztofMaziarz.html
+Kevin McCloskey,Google,KevinMcCloskey.html
+Bill N. Schilit,Google,author27501.html
+J. David Morgenthaler,Google,author35758.html
+Mohammad Mahdian,Google,MohammadMahdian.html
+Leon Poutievski,Google,LeonPoutievski.html
+Salvatore Candido,Google,SalCandido.html
+Genady Beryozkin,Google,GenadyBeryozkin.html
+Lasse Espeholt,Google,105460.html
+Tingbo Hou,Google,106438.html
+Steven Ellis,Google,StevenEllis.html
+Michael Schwarz,Google,MichaelSchwarz.html
+Mike Dusenberry,Google,MikeDusenberry.html
+Hilary Hutchinson,Google,author15270.html
+Thierry Coppey,Google,ThierryCoppey.html
+Abhishek Das,Google,author39695.html
+Yaogong Wang,Google,YaogongWang.html
+Jonathan Huang,Google,JonathanHuang.html
+Reza Mahjourian,Google,106158.html
+Sajid M. Siddiqi,Google,siddiqi.html
+John C. Platt,Google,JohnPlatt.html
+Ben Laurie,Google,author9639.html
+Alex Brik,Google,105321.html
+Rohit Kumar Pandey,Google,106687.html
+Luiz André Barroso,Google,LuizBarroso.html
+Afshin Rostamizadeh,Google,author36233.html
+Dean Michael Berris,Google,DeanBerris.html
+Kuzman Ganchev,Google,KuzmanGanchev.html
+Shakeel Butt,Google,ShakeelButt.html
+Praneet Dutta,Google,PraneetDutta.html
+Lei Yang,Google,LeiYang.html
+Edith Cohen,Google,EdithCohen.html
+David Deutscher,Google,DavidDeutscher.html
+Nitish Korula,Google,NitishKorula.html
+CATALINA NARANJO-BOCK,Google,105389.html
+Billy Lau,Google,105962.html
+Dong Xin,Google,DongXin.html
+Alex Alemi,Google,104980.html
+Douglas Aberdeen,Google,author39485.html
+Robin Anil,Google,RobinAnil.html
+Marta Recasens,Google,MartaRecasens.html
+Kay H. Brodersen,Google,KayBrodersen.html
+Nikolay Chirkov,Google,106410.html
+Daan van Esch,Google,DaanvanEsch.html
+Thomas Hofmann,Google,author1113.html
+Amarnag Subramanya,Google,author38552.html
+Archit Sharma,Google,ArchitSharma.html
+Gabor Simko,Google,105456.html
+Kathy Baxter,Google,KathyBaxter.html
+Sameer Ajmani,Google,author54.html
+Alistair C. Veitch,Google,AlistairVeitch.html
+Daniel Myers,Google,author54699.html
+Vahab S. Mirrokni,Google,mirrokni.html
+Danny Raz,Google,106366.html
+Himani Apte,Google,105336.html
+Hsiao-keng Jerry Chu (朱曉耕),Google,author39277.html
+Suhani Vora,Google,106257.html
+Nicholas Rubin,Google,106427.html
+Omid Madani,Google,OmidMadani.html
+Peter Shaw,Google,105930.html
+Willem de Bruijn,Google,author39745.html
+Cibu C Johny,Google,105937.html
+Ning Wang,Google,NingWang.html
+Roy Frostig,Google,RoyFrostig.html
+Daniele Pighin,Google,DanielePighin.html
+Suyog Gupta,Google,105500.html
+Shuai Jiang,Google,ShuaiJiang.html
+Sara L. Su,Google,author58118.html
+Marc Cartright,Google,MarcCartright.html
+Brian Roark,Google,BrianRoark.html
+Shun-Tak Leung,Google,shuntak.html
+Kshitij Bansal,Google,105408.html
+Raphaël Marinier,Google,105955.html
+Muthuprasanna Muthusrinivasan,Google,author35944.html
+Jonathan Shen,Google,JonathanShen.html
+Murtaza Motiwala,Google,105464.html
+Jianmin Chen,Google,JianminChen.html
+Olivier Bachem,Google,OlivierBachem.html
+Alexandrin Popescul,Google,AlexandrinPopescul.html
+Cliff L. Biffle,Google,author38542.html
+Chris Han,Google,ChrisHan.html
+Pei-Yu (Peggy) Chi,Google,104956.html
+Keshan Sodimana,Google,KeshanSodimana.html
+Andrew O. Arnold,Google,AndrewOArnold.html
+Andreas Rossberg,Google,AndreasRossberg.html
+Ludwig Schubert,Google,105678.html
+Ahmed Metwally,Google,AhmedMetwally.html
+Quoc V. Le,Google,QuocLe.html
+David Sehr,Google,DavidSehr.html
+Vera Axelrod,Google,VeraAxelrod.html
+Steve Gribble,Google,105030.html
+Alexander Potapenko,Google,AlexanderPotapenko.html
+Assaf  Hurwitz-Michaely,Google,AssafHurwitzMichaely.html
+Ian Kelly,Google,IanKelly.html
+Chad Whipkey,Google,ChadWhipkey.html
+Jeffrey Ling,Google,JeffreyLing.html
+Felix Halim,Google,FelixHalim.html
+Daniel Pierce Delorey,Google,DanielDelorey.html
+Ye Zhang,Google,105278.html
+Ed Parsons,Google,EdParsons.html
+Peter H. Li,Google,PeterLi.html
+Ben Caine,Google,BenCaine.html
+David Cohn,Google,DavidCohn.html
+Andrew Swerdlow,Google,AndrewSwerdlow.html
+Ali Zand,Google,AliZand.html
+Omer Boyaci,Google,OmerBoyaci.html
+Fadi Biadsy,Google,FadiBiadsy.html
+Nicholas Etienne Clinton,Google,NicholasEtienneClinton.html
+Chris Bond,Google,author26435.html
+Ciprian Chelba,Google,author6342.html
+Troy T. Chinen,Google,TroyChinen.html
+John Lunney,Google,JohnLunney.html
+Mark Lentczner,Google,MarkLentczner.html
+Konstantinos Katsiapis,Google,106491.html
+Sridatta Chegu,Google,SridattaChegu.html
+Saurabh Saxena,Google,SaurabhSaxena.html
+Ori Folger,Google,OriFolger.html
+Jason Baldridge,Google,JasonBaldridge.html
+Aren Jansen,Google,104952.html
+Xiaobing Liu,Google,104903.html
+Christoph Schütte,Google,106274.html
+Ofir Nachum,Google,105364.html
+David Glazer,Google,DavidGlazer.html
+Craig Chambers,Google,author4707.html
+Yinfei Yang,Google,YinfeiYang.html
+Adam Dickinson,Google,AdamDickinson.html
+Matthieu Devin,Google,104860.html
+Marvin Ritter,Google,MarvinRitter.html
+Sam McVeety,Google,SamMcVeety.html
+Gal Chechik,Google,author35799.html
+Markus Rabe,Google,106335.html
+Keith Stevens,Google,105282.html
+Benjamin Börschinger,Google,BenjaminBrschinger.html
+Mikhail Kozhevnikov,Google,MikeKozhevnikov.html
+James Atwood,Google,JamesAtwood.html
+Helge Bahmann,Google,HelgeBahmann.html
+Shobhit Saxena,Google,105481.html
+Amin Vahdat,Google,AminVahdat.html
+Healfdene Goguen,Google,hhg.html
+Andrew W. Senior,Google,author37792.html
+Mohammad Norouzi,Google,MohammadNorouzi.html
+Ken Caluwaerts,Google,KenCaluwaerts.html
+Daphne Luong,Google,105786.html
+Philip MacKenzie,Google,author59.html
+Megan Ruthven,Google,105810.html
+Stephan Wolf,Google,106272.html
+Jake Marcus,Google,JakeMarcus.html
+Lihong Li,Google,105542.html
+Yu-An Chung,Google,YuAnChung.html
+Manolis Delakis,Google,106228.html
+Hanxiao Liu,Google,HanxiaoLiu.html
+Kurt Thomas,Google,KurtThomas.html
+Kanishka Rao,Google,KanishkaRao.html
+Vincent Furnon,Google,VincentFurnon.html
+Quentin de Laroussilhe,Google,105805.html
+Vijay D'Silva,Google,VijayDSilva.html
+Nicholas Chi-Yuen Kong,Google,NicholasChiYuenKong.html
+Matthew D. Hoffman,Google,MatthewDHoffman.html
+Lawrence Page,Google,LawrencePage.html
+Chris Thompson,Google,ChrisThompson.html
+Sergey Brin,Google,SergeyBrin.html
+Hector Yee,Google,HectorYee.html
+Dhyanesh Narayanan,Google,DhyaneshNarayanan.html
+David Dohan,Google,DavidDohan.html
+Ruoming Pang,Google,author2369.html
+Mario Guajardo-Céspedes,Google,106473.html
+Been Kim,Google,106045.html
+Scott Jenson,Google,105123.html
+Asif Islam,Google,AsifIslam.html
+Quan Wang,Google,QuanWang.html
+Paul M. Aoki,Google,PaulAoki.html
+Rama Govindaraju,Google,104926.html
+Natasha Noy,Google,NatalyaNoy.html
+Fergus Henderson,Google,104803.html
+Sangho Yoon,Google,SanghoYoon.html
+Zbigniew Wojna,Google,ZbigniewWojna.html
+Eric Lee Turner,Google,105965.html
+Daniel Sank,Google,105029.html
+Yongzhe Wang,Google,YongzheWang.html
+Mike Perry,Google,105245.html
+Deepak Kumar,Google,DeepakKumar.html
+Raman Sarokin,Google,106412.html
+Eric Giguere,Google,EricGiguere.html
+Gagan Aggarwal,Google,author3107.html
+Roee Ebenstein,Google,106346.html
+Hyeontaek Lim,Google,HyeontaekLim.html
+Jialu Liu,Google,106192.html
+Tyler Lu,Google,TylerLu.html
+Aidan N. Gomez,Google,AidanNicholasGomez.html
+Sashank Reddi,Google,106138.html
+Roee Engelberg,Google,RoeeEngelberg.html
+Gregory Kossinets,Google,author38367.html
+Ziv Bar-Yossef,Google,author6593.html
+Larry P. Heck,Google,LarryHeck.html
+Liangliang Cao,Google,106378.html
+Jeffrey Dean,Google,jeff.html
+Rene Mayrhofer,Google,ReneMayrhofer.html
+Moshe Looks,Google,author37920.html
+Casper Kaae Sønderby,Google,CasperSoenderby.html
+Vittorio Ferrari,Google,105461.html
+Walfredo Cirne,Google,author8093.html
+Yunting Sun,Google,YuntingSun.html
+Jan A. Botha,Google,JanBotha.html
+Dilek Hakkani-Tur,Google,104927.html
+Tobias Flach,Google,TobiasFlach.html
+Max Senges,Google,MaxSenges.html
+Sebastian Goodman,Google,106379.html
+Eric Breck,Google,EricBreck.html
+Jonathan Zolla,Google,JonathanZolla.html
+Harry Bleyan,Google,HarryBleyan.html
+Rory Ward,Google,RoryWard.html
+Iulia-Maria Comșa,Google,IuliaMariaComsa.html
+Dominique Shipmon,Google,DominiqueShipmon.html
+Mustaq Ahmed,Google,author39357.html
+David Berthelot,Google,DavidBerthelot.html
+Holden Karau,Google,HoldenKarau.html
+Fabio Riccardi,Google,106421.html
+Nadav Eiron,Google,author1102.html
+Julia Wilkowski,Google,author51417.html
+Mohammadreza Ghodsi,Google,MohammadrezaGhodsi.html
+Zheng Xu,Google,ZhengXu.html
+Tim Hesterberg,Google,TimHesterberg.html
+Jeffrey De Fauw,Google,104959.html
+Peter J. Liu,Google,105182.html
+Chi-yao Hong,Google,ChiyaoHong.html
+Yang Song,Google,author38270.html
+Sayali Kulkarni,Google,106468.html
+Aseem Agarwala,Google,105084.html
+Vinton G. Cerf,Google,author32412.html
+Mingxing Tan,Google,105445.html
+Tania Bedrax-Weiss,Google,105765.html
+Ankit Singh Rawat,Google,106289.html
+Corinna Cortes,Google,author121.html
+Serena Lutong Wang,Google,SerenaLutongWang.html
+Nicolas Le Roux,Google,NicolasLeRoux.html
+Or Litany,Google,105901.html
+Rafael Sanchez,Google,RafaelSanchez.html
+Frederico Quintao,Google,FredericoQuintao.html
+Nicolas Papernot,Google,NicolasPapernot.html
+Hartwig Adam,Google,author37870.html
+Congcong Li,Google,CongcongLi.html
+Julia Proskurnia,Google,105491.html
+Francesco Piccinno,Google,106529.html
+Neil Zeghidour,Google,106382.html
+Arun Narayanan,Google,ArunNarayanan.html
+Kasumi Widner,Google,105771.html
+H. Brendan McMahan,Google,author35837.html
+David Reitter,Google,DavidReitter.html
+Kyle Gorman,Google,KyleGorman.html
+Steven Euijong Whang,Google,StevenWhang.html
+Jia-Yu (Tim) Pan,Google,105646.html
+Alex Fabrikant,Google,AlexFabrikant.html
+John Martinis,Google,105018.html
+Jianyong Zhang,Google,author21127.html
+Joshua Maynez,Google,JoshuaMaynez.html
+Derya Toka,Google,DeryaToka.html
+Sylvain Gelly,Google,SylvainGelly.html
+Filip Radlinski,Google,FilipRadlinski.html
+Tara Matthews,Google,104820.html
+Michiel Bacchiani,Google,MichielBacchiani.html
+Victoria Schwanda Sosik,Google,VictoriaSosik.html
+Michael Collins,Google,MichaelCollins.html
+Mehdi S. M. Sajjadi,Google,105804.html
+Reza Ghanadan,Google,105710.html
+Adam Lelkes,Google,AdamLelkes.html
+Christoph Albrecht,Google,ChristophAlbrecht.html
+Li Li,Google,LiLi.html
+Phil Long,Google,105241.html
+Seungil You,Google,105412.html
+Danijar Hafner,Google,105534.html
+Amol Kapoor,Google,106318.html
+William W. Cohen,Google,105985.html
+Lawrence Ip,Google,author22930.html
+Brad Chen,Google,bradchen.html
+Tatiana Merkulova,Google,105813.html
+Chong Wang,Google,105541.html
+Li Zhang,Google,105588.html
+Richard Tucker,Google,RichardTucker.html
+Yunkai Zhou,Google,author5497.html
+Manaal Faruqui,Google,ManaalFaruqui.html
+Xiang Wu,Google,XiangWu.html
+Diane Lambert,Google,author16666.html
+Charles Sutton,Google,CharlesSutton.html
+Jean Pouget-Abadie,Google,JeanPougetAbadie.html
+Zhi Xu,Google,ZhiXu.html
+Trevor Strohman,Google,TrevorStrohman.html
+Maithra Raghu,Google,105562.html
+Elad Hazan,Google,106088.html
+Derek Bruening,Google,author58045.html
+Mingcheng Chen,Google,MingchengChen.html
+Mehran Bozorgi,Google,author39390.html
+Radu Jurca,Google,author37631.html
+Štěpán Davidovič,Google,StepanDavidovic.html
+Piotr Zielinski,Google,PiotrZielinski.html
+Sam Greydanus,Google,SamGreydanus.html
+Hasim Sak,Google,HasimSak.html
+Francisco Passos,Google,FranciscoPassos.html
+Adel El-Atawy,Google,author57994.html
+Yuan Zhang,Google,YuanZhang.html
+Song Zuo,Google,SongZuo.html
+Ed H. Chi,Google,EdChi.html
+Sandeep Tata,Google,SandeepTata.html
+Jasmine Hsu,Google,JasmineHsu.html
+Ashutosh Kulshreshtha,Google,author25088.html
+Craig Citro,Google,CraigCitro.html
+Rory Sayres,Google,RorySayres.html
+Howard Zhou,Google,HowardZhou.html
+Josh Lovejoy,Google,105789.html
+Quang Anh Duong,Google,106550.html
+Joseph Bonneau,Google,JosephBonneau.html
+Haomiao Jiang,Google,105611.html
+Joachim Kupke,Google,author3778.html
+Mario Lucic,Google,MarioLucic.html
+Anoop Korattikara,Google,AnoopKorattikara.html
+Kishore Papineni,Google,KishorePapineni.html
+Jakub Onufry Wojtaszczyk,Google,author58121.html
+Mrinal Kalakrishnan,Google,MrinalKalakrishnan.html
+George Tucker,Google,GeorgeTucker.html
+Stefan Popov,Google,StefanPopov.html
+Monique V. Vieira,Google,author18650.html
+Evan Jeffrey,Google,EvanJeffrey.html
+Satnam Singh,Google,SatnamSingh.html
+Tom Madams,Google,105259.html
+Aaron Archer,Google,AaronArcher.html
+Jack Sim,Google,JackSim.html
+Olga Kapralova,Google,OlgaKapralova.html
+Melody Guan,Google,105369.html
+Matt Tierney,Google,MattTierney.html
+Biswanath Panda,Google,author38399.html
+Jeff Klingner,Google,JeffKlingner.html
+Jamie Kiros,Google,105589.html
+Steven Kearnes,Google,StevenKearnes.html
+Bruno De Backer,Google,106230.html
+Greg Hecht,Google,GregHecht.html
+David Lomax,Google,105723.html
+Dumitru Erhan,Google,DumitruErhan.html
+Roman Novak,Google,RomanNovak.html
+Brian W. Fitzpatrick,Google,author35663.html
+Ashwinkumar Badanidiyuru Varadaraja,Google,105177.html
+Benoit Steiner,Google,BenoitSteiner.html
+Sacha Arnoud,Google,SachaArnoud.html
+Dotan Emanuel,Google,DotanEmanuel.html
+Andrew Slater,Google,author39606.html
+Ahmed M. Aly,Google,AhmedMAly.html
+Alex Ingerman,Google,106408.html
+Hui Fang,Google,author5379.html
+Jort Gemmeke,Google,JortGemmeke.html
+Lily Peng,Google,LilyPeng.html
+Philip Guo,Google,PhilipGuo.html
+Geetanjali Sampemane,Google,GeetanjaliSampemane.html
+Zhonghua Xi,Google,105800.html
+Ben Hutchinson,Google,106467.html
+Christian Szegedy,Google,ChristianSzegedy.html
+Mohammad Izadi,Google,MohammadIzadi.html
+Sugato Basu,Google,author39.html
+Jana Strnadova,Google,JanaStrnadova.html
+Hyun Oh Song,Google,105135.html
+Renato Paes Leme,Google,RenatoPaesLeme.html
+Tal Cohen,Google,author37538.html
+Tony Bruguier,Google,105173.html
+Sarah Lucas,Google,105655.html
+Juhyun Lee,Google,106445.html
+Jon Orwant,Google,JonOrwant.html
+Thang Luong,Google,105176.html
+Weifeng Pan,Google,author58008.html
+Matthew Brown,Google,MatthewBrown.html
+Tao Dong,Google,TaoDong.html
+Michael Frumkin,Google,MichaelFrumkin.html
+Michael Brundage,Google,MichaelBrundage.html
+Chun-an Chan,Google,ChunanChan.html
+Andrew Zaldivar,Google,106474.html
+Xinchen Yan,Google,106012.html
+Marc G. Bellemare,Google,MarcGBellemare.html
+Margaret Mitchell,Google,105608.html
+Andrew Fandrianto,Google,AndrewFandrianto.html
+Hartmut Neven,Google,HartmutNeven.html
+Kevin Regan,Google,106196.html
+Eric Christiansen,Google,EricChristiansen.html
+Kevin Kilgour,Google,KevinKilgour.html
+Jeremy Hurwitz,Google,JeremyHurwitz.html
+Niki Parmar,Google,NikiParmar.html
+Jeremiah J. Harmsen,Google,JeremiahHarmsen.html
+Rob Shakir,Google,RobShakir.html
+Kevin Swersky,Google,105739.html
+Matthias Blume,Google,author39313.html
+David Talbot,Google,DavidTalbot.html
+Thomas Duebendorfer,Google,author37411.html
+Yu He,Google,author64.html
+Jonathan Krause,Google,JonathanKrause.html
+Anton Bakhtin,Google,AntonBakhtin.html
+Tara N. Sainath,Google,TaraSainath.html
+Cedric F. Lam,Google,author38397.html
+Brent Bryan,Google,author22381.html
+Claire Kayacik,Google,106384.html
+Yuchen Wu,Google,YuchenWu.html
+Parisa Tabriz,Google,author36241.html
+Ryan H. Moulton,Google,RyanHMoulton.html
+Yuan Xue,Google,106455.html
+Wessam Hassanein,Google,105203.html
+Slava Chernyak,Google,SlavaChernyak.html
+Neil Houlsby,Google,NeilHoulsby.html
+Francois Chollet,Google,105096.html
+Sergey Ioffe,Google,SergeyIoffe.html
+Jing Kong,Google,104869.html
+Mohammad Saleh,Google,105788.html
+Danny Tarlow,Google,DannyTarlow.html
+Roberto J. Bayardo,Google,author16753.html
+Ming Zhao,Google,author1502.html
+Marek Fišer,Google,105762.html
+Hieu Pham,Google,104923.html
+Wolfgang Hess,Google,WolfgangHess.html
+Andreas Veit,Google,106067.html
+Julio Angulo,Google,105438.html
+Jonathan M. McCune,Google,JonathanMcCune.html
+Nadav Golbandi,Google,105605.html
+Rishabh Singh,Google,RishabhSingh.html
+Francois-Rene Rideau,Google,FrancoisReneRideau.html
+Nicholas Carlini,Google,NicholasCarlini.html
+Fuchun Peng,Google,FuchunPeng.html
+Sean Quinlan,Google,author97.html
+Arvind Jain,Google,author35943.html
+Bill Byrne,Google,author39011.html
+Diomidis Spinellis,Google,DiomidisSpinellis.html
+Anselm Levskaya,Google,AnselmLevskaya.html
+Shraman Ray Chaudhuri,Google,ShramanRayChaudhuri.html
+Pat Stephenson,Google,author907.html
+Justin T. Ho,Google,JustinHo.html
+Xiaojing Wang,Google,XiaojingWang.html
+Ashish Vijay Tendulkar,Google,105469.html
+Xavier Velez,Google,XavierVelez.html
+Alejandra Estanislao,Google,105179.html
+Harikrishna Narasimhan,Google,106252.html
+Ryan Harrison,Google,RyanHarrison.html
+Michael Hughes,Google,MichaelMurakami.html
+David Konerding,Google,DavidKonerding.html
+Ali Elkahky,Google,106313.html
+Nevin Heintze,Google,NevinHeintze.html
+Manya Sleeper,Google,104951.html
+Arvind Satyanarayan,Google,105888.html
+Michael Lippautz,Google,MichaelLippautz.html
+Julien Tinnes,Google,105834.html
+Yuk Wah Wong,Google,author10320.html
+Dayu Yuan,Google,105145.html
+Dennis Abts,Google,author36240.html
+Jenny Chen,Google,JennyChen.html
+Ross McIlroy,Google,RossMcIlroy.html
+Monika Podsiadło,Google,105932.html
+David Weiss,Google,DavidWeiss.html
+Milad Hashemi,Google,MiladHashemi.html
+Patrick Riley,Google,PatrickRiley.html
+Sreenivas Gollapudi,Google,SreenivasGollapudi.html
+Samy Bengio,Google,bengio.html
+Abhijit Mahabal,Google,105575.html
+Garen Checkley,Google,106456.html
+Zafarali Ahmed,Google,ZafaraliAhmed.html
+Benjamin Eysenbach,Google,BenjaminEysenbach.html
+Aliaksei Severyn,Google,AliakseiSeveryn.html
+Marco Fornoni,Google,MarcoFornoni.html
+Denis Baylor,Google,DenisBaylor.html
+Raphael Cendrillon,Google,RaphaelCendrillon.html
+Tzvika Hartman,Google,105835.html
+Jeremy Cole,Google,JeremyCole.html
+Iulia Ion,Google,IuliaIon.html
+Cheng Chen,Google,105664.html
+Ahmed Taei,Google,AhmedTaei.html
+Uri Nadav,Google,UriNadav.html
+Andrew Adams,Google,AndrewAdams.html
+Shuang Yin,Google,105334.html
+Mehmet Emre Sargin,Google,author38262.html
+Moti Yung,Google,106617.html
+Arkanath Pathak,Google,106175.html
+Chao-Yeh Chen,Google,ChaoYehChen.html
+Mariano Schain,Google,105841.html
+Mostafa Dehghani,Google,105644.html
+Joshua S. Herbach,Google,author38398.html
+Jay Han,Google,104914.html
+Alex Gilgur,Google,AlexGilgur.html
+Yannis Agiomyrgiannakis,Google,author57972.html
+Jeongwoo Ko,Google,author23244.html
+Diana Jaunzeikare,Google,DianaJaunzeikare.html
+Ben Poole,Google,BenPoole.html
+Pushmeet Kohli,Google,105667.html
+Milos Besta,Google,author6623.html
+Kristina N Toutanova,Google,KristinaNToutanova.html
+Sebastian Bruch,Google,SebastianNimaBruch.html
+Valentin I. Spitkovsky,Google,author3196.html
+David Lowe,Google,DavidLowe.html
+Nal Kalchbrenner,Google,NalKalchbrenner.html
+Ron Merom,Google,author39051.html
+Marcin Michalski,Google,105814.html
+Craig Mermel,Google,CraigMermel.html
+Madhukar R. Korupolu,Google,MadhukarKorupolu.html
+Katherine Heller,Google,106149.html
+Uday R. Naik,Google,author32197.html
+Andreas Terzis,Google,AndreasTerzis.html
+Wei Wang,Google,106159.html
+Chao Chen,Google,ChaoChen.html
+Pauline Anthonysamy,Google,PaulineAnthonysamy.html
+Csaba Szepesvari,Google,105511.html
+Manfred K. Warmuth,Google,106469.html
+Kevin Millikin,Google,KevinMillikin.html
+Phillip Yelland,Google,PhillipYelland.html
+Dennis Fetterly,Google,DennisFetterly.html
+Hayes Raffle,Google,author15163.html
+Emily Fertig,Google,EmilyFertig.html
+Sherry Moore,Google,104893.html
+Christian Plagemann,Google,ChristianPlagemann.html
+Tolga Kayadelen,Google,106352.html
+John Khawam,Google,JohnKhawam.html
+Alexandre Mah,Google,AlexandreMah.html
+Kunal Talwar,Google,KunalTalwar.html
+Andrea Tagliasacchi,Google,106392.html
+Noe Lutz,Google,NoeLutz.html
+Joseph Roth,Google,JosephRoth.html
+Gagan Bansal,Google,GaganBansal.html
+John Palowitch,Google,JohnPalowitch.html
+Boulos Harb,Google,BoulosHarb.html
+George Papandreou,Google,GeorgePapandreou.html
+Daniel Peng,Google,author39208.html
+Rich Cannings,Google,106398.html
+Saurabh Singh,Google,SaurabhSingh.html
+Warren Shen,Google,author18116.html
+Atil Iscen,Google,105360.html
+Bryan Perozzi,Google,BryanPerozzi.html
+Bo Dai,Google,106086.html
+Rahul Sukthankar,Google,RahulSukthankar.html
+Dean Jackson,Google,DeanJackson.html
+Tim Blakely,Google,105450.html
+Alan Papir,Google,105593.html
+Deborah Weisser,Google,author36192.html
+Matthew Kelcey,Google,104791.html
+Genzhi Ye,Google,GenzhiYe.html
+Azade Nazi,Google,106111.html
+Michele Spagnuolo,Google,MicheleSpagnuolo.html
+Erwin Coumans,Google,ErwinCoumans.html
+Amitabh Saikia,Google,AmitabhSaikia.html
+Joel Shor,Google,105688.html
+Tobias Weyand,Google,104862.html
+Murray Stokely,Google,MurrayStokely.html
+Bikash Koley,Google,author39228.html
+Peng Dai,Google,author58238.html
+Sean O'Malley,Google,SeanOMalley.html
+Dan Gillick,Google,DanGillick.html
+Zhiping Yang,Google,104890.html
+Tim King,Google,TimKing.html
+Alex Ainslie,Google,AlexAinslie.html
+Juan Lang,Google,JuanLang.html
+Carolina Parada,Google,CarolinaParada.html
+Christina Funk,Google,ChristinaFunk.html
+Rehan Khan,Google,author38924.html
+Angelika Moscicki,Google,AngelikaMoscicki.html
+Mark Sandler,Google,author2357.html
+Frank Dabek,Google,author2377.html
+James Bankoski,Google,105284.html
+Alexander Toshev,Google,AlexanderToshev.html
+Christian Stefansen,Google,ChristianStefansen.html
+Frederic Didier,Google,FredericDidier.html
+Ramprasad Venkataraman,Google,RamprasadVenkataraman.html
+Michele Covell,Google,author85.html
+Weicheng Kuo,Google,106625.html
+Aditya Bhaskara,Google,AdityaBhaskara.html
+Keith Bonawitz,Google,105175.html
+Kevin Graney,Google,KevinGraney.html
+Enrique Alfonseca,Google,author35866.html
+Anil Kokaram,Google,AnilKokaram.html
+Mia Chen,Google,105875.html
+Rob Pike,Google,r.html
+Anastasios Kementsietsidis,Google,AnastasiosKementsietsidis.html
+Alexander Kolesnikov,Google,106611.html
+Matthew Otey,Google,MatthewOtey.html
+Hongji Bao,Google,HongjiBao.html
+Josh Mutus,Google,105714.html
+Rif A. Saurous,Google,105197.html
+Rachel Fan,Google,RachelFan.html
+Rishabh Agarwal,Google,RishabhAgarwal.html
+Ashish Gupta,Google,AshishGupta.html
+Thomas Steiner,Google,author39477.html
+Balasubramanian Sivan,Google,105109.html
+Georg Heigold,Google,GeorgHeigold.html
+Matthew C. Loring,Google,MatthewCLoring.html
+Xiance Si,Google,author38938.html
+Maxwell Bileschi,Google,MaxwellBileschi.html
+Jochen Eisinger,Google,author39371.html
+Laura A. Granka,Google,author3679.html
+Caitlin Taggart,Google,106505.html
+Brett Slatkin,Google,BrettSlatkin.html
+Ouais Alsharif,Google,OuaisAlsharif.html
+Andrew Rosenberg,Google,106253.html
+Karan Singh,Google,KaranSingh.html
+Andrew M. Dai,Google,AndrewDai.html
+Arkajit Dey,Google,author39183.html
+Prabhakar Raghavan,Google,PrabhakarRaghavan.html
+Mila Hardt,Google,MilaHardt.html
+Brian Tagiku,Google,BrianTagiku.html
+Ian Fischer,Google,105625.html
+Nick Johnston,Google,NickJohnston.html
+Nicholas Frosst,Google,105473.html
+David Oppenheimer,Google,DavidOppenheimer.html
+Farhad Shahmohammadi,Google,105707.html
+Hossein Mobahi,Google,105286.html
+Ana Klimovic,Google,AnaKlimovic.html
+Nicole Forsgren,Google,106549.html
+Casey Burkhardt,Google,CaseyBurkhardt.html
+Sean Augenstein,Google,105180.html
+Kathryn Rough,Google,KathrynRough.html
+Raviteja Vemulapalli,Google,RavitejaVemulapalli.html
+Evgeniy Stepanov,Google,EvgeniyStepanov.html
+Ehsan Variani,Google,EhsanVariani.html
+Nemanja Petrovic,Google,author4496.html
+Kazoo Sone,Google,106488.html
+Mitch Hatscher,Google,author36188.html
+Erich Elsen,Google,ErichElsen.html
+Charles DuHadway,Google,CharlesDuHadway.html
+Eddie Pettis,Google,EddiePettis.html
+Rafael Müller,Google,RafaelMuller.html
+Ankur Bapna,Google,105376.html
+Ian Tenney,Google,IanTenney.html
+Feng Lu,Google,FengLu.html
+Kshipra Bhawalkar,Google,KshipraBhawalkar.html
+Benedikt Meurer,Google,BenediktMeurer.html
+Sanketh Shetty,Google,SankethShetty.html
+Jeremy Rahe,Google,JeremyRahe.html
+James B. Wendt,Google,JamesWendt.html
+Matthias Ruhl,Google,author106.html
+Jonathan Berant,Google,105830.html
+Ioannis Tsochantaridis,Google,author1929.html
+Lluis Garcia-Pueyo,Google,LluisGarciaPueyo.html
+David Wetherall,Google,105021.html
+Andrew Harp,Google,AndrewHarp.html
+Stéphane Lafon,Google,author22372.html
+Maxwell D. Collins,Google,105452.html
+Aditi Viswanathan,Google,106661.html
+Hyrum Wright,Google,HyrumWright.html
+Laszlo Szekeres,Google,LaszloSzekeres.html
+Avneesh Sud,Google,105052.html
+John D. Perreault,Google,JohnPerreault.html
+Richard Rose,Google,104847.html
+Shankar Kumar,Google,author3286.html
+Noah Snavely,Google,105910.html
+Ian Langmore,Google,IanLangmore.html
+Mateusz Malinowski,Google,MateuszMalinowski.html
+David Steiner,Google,106387.html
+Yasaman Bahri,Google,YasamanBahri.html
+Erika Rice Scherpelz,Google,author22638.html
+David Thau,Google,author58089.html
+Alexei Czeskis,Google,AlexeiCzeskis.html
+Dan Ellis,Google,DanEllis.html
+Sagi Perel,Google,SagiPerel.html
+Fei Xiao,Google,FeiXiao.html
+Mike Schuster,Google,MikeSchuster.html
+Jess Holbrook,Google,JessHolbrook.html
+Bridget Spitznagel,Google,BridgetSpitznagel.html
+Yao-Chung Lin,Google,105633.html
+Piotr Teterwak,Google,106108.html
+Josh Bailey,Google,JoshBailey.html
+Yun-hsuan Sung,Google,105458.html
+Finnegan Southey,Google,author251.html
+Kaveh Shahabi,Google,KavehShahabi.html
+Peter Dienes,Google,author114.html
+Adnan Ozturel,Google,104968.html
+bertrand Le cun,Google,bertrandLecun.html
+Gary R. Holt,Google,GaryHolt.html
+Cheng Yi,Google,ChengYi.html
+Radhika Niranjan Mysore,Google,RadhikaNiranjanMysore.html
+Andre Gaschler,Google,AndreGaschler.html
+Vincent Simonet,Google,VincentSimonet.html
+Pradyumna Narayana,Google,PradyumnaNarayana.html
+Ekaterina Gonina,Google,105535.html
+Dana Movshovitz-Attias,Google,DanaMovshovitzAttias.html
+Eugene Weinstein,Google,EugeneWeinstein.html
+Nicolas Remy,Google,NicolasRemy.html
+Srinivas Vasudevan,Google,SrinivasVasudevan.html
+Christopher Olah,Google,ChristopherOlah.html
+Ye Jia,Google,YeJia.html
+Le Zhao,Google,LeZhao.html
+Yasemin Altun,Google,105781.html
+Charles Reis,Google,author37904.html
+Zan Armstrong,Google,106275.html
+Goetz Graefe,Google,105119.html
+Jacques Pienaar,Google,JacquesPienaar.html
+Kerry Rodden,Google,author16.html
+Lauren Wilcox,Google,106542.html
+Hugo Larochelle,Google,105144.html
+Matthias Minderer,Google,MatthiasMinderer.html
+Jon Feldman,Google,jonfeld.html
+Ted Baltz,Google,105016.html
+Andreas Moser,Google,AndreasMoser.html
+Joe Gregorio,Google,author39201.html
+Ivan Bogatyy,Google,IvanBogatyy.html
+Carrie Grimes Bostock,Google,author31907.html
+Chad Yoshikawa,Google,author38400.html
+Nishant Patil,Google,NishantPatil.html
+Monica Dinculescu,Google,106355.html
+Juergen Sturm,Google,JuergenSturm.html
+Yongwei Yang,Google,YongweiYang.html
+Anand Kanagala,Google,AnandKanagala.html
+Cayden Meyer,Google,106281.html
+Anne-Claire Haury,Google,106232.html
+Golan Pundak,Google,GolanPundak.html
+Michael Abd-El-Malek,Google,MichaelAbdElMalek.html
+Varun Gulshan,Google,105170.html
+Jack Hebert,Google,JackHebert.html
+Kathryn S. McKinley,Google,105267.html
+Marc Najork,Google,MarcNajork.html
+Olivia Redfield,Google,OliviaRhinehart.html
+Chun-Ta Lu,Google,106420.html
+Sergei Vassilvitskii,Google,SergeiVassilvitskii.html
+Matthias Grundmann,Google,author38919.html
+Nevan Wichers,Google,NevanWichers.html
+Yin-Wen Chang,Google,105405.html
+Fernando V. Bonassi,Google,FernandoBonassi.html
+Jakub Łącki,Google,105517.html
+Bryan Seybold,Google,105552.html
+Adam Feldman,Google,AdamFeldman.html
+Jahangir Hasan,Google,JahangirHasan.html
+Wolfgang Grieskamp,Google,106394.html
+Gilad Bracha,Google,105163.html
+Michael Piatek,Google,MichaelPiatek.html
+Tianli Yu,Google,author39635.html
+Michael Bendersky,Google,MichaelBendersky.html
+Luca Invernizzi,Google,104783.html
+Behnam Bastani,Google,105498.html
+Abhinav Shrivastava,Google,AbhinavShrivastava.html
+Ramón Medrano Llamas,Google,RamonMedranoLlamas.html
+Jay Busch,Google,106668.html
+Kayur Patel,Google,KayurPatel.html
+Ignacio Lopez Moreno,Google,IgnacioLopezMoreno.html
+Gaurav Singh Tomar,Google,GauravSinghTomar.html
+Mohammad Sajjad Hossain,Google,MohammadHossain.html
+Rong Liu,Google,106344.html
+Yuan Yu,Google,104812.html
+Dustin Tran,Google,105674.html
+Jacob Devlin,Google,106320.html
+Weisi Dai,Google,WeisiDai.html
+Flavien Prost,Google,FlavienProst.html
+Ariel Gordon,Google,ArielGordon.html
+Samuel L. Smith,Google,SamuelLSmith.html
+Praveen Paritosh,Google,PraveenParitosh.html
+Yue Chen,Google,106114.html
+Ananth Raghunathan,Google,AnanthRaghunathan.html
+Minmin Chen,Google,106011.html
+Evgeniy Gabrilovich,Google,EvgeniyGabrilovich.html
+Terry Lam,Google,TerryLam.html
+Liviu Panait,Google,author35544.html
+Oleksandr Zinenko,Google,OleksandrZinenko.html
+Shuyuan Zhang,Google,ShuyuanZhang.html
+Igor Naverniouk,Google,IgorNaverniouk.html
+Mohsen Vakilian,Google,MohsenVakilian.html
+Trevor Gale,Google,TrevorGale.html
+Mike Tyka,Google,MikeTyka.html
+Bhargav Kanagal,Google,BhargavKanagal.html
+Denton Gentry,Google,DentonGentry.html
+Rupa Krishnan,Google,RupaKrishnan.html
+Telmo Pires,Google,telmo.html
+Slav Petrov,Google,author38945.html
+Tianjian Lu,Google,105395.html
+Andrea Spadaccini,Google,AndreaSpadaccini.html
+Tiziana Refice,Google,author38914.html
+Jayanthkumar Kannan,Google,JayanthkumarKannan.html
+Arran Schlosberg,Google,ArranSchlosberg.html
+Abhinandan Das,Google,author7822.html
+Rui Zhao,Google,RuiZhao.html
+Oscar Täckström,Google,oscart.html
+Avinatan Hassidim,Google,105831.html
+Tomáš Ižo,Google,TomasIzo.html
+Sagar Jain,Google,105630.html
+Vitaly Feldman,Google,VitalyFeldman.html
+Françoise Beaufays,Google,author21120.html
+Rina Panigrahy,Google,105816.html
+David Akers,Google,DavidAkers.html
+Cliff Sze,Google,CliffSze.html
+Xin Luna Dong,Google,XinDong.html
+Jennifer Petoff,Google,JenniferPetoff.html
+Alexander Gruenstein,Google,author39407.html
+Chris Bregler,Google,ChrisBregler.html
+Gamaleldin Fathy Elsayed,Google,GamaleldinFathyElsayed.html
+Paul J. Turner,Google,author31565.html
+Yin Cui,Google,YinCui.html
+Seth Ladd,Google,SethLadd.html
+Sara Sabour,Google,105557.html
+David F. Bacon,Google,DavidFBacon.html
+Andy Davis,Google,104876.html
+Keren Gu,Google,KerenGu.html
+Todd Phillips,Google,ToddPhillips.html
+Raziel Alvarez,Google,RazielAlvarez.html
+Bernhard Friedrich Brodowsky,Google,106359.html
+Karol Hausman,Google,106013.html
+Bart Samwel,Google,BartSamwel.html
+Scott Satkin,Google,ScottSatkin.html
+Dale Woodford,Google,DaleWoodford.html
+Chinnadhurai Sankar,Google,106364.html
+Roee Aharoni,Google,RoeeAharoni.html
+Utku Evci,Google,UtkuEvci.html
+Gokhan Tur,Google,104928.html
+David Mease,Google,DavidMease.html
+Xiaoqiang Zheng,Google,XiaoqiangZheng.html
+Dina Papagiannaki,Google,105042.html
+Christine Maiquyen Luu,Google,106354.html
+Alireza Ghaffarkhah,Google,105232.html
+Vighnesh Birodkar,Google,VighneshBirodkar.html
+Jonathan B. Phillips,Google,106283.html
+Gabriel Ilharco Magalhaes,Google,106079.html
+Niels Provos,Google,author1.html
+Jennifer L. Gove,Google,JenniferGove.html
+Chen Gu,Google,ChenGu.html
+Soheil Hassas Yeganeh,Google,105125.html
+Alexander Gorban,Google,105189.html
+Chris Alberti,Google,ChrisAlberti.html
+Nikhil Sharma,Google,NikhilSharma.html
+Ami Patel,Google,106431.html
+Julie Cattiau,Google,106144.html
+Rob Anderson,Google,RobAnderson.html
+Sridhar Srinivasan,Google,SridharSrinivasan.html
+Stefan Holmer,Google,StefanHolmer.html
+Irwan Bello,Google,105476.html
+Richard Chiburis,Google,RichardChiburis.html
+Edgar A. Duéñez Guzmán,Google,EdgarADuenezGuzman.html
+Yasuhisa Fujii,Google,YasuhisaFujii.html
+Yuan Yuan,Google,YuanYuan.html
+Nan Ding,Google,NanDing.html
+Lode Vandevenne,Google,105856.html
+Dan Steinberg,Google,DanSteinberg.html
+Jarek Kusmierek,Google,JarekKusmierek.html
+Johan G. Granstrom,Google,JohanGranstrom.html
+Ryan Babbush,Google,RyanBabbush.html
+Alexander De Luca,Google,AlexanderDeLuca.html
+Huazhong Ning,Google,HuazhongNing.html
+Jakub Konecny,Google,JakubKonecny.html
+Stéphane Soppera,Google,106234.html
+Hugues Hoppe,Google,HuguesHoppe.html
+Amit Singhal,Google,author1461.html
+Ilya Mironov,Google,IlyaMironov.html
+Bor-Yiing Su,Google,BorYiingSu.html
+Andrew Allen,Google,105668.html
+Charles Spirakis,Google,author4946.html
+Alan Skelley,Google,author39626.html
+Eli Bendersky,Google,105251.html
+Eirikur Agustsson,Google,EirikurAgustsson.html
+Krzysztof Ostrowski,Google,author58206.html
+Alexander D'Amour,Google,106470.html
+Ulrich Rueckert,Google,106294.html
+Carlos Riquelme,Google,CarlosRiquelme.html
+Daniel V. Klein,Google,DanielKlein.html
+Pararth Shah,Google,105118.html
+Keun Soo Yim,Google,KeunYim.html
+Cheng Li,Google,ChengLi.html
+Martin Ortlieb,Google,MartinOrtlieb.html
+Xiaohua Zhai,Google,105961.html
+Daniel Smilkov,Google,DanielSmilkov.html
+Michelle Dimon,Google,106404.html
+Hui Miao,Google,106343.html
+Olivier Siohan,Google,OlivierSiohan.html
+Robert W. Reeder,Google,RobertReeder.html
+Rohan Anil,Google,105802.html
+Fernanda Viegas,Google,FernandaViegas.html
+Bay-Wei Chang,Google,author100.html
+Bruno Cartoni,Google,BrunoCartoni.html
+Mehdi Sharifzadeh,Google,author17367.html
+Olivier Pietquin,Google,105812.html
+Xiangyu Wang,Google,XiangyuWang.html
+Ta'id Holmes,Google,106170.html
+Andrey Zhmoginov,Google,105447.html
+Parisa Haghani,Google,106140.html
+Vihan Jain,Google,VihanJain.html
+Silvio Lattanzi,Google,SilvioLattanzi.html
+Alexander Ku,Google,AlexanderKu.html
+Ulan Degenbaev,Google,UlanDegenbaev.html
+Rodrigo Damazio,Google,author36256.html
+Ashish Raniwala,Google,author12700.html
+Sean Blaes,Google,SeanBlaes.html
+Boris Smus,Google,BorisSmus.html
+George Foster,Google,GeorgeFoster.html
+Sergei Glazunov,Google,SergeiGlazunov.html
+Robert Dadashi,Google,RobertDadashi.html
+Chanwoo Kim,Google,105202.html
+John S. Webb,Google,JohnWebb.html
+Naeem Esfahani,Google,105374.html
+Yury Pisarchyk,Google,YuryPisarchyk.html
+Ehud Rivlin,Google,106052.html
+Marc Nunkesser,Google,MarcNunkesser.html
+Quan Geng,Google,QuanGeng.html
+Robert Spalek,Google,author36204.html
+Vitaly Nikolaev,Google,105832.html
+Rastislav Lenhardt,Google,RastislavLenhardt.html
+Maya Gupta,Google,MayaGupta.html
+Ken Dauber,Google,author36290.html
+Michael Vrable,Google,MichaelVrable.html
+Hugo Penedones,Google,HugoPenedones.html
+Andrea Knight,Google,author11433.html
+Svilen Kanev,Google,SvilenKanev.html
+Xiaojun Bi,Google,XiaojunBi.html
+Thomas Deselaers,Google,ThomasDeselaers.html
+Isabelle Stanton,Google,IsabelleStanton.html
+Marko Ivanković,Google,105427.html
+Radek Vingralek,Google,RadekVingralek.html
+Emily Stark,Google,EmilyStark.html
+Marlos C. Machado,Google,106703.html
+Bradley Taylor,Google,author70.html
+Kentaro Hara,Google,105953.html
+JJ Lueck,Google,JJLueck.html
+Daisy Stanton,Google,DaisyStanton.html
+Harish Chandran,Google,HarishChandran.html
+Effrosyni Kokiopoulou,Google,EffrosyniKokiopoulou.html
+Noor Ali-Hasan,Google,NoorAliHasan.html
+Vasil S. Denchev,Google,VasilDenchev.html
+Josh Levenberg,Google,JoshLevenberg.html
+Edward K. Smith,Google,105357.html
+Ari Morcos,Google,AriMorcos.html
+Robert Griesemer,Google,author96.html
+Yuxue Jin,Google,104888.html
+Janne Kontkanen,Google,JanneKontkanen.html
+Vincent Wan,Google,VincentWan.html
+Daniel von Dincklage,Google,author36313.html
+Roy Tromble,Google,author37739.html
+You (Will) Wu,Google,YouWillWu.html
+Seungyeon Kim,Google,SeungyeonKim.html
+Rahul Gupta,Google,RahulGupta.html
+Akosua Busia,Google,AkosuaBusia.html
+Daniel Hewlett,Google,DanielHewlett.html
+Arnaud Sahuguet,Google,author2704.html
+Andrei Kulik,Google,AndreiKulik.html
+Michael Burrows,Google,author24014.html
+Timur Iskhodzhanov,Google,TimurIskhodzhanov.html
+Hee Jung Ryu,Google,HeeJungRyu.html
+Jing Xie,Google,JingXie.html
+Jessica Kirchner,Google,105265.html
+Alexander Totok,Google,author13637.html
+Ramakrishnan Srikant,Google,author888.html
+Penporn Koanantakool,Google,PenpornKoanantakool.html
+Jennifer N. Wei,Google,JenniferNWei.html
+Kunal Taneja,Google,KunalTaneja.html
+Hyduke Noshadi,Google,HydukeNoshadi.html
+Clement Courbet,Google,ClementCourbet.html
+Raghav Gupta,Google,105623.html
+Aurko Roy,Google,105555.html
+Goran Petrovic,Google,GoranPetrovic.html
+Qifan Wang,Google,104973.html
+Marc Berndl,Google,105333.html
+Bob Felderman,Google,BobFelderman.html
+Anelia Angelova,Google,AneliaAngelova.html
+Jichuan Chang,Google,JichuanChang.html
+Alfred Z. Spector,Google,AlfredSpector.html
+Lieven Verslegers,Google,LievenVerslegers.html
+Yaowu Xu,Google,author39741.html
+Trieu H. Trinh,Google,105913.html
+John Paul Alex,Google,106266.html
+Maryam Kamvar,Google,author34.html
+Davi de Castro Reis,Google,author17772.html
+Laurent Dinh,Google,105938.html
+Will Hayworth,Google,106584.html
+Minghui Shi,Google,MinghuiShi.html
+Rahul Garg,Google,105675.html
+Chris Chapman,Google,ChrisChapman.html
+Daniel Keysers,Google,DanielKeysers.html
+Claudio Criscione,Google,ClaudioCriscione.html
+Lukas Weichselbaum,Google,LukasWeichselbaum.html
+Daniel S. Park,Google,106098.html
+Alexandros Andre Chaaraoui,Google,AlexandrosAndreChaaraoui.html
+Keon Jang,Google,104841.html
+Mark Woodward,Google,MarkWoodward.html
+Illia Polosukhin,Google,IlliaPolosukhin.html
+Jeff Shute,Google,JeffShute.html
+Bhaskar Mehta,Google,author36288.html
+Jianing Wei,Google,106436.html
+Vahid Kazemi,Google,105229.html
+Moustafa A. Hammad,Google,hammad.html
+Krishnendu Chaudhury (aka Krish Chaudhury),Google,author4594.html
+Colin Evans,Google,105162.html
+Evan Leonard,Google,EvanLeonard.html
+Christine Robson,Google,ChristineRobson.html
+Narayan Hegde,Google,NarayanHegde.html
+Alan Su,Google,author8080.html
+Eric Tune,Google,EricTune.html
+Balint Miklos,Google,BalintMiklos.html
+Priyam Dutta,Google,106503.html
+Patrick Hummel,Google,PatrickHummel.html
+Nathan Coehlo,Google,NathanCoehlo.html
+Rebecca Isaacs,Google,RebeccaIsaacs.html
+Jarrod R. McClean,Google,JarrodRMcClean.html
+Tanvir Amin,Google,TanvirAmin.html
+Jindong (JD) Chen,Google,JindongJDChen.html
+Maria-Ines Carrera,Google,MariaInesCarrera.html
+Sneha Reddy Kudugunta,Google,SnehaReddyKudugunta.html
+Mahesh Palekar,Google,author19677.html
+Shixiang (Shane) Gu,Google,104824.html
+Andrew Widdowson,Google,AndrewWiddowson.html
+Geoffrey E. Hinton,Google,GeoffreyHinton.html
+Richard M. Conlan,Google,author37974.html
+Neha Nayak,Google,105514.html
+Rafael Fernández-Moctezuma,Google,rfernand.html
+Dillon Sharlet,Google,105641.html
+Doug Kwan,Google,DougKwan.html
+Pavel Sountsov,Google,PavelSountsov.html
+Brendan Jou,Google,BrendanJou.html
+Joseph Kelly,Google,105884.html
+Chris Frost,Google,ChrisFrost.html
+Emily Pitler,Google,EmilyPitler.html
+Francois Belletti,Google,105871.html
+Yuan Wang,Google,YuanWang.html
+Stephan Hoyer,Google,StephanHoyer.html
+Mustafa Emre Acer,Google,MustafaEmreAcer.html
+Pasindu De Silva,Google,PasinduDeSilva.html
+Elizabeth Churchill,Google,104978.html
+Ozan Cakmakci,Google,OzanCakmakci.html
+Shabsi Walfish,Google,author38489.html
+David L. Presotto,Google,author4927.html
+Rob Clark,Google,105453.html
+Laura Vardoulakis,Google,105160.html
+Fred Bertsch,Google,FredBertsch.html
+Damien Desfontaines,Google,DamienDesfontaines.html
+Petar Aleksic,Google,105201.html
+Min Wang,Google,MinWang.html
+Stefano Mazzocchi,Google,StefanoMazzocchi.html
+Anna Turner,Google,105294.html
+Xiaobo Fan,Google,author18272.html
+Ott Tinn,Google,OttTinn.html
+Krzysztof Kotowicz,Google,105418.html
+Carl Staelin,Google,author58254.html
+Nav Jagpal,Google,NavJagpal.html
+David A. Ross,Google,author23969.html
+Amelia Archer,Google,AmeliaArcher.html
+D. Sculley,Google,author38217.html
+Anthony Francis,Google,author35466.html
+Marc Pickett,Google,MarcPickett.html
+Mark S. Miller,Google,author35958.html
+Sebastian Lekies,Google,105465.html
+Aleksey Boyko,Google,105319.html
+Negin (Nicki) Golrezaei,Google,105556.html
+Jun Xu,Google,author857.html
+Yuchung Cheng 鄭又中,Google,author27276.html
+Thomas Colthurst,Google,105011.html
+Timothy Yang,Google,TimothyYang.html
+Jennifer Zamora,Google,105314.html
+Emmanuel Guere,Google,105186.html
+Michael Tseng,Google,MichaelTseng.html
+Jie Tan,Google,JieTan.html
+George Toderici,Google,author38233.html
+Paul Barham,Google,PaulBarham.html
+Irippuge Milinda Perera,Google,106245.html
+Felicia S. C. Lim,Google,FeliciaLim.html
+Louis Wasserman,Google,LouisWasserman.html
+Haim Kaplan,Google,105855.html
+Gabriel Kliot,Google,104797.html
+Alok Kumar,Google,AlokKumar.html
+David Martin,Google,DavidMartin.html
+Marina Kobayashi,Google,MarinaKobayashi.html
+Blake Lemoine,Google,106471.html
+James Laudon,Google,JamesLaudon.html
+Martin Wattenberg,Google,MartinWattenberg.html
+Stephanie C.Y. Chan,Google,106100.html
+Jeff Bailey,Google,JeffBailey.html
+Leonid Velikovich,Google,LeonidVelikovich.html
+Dylan Freedman,Google,DylanFreedman.html
+Austin Waters,Google,AustinWaters.html
+Jouni Kerman,Google,JouniKerman.html
+Chandler Carruth,Google,ChandlerCarruth.html
+Robert E. Gruber,Google,author32266.html
+Vineet Gupta,Google,author71.html
+John DeNero,Google,author38952.html
+Ruiqi Guo,Google,105540.html
+Ashok Popat,Google,105431.html
+Arvind Neelakantan,Google,ArvindNeelakantan.html
+Prajit Ramachandran,Google,106331.html
+Manoj Plakal,Google,author8115.html
+Emerson Murphy-Hill,Google,EmersonMurphyHill.html
+Wei Zhang,Google,WeiZhang.html
+Alejandro Estrella-Balderrama,Google,104810.html
+Håkan L. S. Younes,Google,author36212.html
+Pawel Lichocki,Google,PawelLichocki.html
+Tyler Akidau,Google,TylerAkidau.html
+Tom Kenter,Google,TomKenter.html
+Damien Kelly,Google,DamienKelly.html
+Kellie Webster,Google,KellieWebster.html
+Barclay Osborn,Google,BarclayOsborn.html
+Mykhaylo Andriluka,Google,MykhayloAndriluka.html
+Felix X. Yu,Google,FelixYu.html
+Michael Cohen,Google,MichaelCohen.html
+Sean Dorward,Google,author95.html
+Dravyansh Sharma,Google,106075.html
+Ellie Pavlick,Google,106265.html
+Bram Bonné,Google,BramBonne.html
+Cliff Young,Google,105499.html
+Gil Shamir,Google,GilShamir.html
+Jiecao Chen,Google,106459.html
+Ryohei Urata,Google,RyoheiUrata.html
+K. Shirriff,Google,author144.html
+Anne Aula,Google,author35667.html
+Pushkar Tripathi,Google,PushkarTripathi.html
+Vincent Perot,Google,VincentPerot.html
+Marina Ganea,Google,105414.html
+Pierre Sermanet,Google,PierreSermanet.html
+Diego Ardila,Google,105338.html
+Matt Welsh,Google,author672.html
+Ravi Jain,Google,author139.html
+Man Kit (Joe) Cheuk,Google,106638.html
+Jayant Madhavan,Google,author6192.html
+Tushar Deepak Chandra,Google,author3563.html
+Ido Cohn,Google,IdoCohn.html
+Viren Jain,Google,VirenJain.html
+Ting Liu,Google,105496.html
+Cory McLean,Google,CoryMcLean.html
+Urvang Joshi,Google,UrvangJoshi.html
+Mandy Guo,Google,106370.html
+Joe Jiang,Google,JoeJiang.html
+Rasmus Munk Larsen,Google,106446.html
+Jan Wassenberg,Google,JanWassenberg.html
+Aaron Sedley,Google,AaronSedley.html
+Bartosz Przydatek,Google,BartoszPrzydatek.html
+Austin Fowler,Google,105043.html
+Zoran Dimitrijević,Google,author1794.html
+Ray Smith,Google,author4479.html
+Pranav Khaitan,Google,106395.html
+Max Moroz,Google,MaxMoroz.html
+Ryan Poplin,Google,105518.html
+Eric Battenberg,Google,EricBattenberg.html
+Sanjiv Kumar,Google,author11555.html
+David Majnemer,Google,105429.html
+JC van Winkel,Google,105254.html
+Rachel Potvin,Google,104817.html
+Wiesner Vos,Google,WiesnerVos.html
+Niru Maheswaranathan,Google,105568.html
+Tingnan Zhang,Google,TingnanZhang.html
+Hailong Cai,Google,author36275.html
+Samuel J. Yang,Google,105801.html
+Xiaozhou Li,Google,XiaozhouLi.html
+Jie Jessie Ren,Google,JieJessieRen.html
+Sam Whittle,Google,SamWhittle.html
+Lukasz Kaiser,Google,LukaszKaiser.html
+Dror Aiger,Google,DrorAiger.html
+Benjamin Lee,Google,106519.html
+Ondrej Sykora,Google,OndrejSykora.html
+Shailesh Kumar,Google,ShaileshKumar.html
+Nitin Gupta,Google,nigupta.html
+Patrick Copeland,Google,PatrickCopeland.html
+Bin Shen,Google,BinShen.html
+John Field,Google,JohnField.html
+Li Zhang,Google,LiZhang.html
+Masrour Zoghi,Google,MasrourZoghi.html
+Jan Pfeifer,Google,105488.html
+Sowmya Karunakaran,Google,104949.html
+Rohit Jnagal,Google,105454.html
+Albert Cohen,Google,106208.html
+Ted Hardie,Google,TedHardie.html
+Thomas C. Walters,Google,author38237.html
+Luke Church,Google,LukeChurch.html
+Marija Mikic-Rakic,Google,author17372.html
+Tamas Sarlos,Google,TamasSarlos.html
+Marius Pasca,Google,author107.html
+Henrik Stewénius,Google,author39342.html
+Azalia Mirhoseini,Google,105104.html
+Arnar Birgisson,Google,ArnarBirgisson.html
+Niket Agarwal,Google,NiketAgarwal.html
+Julius Adebayo,Google,105929.html
+Johnny Chung Lee,Google,105767.html
+Pete Warden,Google,PeteWarden.html
+David Sussillo,Google,DavidSussillo.html
+Xiao Yu,Google,104818.html
+Xuanhui Wang,Google,XuanhuiWang.html
+Cédric Deltheil,Google,CedricDeltheil.html
+Oskar Sandberg,Google,author38476.html
+Decheng Dai,Google,DechengDai.html
+John Wilkes,Google,JohnWilkes.html
+Wei Wei,Google,105672.html
+Oriol Vinyals,Google,OriolVinyals.html
+Marc Donner,Google,author36270.html
+Olivier Bousquet,Google,OlivierBousquet.html
+Sebastian Kirsch,Google,SebastianKirsch.html
+Robert Ormandi,Google,RobertOrmandi.html
+Cong Yu,Google,CongYu.html
+Ana Radovanovic,Google,AnaRadovanovic.html
+Stefan Hinterstoisser,Google,StefanHinterstoisser.html
+Satyen Kale,Google,105054.html
+Heng-Tze Cheng,Google,Heng-TzeCheng.html
+Po-Hsuan Cameron Chen,Google,PoHsuanCameronChen.html
+Eduard Trulls,Google,EduardTrulls.html
+Josh Hyman,Google,author36123.html
+Dmitry Storcheus,Google,DmitryStorcheus.html
+Mohammad Taghi Saffar,Google,106673.html
+Geoffrey Irving,Google,GeoffreyIrving.html
+Aakanksha Chowdhery,Google,105776.html
+Robert Hundt,Google,author38135.html
+Javier Tordable,Google,JavierTordable.html
+Kenton Lee,Google,KentonLee.html
+Nikhil Rao,Google,author39222.html
+Philip Quinn,Google,PhilipQuinn.html
+Honglak Lee,Google,105654.html
+Zhongyi (Cherie) Shi,Google,105287.html
+Ravi Kumar,Google,RaviKumar.html
+Alexandre Tachard Passos,Google,AlexandreTachardPassos.html
+Xiao Zhang,Google,XiaoZhang.html
+Hrishikesh Aradhye,Google,author37818.html
+Jeremy Ginsberg,Google,author15407.html
+Arno Eigenwillig,Google,author39322.html
+Alex Wiltschko,Google,105779.html
+Sara Hooker,Google,SaraHooker.html
+Edward E. Aftandilian,Google,EdwardAftandilian.html
+Klaus Macherey,Google,author29100.html
+Leif Johnson,Google,LeifJohnson.html
+Russell Lee-Goldman,Google,105263.html
+Úlfar Erlingsson,Google,ulfar.html
+Liu Yang,Google,LiuYang.html
+Robert Bradshaw,Google,RobertBradshaw.html
+Kurt Partridge,Google,105474.html
+Thomas Mensink,Google,106396.html
+Adrienne Porter Felt,Google,AdrienneFelt.html
+Tony Gentilcore,Google,TonyGentilcore.html
+Chenyang Zhang,Google,106481.html
+Jana Iyengar,Google,JanaIyengar.html
+Mohammed Attia,Google,105127.html
+Shumeet Baluja,Google,author35.html
+Kumar Krishna Agrawal,Google,105925.html
+Rebecca Moore,Google,author36348.html
+Annalisa Pawlosky,Google,106186.html
+Sella Nevo,Google,SellaNevo.html
+Michael Starzinger,Google,MichaelStarzinger.html
+Jon Vaver,Google,105243.html
+Jingning Han,Google,JingningHan.html
+Sameer Agarwal,Google,author39771.html
+Derek Zhiyuan Cheng,Google,ZhiyuanCheng.html
+Bruno Possas,Google,BrunoPossas.html
+Youlong Cheng,Google,106632.html
+Yunfei Bai,Google,105569.html
+Pascal Getreuer,Google,PascalGetreuer.html
+Joe Faith,Google,JoeFaith.html
+Nick Black,Google,NickBlack.html
+David Fork,Google,DavidFork.html
+Xiaoxue Zhao,Google,XiaoxueZhao.html
+Nithum Thain,Google,105662.html
+Paul Covington,Google,PaulCovington.html
+Beat Gfeller,Google,BeatGfeller.html
+Paulo Braz Golgher,Google,author2732.html
+Dmitry Vyukov,Google,DmitryVyukov.html
+Tali Dekel,Google,106442.html
+Suming Jeremiah Chen,Google,106522.html
+Sandy Ritchie,Google,106369.html
+Yun-Ta Tsai,Google,105312.html
+Eyal Carmi,Google,EyalCarmi.html
+Greg Kochanski,Google,105545.html
+Lin Liao,Google,author16399.html
+Georg M. Goerg,Google,GeorgGoerg.html
+Mirjam Wattenhofer,Google,MirjamWattenhofer.html
+Dustin Zelle,Google,106375.html
+Jeffrey C. Mogul,Google,JeffreyMogul.html
+Paul Nordstrom,Google,PaulNordstrom.html
+Andy Zeng,Google,AndyZeng.html
+Justin McWilliams,Google,JustinMcWilliams.html
+Kevin S. McCurley,Google,author89.html
+Dan Zigmond,Google,DanZigmond.html
+Zhang Jiang,Google,105870.html
+Ian Simon,Google,104882.html
+Isin Demirsahin,Google,105840.html
+Lawrence Ying,Google,LawrenceYing.html
+Aniket Mokashi,Google,AniketMokashi.html
+Lucas Beyer,Google,LucasBeyer.html
+Oran Lang,Google,105975.html
+Lechao Xiao,Google,105681.html
+Aditya Paliwal,Google,AdityaPaliwal.html
+Neal Cardwell,Google,NealCardwell.html
+Amir Yazdanbakhsh,Google,106107.html
+Philippe Hamel,Google,PhilippeHamel.html
+Debargha Mukherjee,Google,105660.html
+Yi Liu,Google,author4723.html
+Wolfgang Macherey,Google,author7590.html
+Caitlin Sadowski,Google,CaitlinSadowski.html
+Robert Love,Google,author39633.html
+Daniel Golovin,Google,DanielGolovin.html
+Andrew Gallagher,Google,AndrewGallagher.html
+Zoya Svitkina,Google,ZoyaSvitkina.html
+Shanqing Cai,Google,105277.html
+Chunhui Gu,Google,ChunhuiGu.html
+Michal Jastrzebski,Google,MichalJastrzebski.html
+George Dahl,Google,104884.html
+Michael Rubinstein,Google,MichaelRubinstein.html
+Fereshteh Sadeghi,Google,FereshtehSadeghi.html
+Holger Rapp,Google,104853.html
+Kostas Kollias,Google,KostasKollias.html
+Xuezhi Wang,Google,105995.html
+Brandon Yang,Google,106116.html
+Chia-Kai Liang,Google,ChiaKaiLiang.html
+Juri Ganitkevitch,Google,JuriGanitkevitch.html
+David K. Rensin,Google,DavidRensin.html
+Meire Fortunato,Google,MeireFortunato.html
+Mei Han,Google,author13553.html
+Pablo Samuel Castro,Google,105571.html
+James J. Kuffner,Google,author39726.html
+Gunjan Baid,Google,GunjanBaid.html
+Daniel M. Russell,Google,author173.html
+Alexander W. Blocker,Google,AlexanderBlocker.html
+Luis Antonio Perez,Google,LuisAntonioPerez.html
+Elin Rønby Pedersen,Google,author36234.html
+Gurmeet Singh Manku,Google,author3591.html
+Kai Kohlhoff,Google,KaiKohlhoff.html
+Steven Hickson,Google,105942.html
+Gleb Mazovetskiy,Google,GlebMazovetskiy.html
+David Gallup,Google,DavidGallup.html
+Vijay Vasudevan,Google,VijayVasudevan.html
+Quan Nguyen,Google,QuanNguyen.html
+Zachary Nado,Google,ZacharyNado.html
+Jiongxin Jin,Google,JiongxinJin.html
+Ke Hu,Google,106652.html
+Zvika Ben-Haim,Google,author58038.html
+Adam Roberts,Google,104881.html
+Jhilmil Jain,Google,JhilmilJain.html
+Alexander Gutkin,Google,AlexanderGutkin.html
+William T. Freeman,Google,WilliamTFreeman.html
+Scott Schwartz,Google,ScottSchwartz.html
+Aaron Cheang,Google,AaronCheang.html
+David Morris Hoffman,Google,DavidMorrisHoffman.html
+Ekaterina Ignasheva,Google,106411.html
+Xiaoqiang Luo,Google,XiaoqiangLuo.html
+Michael Dikovsky,Google,106658.html
+Peng Xu,Google,PengXu.html
+Paul (Tony) Watson,Google,PaulWatson.html
+Vijay Vusirikala,Google,VijayVusirikala.html
+Juan Antonio Elices Crespo,Google,105269.html
+Parthasarathy Ranganathan,Google,ParthasarathyRanganathan.html
+Andrew Hard,Google,106203.html
+Evgeny Skvortsov,Google,EvgenySkvortsov.html
+Amr Ahmed,Google,AmrAhmed.html
+Chandrasekhar Boyapati,Google,ChandrasekharBoyapati.html
+Derek G. Murray,Google,DerekMurray.html
+Michael Dietz,Google,MichaelDietz.html
+Ameesh Makadia,Google,AmeeshMakadia.html
+Henry A. Rowley,Google,author37.html
+David Pal,Google,DavidPal.html
+Dara Bahri,Google,DaraBahri.html
+Olga Wichrowska,Google,OlgaWichrowska.html
+Jay Yagnik,Google,author36197.html
+Hao Zhang,Google,HaoZhang.html
+Liang-Chieh Chen,Google,105586.html
+Wei Li,Google,WeiLi.html
+Thad Hughes,Google,author37811.html
+Patrick Bowen,Google,PatrickBowen.html
+Zhen Li,Google,ZhenLi.html
+Uri Lerner,Google,UriLerner.html
+Richard Hay,Google,author39232.html
+Julius Kammerl,Google,JuliusKammerl.html
+Emmanuel Mogenet,Google,EmmanuelMogenet.html
+Roy Want,Google,RoyWant.html
+Aranyak Mehta,Google,author31656.html
+Michael Ringgaard,Google,author38358.html
+Abhishek Kumar,Google,author20028.html
+Kun Lin,Google,KunLin.html
+Hongil Yoon,Google,HongilYoon.html
+Vignesh Ganapathy,Google,VigneshGanapathy.html
+Ilan Horn,Google,author38460.html
+Aaron D'Souza,Google,author44.html
+Milo Martin,Google,104802.html
+Victor Carbune,Google,104909.html
+Liang Jia,Google,LiangJia.html
+Michael DeWitt,Google,MichaelDeWitt.html
+Shumin Zhai,Google,author9128.html
+David Belanger,Google,105401.html
+Konstantinos Bousmalis,Google,KonstantinosBousmalis.html
+Sam Sudar,Google,SamSudar.html
+Manan Shah,Google,MananShah.html
+Mohamed Elfeky,Google,MohamedElfeky.html
+Jing Conan Wang,Google,JingConanWang.html
+Michal Segalov,Google,MichalSegalov.html
+Andrew Tomkins,Google,author8038.html
+Liz Looney,Google,LizLooney.html
+Theresa Breiner,Google,106306.html
+Jeffrey Sorensen,Google,author14753.html
+Vincent Vanhoucke,Google,VincentVanhoucke.html
+(June) Yuan Shangguan,Google,105946.html
+Ankur Parikh,Google,104995.html
+Moheeb Abu Rajab,Google,MoheebAbuRajab.html
+Jarek Wilkiewicz,Google,JarekWilkiewicz.html
+Subhodeep Moitra,Google,SubhodeepMoitra.html
+Mosha Pasumansky,Google,MoshaPasumansky.html
+Jannis Bulian,Google,JannisBulian.html
+Marcel Hlopko,Google,MarcelHlopko.html
+Betsy (Adrienne Elizabeth) Beyer,Google,105156.html
+Vivek Kwatra,Google,author38000.html
+Qiqi Yan,Google,QiqiYan.html
+Mehryar Mohri,Google,author122.html
+Adam Bloniarz,Google,106570.html
+Hao-Tien Lewis Chiang,Google,HaoTienLewisChiang.html
+Ian Lance Taylor,Google,author37504.html
+Collin Winter,Google,CollinWinter.html
+Andrew T. Miller,Google,author4552.html
+Yoshikiyo Kato,Google,105749.html
+Jai Gupta,Google,106128.html
+Pavel Simakov,Google,PavelSimakov.html
+Chris Quintana,Google,ChrisQuintana.html
+Yael Pritch Knaan,Google,106214.html
+Julian Kelly,Google,105027.html
+Mahima Pushkarna,Google,MahimaPushkarna.html
+Tsuwei Chen,Google,TsuweiChen.html
+Zhe Li,Google,106031.html
+Casey Whitelaw,Google,author18680.html
+Michal Lukasik,Google,MichalLukasik.html
+Michael Stay,Google,stay.html
+SHEN-FU TSAI,Google,106263.html
+Marcus Fontoura,Google,author17919.html
+Gang Li,Google,GangLi.html
+Ankur Taly,Google,AnkurTaly.html
+Matthieu Geist,Google,106211.html
+Ruofei Du,Google,RuofeiDu.html
+Ivan Grishchenko,Google,IvanGrishchenko.html
+Hongbo Deng,Google,105274.html
+Sen Zhao,Google,105233.html
+Matt Pharr,Google,MattPharr.html
+Vinodkumar Prabhakaran,Google,VinodkumarPrabhakaran.html
+Lev Shamardin,Google,105327.html
+Mohamed Elhawary,Google,author39411.html
+Jiquan Ngiam,Google,105768.html
+Muthian Sivathanu,Google,author12741.html
+Shuguang Han,Google,106353.html
+Dale Schuurmans,Google,DaleSchuurmans.html
+Panayiotis Mavrommatis,Google,author35847.html
+Etienne Pot,Google,105559.html
+Ryan Sepassi,Google,105742.html
+Jeffrey van Gogh,Google,JeffreyvanGogh.html
+Gregory Collins,Google,author58033.html
+Ananya Misra,Google,AnanyaMisra.html
+Jen Tong,Google,mimming.html
+Mor Geva,Google,106239.html
+Pieter-jan Kindermans,Google,105533.html
+Qi Zhao,Google,105570.html
+Khe Chai Sim,Google,105905.html
+Peter Norgaard,Google,PeterNorgaard.html
+Knot Pipatsrisawat,Google,KnotPipatsrisawat.html
+Michael Gygli,Google,105744.html
+Zhifeng Chen,Google,author8126.html
+David Huffaker,Google,DavidHuffaker.html
+Andrea Gesmundo,Google,AndreaGesmundo.html
+Ben L. Titzer,Google,BenTitzer.html
+Christopher Semturs,Google,ChristopherSemturs.html
+Sergio Guadarrama,Google,105009.html
+Idan Szpektor,Google,105847.html
+Matthew Streeter,Google,author38369.html
+Wei Ding,Google,106053.html
+Jennifer Wang,Google,JenniferWang.html
+Brad Penoff,Google,BradPenoff.html
+Dvir Kafri,Google,DvirKafri.html
+William D Heavlin,Google,WilliamHeavlin.html
+Christian Buck,Google,ChristianBuck.html
+Martin Wicke,Google,MartinWicke.html
+Evangelos Kanoulas,Google,EvangelosKanoulas.html
+Sebastian Krause,Google,SebastianKrause.html
+Denny Vrandečić,Google,vrandecic.html
+Sai Teja Peddinti,Google,SaiPeddinti.html
+Michael De Rosa,Google,MichaelDeRosa.html
+Neil Fraser,Google,author38488.html
+Melvin Johnson,Google,105147.html
+David X. Chan,Google,DavidChan.html
+Supheakmungkol Sarin,Google,105900.html
+Hank Liao,Google,author37501.html
+Younghee Kwon,Google,YoungheeKwon.html
+Niall Murphy,Google,NiallMurphy.html
+Ricardo A Garcia,Google,106020.html
+Sudheendra Vijayanarasimhan,Google,105363.html
+Renaud Hartert,Google,105397.html
+Chen Wang,Google,ChenWang.html
+Naty Leiser,Google,NatyLeiser.html
+Jay Adams,Google,JayAdams.html
+Lamtharn (Hanoi) Hantrakul,Google,106121.html
+Anton Geraschenko,Google,106543.html
+Saurabh Kumar,Google,106077.html
+Ali Mousavi,Google,AliMousavi.html
+Nithya Sambasivan,Google,NithyaSambasivan.html
+Martin Jansche,Google,author35845.html
+Paolo M Piselli,Google,PaoloMPiselli.html
+Masoud Mohseni,Google,MasoudMohseni.html
+Janak Ramakrishnan,Google,JanakRamakrishnan.html
+Mohammadhossein Bateni,Google,bateni.html
+Caroline Pantofaru,Google,CarolinePantofaru.html
+Caglar Gulcehre,Google,105702.html
+Debidatta Dwibedi,Google,DebidattaDwibedi.html
+Sami Boukortt,Google,SamiBoukortt.html
+Felipe Goldstein,Google,FelipeGoldstein.html
+Hossein Ahmadi,Google,HosseinAhmadi.html
+Atul Adya,Google,AtulAdya.html
+Liqun Cheng,Google,LiqunCheng.html
+David Soergel,Google,DavidSoergel.html
+Lamia Youseff,Google,LamiaYouseff.html
+Daniel Freedman,Google,DanielFreedman.html
+Cristian Sminchisescu,Google,CristianSminchisescu.html
+Michael Riley,Google,author125.html
+Derek Schuff,Google,DerekSchuff.html
+Heidi Lam,Google,author14918.html
+Noel Gorelick,Google,author37653.html
+Ron J. Weiss,Google,RonWeiss.html
+Michael Fink,Google,author26.html
+Shanxiang Qi,Google,ShanxiangQi.html
+Boyang Deng,Google,BoyangDeng.html
+Javier A. Bargas-Avila,Google,JavierBargasAvila.html
+Jill Palzkill Woelfer,Google,JillWoelfer.html
+Dario Freni,Google,DarioFreni.html
+Vinay Rao,Google,106449.html
+Oxana Comanescu,Google,106368.html
+Nan Du,Google,104844.html
+Matthew Simpson,Google,author36218.html
+Daniel Freeman,Google,DanielFreeman.html
+Anthony J. Nicholson,Google,author27277.html
+Branislav Kveton,Google,106259.html
+Changkyu Kim,Google,ChangkyuKim.html
+Judy Chen,Google,JudyChen.html
+James C. Corbett,Google,author39619.html
+Qin Gao,Google,105154.html
+Okan Kolak,Google,author2713.html
+Bo Li,Google,BoLi.html
+Eva Schlinger,Google,EvaSchlinger.html
+Peter Norvig,Google,author205.html
+Scott Wisdom,Google,ScottWisdom.html
+Valey Kamalov,Google,ValeyKamalov.html
+Rob Siemborski,Google,105237.html
+Damon Kohler,Google,DamonKohler.html
+Hassan Wassel,Google,HassanWassel.html
+Moritz Hardt,Google,104937.html
+Chung-Cheng Chiu,Google,ChungChengChiu.html
+Pedro J. Moreno,Google,author5289.html
+Yonathan Schwarzkopf,Google,YonathanSchwarzkopf.html
+Izhak Shafran,Google,IzhakShafran.html
+Shravan Rayanchu,Google,ShravanRayanchu.html
+Domagoj Babic,Google,DomagojBabic.html
+Jing (David) Dai,Google,JingDai.html
+Dirk Balfanz,Google,DirkBalfanz.html
+Jakob Uszkoreit,Google,author37567.html
+Manish Purohit,Google,ManishPurohit.html
+Sebastian Schnorf,Google,SebastianSchnorf.html
+Hyoun Kyu Cho,Google,HyounKyuCho.html
+Brian Patton,Google,105050.html
+Andrew W. Moore,Google,author6411.html
+Matthew Neeley,Google,MatthewNeeley.html
+Lu Jiang,Google,LuJiang.html
+Celal Ziftci,Google,104897.html
+Katja Filippova,Google,author39008.html
+Jascha Sohl-dickstein,Google,JaschaSohldickstein.html
+Sujith Ravi,Google,SujithRavi.html
+John Micco,Google,105187.html
+Vijay Janapa Reddi,Google,105462.html
+Vladimir Macko,Google,vlejd.html
