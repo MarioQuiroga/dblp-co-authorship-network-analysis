@@ -1,0 +1,3028 @@
+Aaron van den Oord,Google
+Monika Rauch Henzinger,Google
+Jonathan Tompson,Google
+Sergey Levine,Google
+Rong Ou,Google
+S Muthukrishnan,Google
+Sreeram Balakrishnan,Google
+Alon Halevy,Google
+Kenneth Wilder,Google
+Quoc Le,Google
+Naveen Kumar,Google
+Rasmus Larsen,Google
+Jeff Dean,Google
+Dominic Widdows,Google
+Jennifer Leilani Zamora,Google
+Alexey Kolesnikov,Google
+Mark A DePristo,Google
+Andrew Carroll,Google
+Vivek Rathod,Google
+Kevin Murphy,Google
+Daniel Russell,Google
+Angel X Chang,Google
+Edward Y Chang,Google
+Patrick Chen,Google
+Artem Vovk,Google
+Daniel Ford,Google
+Francois Labelle,Google
+Florentina Popovici,Google
+Van Anh Truong,Google
+Luiz Barroso,Google
+Carrie Grimes,Google
+Brandon Jones,Google
+Pei Cao,Google
+Ryan Rasti,Google
+Cait Phillips,Google
+Marc Andre Decoste,Google
+Chris Sharp,Google
+Fabio Tirelo,Google
+Ali Tofigh,Google
+Marc Antoine Courteau,Google
+Lucas Ballard,Google
+Robert Shield,Google
+Panos Mavrommatis,Google
+Ksenia Konyushkova,Google
+Chris Lampert,Google
+Andrew Howard,Google
+Tim Kraska,Google
+Shahab Kamali,Google
+Vahab Mirrokni,Google
+Amir Najmi,Google
+Tara Sainath,Google
+Andrew Senior,Google
+Kean Chin,Google
+Philip M Long,Google
+H K Jerry Chu,Google
+Yuchung Cheng,Google
+Ryan Sleevi,Google
+Devon O Brien,Google
+Eran Messeri,Google
+Augustus Odena,Google
+Colin Raffel,Google
+Ian Goodfellow,Google
+Olivier Frederic Bachem,Google
+Jason Weston,Google
+Jurgen Sturm,Google
+Yoram Singer,Google
+Alejandro Forero Cuervo,Google
+Sarah Chavis,Google
+Dekang Lin,Google
+Mikhail Afanasyev,Google
+Christopher D Manning,Google
+Ryan Dahl,Google
+Jonathan Shlens,Google
+Andrew Hogue,Google
+Joseph Reisinger,Google
+Michael Alexander Nirschl,Google
+Daniel Borkan,Google
+Lucas Dixon,Google
+Ed Chi,Google
+Artur Janc,Google
+Stephen Weis,Google
+Adam Stepinksi,Google
+Vibhu Mittal,Google
+Mohammad Ghavamzadeh,Google
+Sam Smith,Google
+Chris Ying,Google
+Ashwinkumar Badanidiyuru,Google
+AJ Piergiovanni,Google
+Michael Ryoo,Google
+Maxim Krikun,Google
+Yuan Cao,Google
+Apurva Shah,Google
+ukasz Kaiser,Google
+Taku Kudo,Google
+George Kurian,Google
+Jason Smith,Google
+Macduff Hughes,Google
+Jui Ting Huang,Google
+Brian Strope,Google
+Andriy Mnih,Google
+Chris J Maddison,Google
+Jascha Sohl Dickstein,Google
+Robert West,Google
+Shaohua Sun,Google
+Iliyan Batanov Malchev,Google
+Andrew Hsieh,Google
+Dave Burke,Google
+Felix Yu,Google
+Paul Eastham,Google
+Karen Simonyan,Google
+Alexander Graves,Google
+Koray Kavukcuoglu,Google
+Serge Belongie,Google
+Geoffrey Hinton,Google
+Tom Dean,Google
+Alexander Nicholas D Amour,Google
+Andy Cotter,Google
+Neil Bathia,Google
+David Richard So,Google
+Chen Liang,Google
+Stephen A Weis,Google
+Gereon Frahling,Google
+Paul Tucker,Google
+Rodrigo Rodrigues,Google
+Y Singer,Google
+Ashish Rastogi,Google
+Izzeddin Gur,Google
+Uli Rueckert,Google
+Oded Fuhrmann,Google
+Joseph Bardin,Google
+Trent Huang,Google
+Pedram Roushan,Google
+Kunal Arya,Google
+Jimmy Chen,Google
+Brian Burkett,Google
+Yu Chen,Google
+Rob Graff,Google
+Anthony Megrant,Google
+Charles Neill,Google
+Mark Striebeck,Google
+Milo M K Martin,Google
+Tim Pan,Google
+Yu Ting Chen,Google
+Steve Lawrence,Google
+Yair Shimshoni,Google
+Niv Efron,Google
+MohammadHossein Bateni,Google
+Ray Yang,Google
+Richard Zhuang,Google
+Hector Gonzalez,Google
+Anno Langen,Google
+Rebecca Shapley,Google
+Cheng Zhi Anna Huang,Google
+Brian Anderson Bullins,Google
+Xinyi Chen,Google
+Cyril Zhang,Google
+Yi Zhang,Google
+Akira Ishino,Google
+Vinodha Ramasamy,Google
+Dehao Chen,Google
+Jarrod Ryan McClean,Google
+Daryl Pregibon,Google
+Williiam D Heavlin,Google
+Michael Still,Google
+Luis Garcia Pueyo,Google
+Andrei Broder,Google
+Kevin Lerman,Google
+Sasha Blair Goldensohn,Google
+Thyago Duque,Google
+Ying Sheng,Google
+Nguyen Ha Vo,Google
+Bill Schilit,Google
+Edward Li,Google
+Hagen Soltau,Google
+Gerhard Wesp,Google
+Vasil Denchev,Google
+Sergei Isakov,Google
+Vadim Smelyanskiy,Google
+Scott Reed,Google
+Seth Hettich,Google
+Minh Doan,Google
+Christos Faloutsos,Google
+Kerry Hannan,Google
+Tyler Neylon,Google
+Mike Wells,Google
+Jeff Reynar,Google
+Qi Zhang,Google
+Turaj Zakizadeh Shabestary,Google
+Alex Gruenstein,Google
+Alfred Spector,Google
+Steve Benting,Google
+Gabriel Dulac Arnold,Google
+Chris Dyer,Google
+Franz Och,Google
+Dennis Strelow,Google
+Yair Carmon,Google
+Maya R Gupta,Google
+Andrew Cotter,Google
+Konstantin Voevodski,Google
+Wojciech Moczydlowski,Google
+Barret Zoph,Google
+Jon Shlens,Google
+Abhimanyu Das,Google
+Alex Kesselman,Google
+Matt Hoffman,Google
+Matthew Johnson,Google
+Daniela Raijman,Google
+Jun Wang,Google
+Robert Bowdidge,Google
+Warren Turkal,Google
+Mike Bendersky,Google
+Tavis Ormandy,Google
+Patrick Ryan,Google
+Rick Whitt,Google
+Vint Cerf,Google
+Alexander R Perry,Google
+Nori Kanazawa,Google
+Alex Smola,Google
+Anish Das Sarma,Google
+Ilya Sutskever,Google
+Chase Kew,Google
+Barath Raghavan,Google
+Ankur Jain,Google
+Dave Golland,Google
+Reid Kleckner,Google
+Peter Wubbels,Google
+Tyler Rhodes,Google
+Kira Whitehouse,Google
+Marc Coram,Google
+Sean M O Malley,Google
+Sung Jin Hwang,Google
+Damien Vincent,Google
+Somas Thyagaraja,Google
+Alan Bettes,Google
+Helen Harris,Google
+Jeff Grimes,Google
+Steven Whang,Google
+Sarah Falvey,Google
+Ashish Agarwal,Google
+Rafal Jozefowicz,Google
+Dan Mane,Google
+Derek Murray,Google
+Chris Olah,Google
+Foto Afrati,Google
+Ian Porteous,Google
+Naga Naresh Karuturi,Google
+Rijsberman Frank R,Google
+Karl Pfleger,Google
+Nicholas Chamandy,Google
+Omkar Muralidharan,Google
+Siddartha Naidu,Google
+Pedro Moreno,Google
+Jason Baker,Google
+JJ Furman,Google
+Andrey Khorlin,Google
+James Larson,Google
+Jean Michel Leon,Google
+Yawei Li,Google
+Vadim Yushprakh,Google
+Stephane Eranian,Google
+Tomer Koren,Google
+Hoang Trieu Trinh,Google
+Andrew Dai,Google
+Max Bileschi,Google
+Drew Bryant,Google
+Brandon Carter,Google
+Mark DePristo,Google
+Alexander Daryin,Google
+Nikhil Sarda,Google
+Jimbo Wilson,Google
+Robert Hagmann,Google
+Vrigo Gokhale,Google
+Sam Schoenholz,Google
+Grzegorz Malewicz,Google
+Eric Y Chen,Google
+Henning Hohnhold,Google
+Deirdre O Brien,Google
+Samantha Winter,Google
+Michael Terry,Google
+Yu hsin Chen,Google
+Mirko Visontai,Google
+Hiyan Alshawi,Google
+Asa Oines,Google
+Gagan Goel,Google
+Kazuki Irie,Google
+Antoine Bruguier,Google
+Patrick Nguyen,Google
+Yelena Nakhimovsky,Google
+Rudy Schusteritsch,Google
+Nicholas A Johnson,Google
+Frank O Kuehnel,Google
+Ali Nasiri Amini,Google
+Johan Schalkwyk,Google
+Thorsten Brants,Google
+Vida Ha,Google
+Will Neveitt,Google
+W Bastiaan Kleijn,Google
+Chrisantha Fernando,Google
+Dylan Banarse,Google
+Charles Blundell,Google
+Yori Zwols,Google
+Andrei A Rusu,Google
+Alexander Pritzel,Google
+Daan Wierstra,Google
+Ying Yin,Google
+Colin Whittaker,Google
+Brian Ryner,Google
+Marria Nazif,Google
+Troy Chinen,Google
+Anna Goldie,Google
+Samuel S Schoenholz,Google
+Justin Gilmer,Google
+Michael A Frumkin,Google
+Dave Helstroom,Google
+Trisha Weir,Google
+Kurt Delimon,Google
+Kavita Guliani,Google
+Alexander Gilgur,Google
+Brian Eck,Google
+Marcus Hines,Google
+Victor Lin,Google
+Brian Rogan,Google
+Arjun Singh,Google
+Bert Tanaka,Google
+Manish Verma,Google
+Dzevad Trumic,Google
+Vytautas Valancius,Google
+Mahesh Kallahalla,Google
+Tom Broxton,Google
+Taro Watanabe,Google
+Tetsuji Nakagawa,Google
+Josh Dillon,Google
+Karl Moritz Hermann,Google
+Dan Bikel,Google
+Keith Hall,Google
+Jing Yu,Google
+Scott Roy,Google
+Ashish V Tendulkar,Google
+Ed Chang,Google
+Elaine Jin,Google
+Jonathan Phillips,Google
+Ed Knapp,Google
+Vasilis Gkatzelis,Google
+Robin Jeffries,Google
+Terry Winograd,Google
+Sushant Jain,Google
+Joon Ong,Google
+Subbaiah Venkata,Google
+Jim Wanderer,Google
+Junlan Zhou,Google
+Min Zhu,Google
+David Elson,Google
+Aleks Kracun,Google
+Diego Melendo Casado,Google
+Xin Dong,Google
+Shawn R Jeffery,Google
+David Ko,Google
+Alex Ruiz,Google
+Wenjun Lu,Google
+Jilin Chen,Google
+Martin Mladenov,Google
+Jayden Ooi,Google
+Xiaoyun Wu,Google
+Cosmin Silvestru Negruseri,Google
+Mircea Bogdan Pasoi,Google
+Barbara Stanley,Google
+Clifford Stein,Google
+Cristian George Strat,Google
+Avery Pennarun,Google
+Stefan Riezler,Google
+Alexander Vasserman,Google
+Liang Huang,Google
+Michael Schueppert,Google
+Jack Saalweachter,Google
+Varun Sharma,Google
+Hans J Boehm,Google
+Bo Chen,Google
+Sascha Rothe,Google
+Pascal Fleury,Google
+Rory Abbott Sayres,Google
+Ondrey Pacovsky,Google
+Jialin Song,Google
+Sageev Oore,Google
+Sibabrata Ray,Google
+Peter Moody,Google
+Cliff C N Sze,Google
+Pawel Garbacki,Google
+Noam Shazeer,Google
+Aditya Kanade,Google
+David Bieber,Google
+Larry Heck,Google
+Atilla Peter Kiraly,Google
+Shravya Ramesh Shetty,Google
+Sujeeth Bharadwaj,Google
+Sebastian Elbaum,Google
+Edward Aftandilian,Google
+Jim Zhuang,Google
+John Platt,Google
+Jia Li,Google
+Gideon Mann,Google
+Joel Weinberger,Google
+Jaeho Kang,Google
+Marcin Andrychowicz,Google
+Lisa Carey,Google
+Yunwen Yang,Google
+Lu Zhang,Google
+Shalini Ghosh,Google
+Heinrich Jiang,Google
+Keiichi Tokuda,Google
+Jonathan Kim,Google
+Massimo Mascaro,Google
+Wojciech Pawe Gajewski,Google
+Bastiaan Kleijn,Google
+Markus N Rabe,Google
+Martin Rehn,Google
+Vladimir Tankovich,Google
+Michael John Schoenberg,Google
+Adarsh Kowdle,Google
+Christoph Rhemann,Google
+Mirko Schmidt,Google
+Maksym Dzitsiuk,Google
+Julien Valentin,Google
+Shahram Izadi,Google
+Edgar Duenez Guzman,Google
+Wojciech Zaremba,Google
+Michael D Howell,Google
+Alex Kesselman ,Google
+Katya Gonina,Google
+Jan Chorowski,Google
+Jiakai Liu,Google
+Rong Hu,Google
+Meihong Wang,Google
+Yi Wang,Google
+Edward Chang,Google
+YuQian Zhou,Google
+Gary O Connor,Google
+Huy Nguyen,Google
+Natalya Fridman Noy,Google
+Sunita Sarawagi,Google
+Darja Krushevskaja,Google
+Tim C Hesterberg,Google
+Mohammad Ahmad Saleh,Google
+Ben Goodrich,Google
+Carlos Hernandez,Google
+Steve Seitz,Google
+Don Metzler,Google
+Turaj Z Shabestary,Google
+Taylor Applebaum,Google
+Christian Schallhart,Google
+Nikos Bampounis,Google
+Benoit Brard,Google
+Jonas Fromseier Mortensen,Google
+Millie Holt,Google
+Eoin Mahon,Google
+Benjamin Van Durme,Google
+Emil Keyder,Google
+Ramin Zabih,Google
+Nikolay Savinov,Google
+Timothy Lillicrap,Google
+Alma Whitten,Google
+Diane Bates,Google
+Luke Vilnis,Google
+James Davidson,Google
+E Scott Larsen,Google
+Atish Das Sarma,Google
+Brendan McMahan,Google
+Ron Weiss,Google
+Zoe Meraz,Google
+Peggy Chi,Google
+Senpo Hu,Google
+Jeffrey M Rzeszotarski,Google
+Hideki Kawahara,Google
+Carl Doersch,Google
+Lingjia Tang,Google
+Jason Mars,Google
+Neil Vachharajani,Google
+Berthier A Ribeiro Neto,Google
+Shih wei Liao,Google
+Tzu Han Hung,Google
+Donald Nguyen,Google
+Hucheng Zhou,Google
+Mehryar Morhri,Google
+Jeremy Thorpe,Google
+Michael Chinen,Google
+Michael Sindelar,Google
+Paul Natsev,Google
+Valentin Bazarevsky,Google
+Yury Kartynnik,Google
+Andrey Vakunov,Google
+Karthik Raveendran,Google
+Xin Lei,Google
+Nick Dufour,Google
+Monika Henzinger,Google
+James Xiaqing Wu,Google
+Steve Zelinka,Google
+Andrew Kirmse,Google
+Sonia Franckel,Google
+Bjorn Hartmann,Google
+Andrew Stasyuk,Google
+Sander Dieleman,Google
+Julia Bulkowski,Google
+Denny Britz,Google
+Rich Gossweiler,Google
+Jay Ponte,Google
+Moshe Dubiner,Google
+Yu an Chung,Google
+Anna Avrekh,Google
+Bob Evans,Google
+Owen Otto,Google
+Mike Murakami,Google
+Ziv Tepman,Google
+Vani Henderson,Google
+Sergey Melnik,Google
+Andrey Gubarev,Google
+Jing Jing Long,Google
+Geoffrey Romer,Google
+Shiva Shivakumar,Google
+Matt Tolton,Google
+Florian Eyben,Google
+Stephan Zheng,Google
+Thomas Leung,Google
+Carolyn Wei,Google
+Jeffrey Pennington,Google
+Pratik Worah,Google
+Alex A Alemi,Google
+Ignacio Moreno,Google
+Mayur Datar,Google
+Ashutosh Garg,Google
+Yunchao Gong,Google
+Henry Rowley,Google
+Linne Ha,Google
+Ruixie Rachel Fan,Google
+Yi Hsin Yeh,Google
+Wojciech Skut,Google
+Karthik Singaram Lakshmanan,Google
+Nicolas Mayoraz,Google
+Yi fan Chen,Google
+John Anderson,Google
+Taylor Robie,Google
+Tayo Oguntebi,Google
+Peter Battaglia,Google
+Jessica Blake Chandler Hamrick,Google
+Victor Bapst,Google
+Alvaro Sanchez,Google
+Vinicius Zambaldi,Google
+Andrea Tacchetti,Google
+David Raposo,Google
+Adam Santoro,Google
+Ryan Faulkner,Google
+Francis Song,Google
+Andy Ballard,Google
+George E Dahl,Google
+Victoria Jayne Langston,Google
+Nicolas Heess,Google
+Matt Botvinick,Google
+Yujia Li,Google
+Razvan Pascanu,Google
+Yeliang Zhang,Google
+Warren Schudy,Google
+Kay Brodersen,Google
+Ali Mesbah,Google
+Eddie Aftandilian,Google
+Nick Glorioso,Google
+Jim Bankoski,Google
+Adrian Grange,Google
+Matthew Frost,Google
+Jeffrey Nichols,Google
+Julia Haines,Google
+Katie O Leary,Google
+Michael Gilbert,Google
+Mike Burrows,Google
+Himabindu Pucha,Google
+Adam Sadovsky,Google
+Asim Shankar,Google
+John Li,Google
+Mark Mao,Google
+Daniel Ramage,Google
+Gabriel M Bender,Google
+Peter Liu,Google
+Xin Pan,Google
+Ratheet Pandya,Google
+Jiayang Liu,Google
+Yushi Jing,Google
+Olivia Rhinehart,Google
+Gueorgi Kossinets,Google
+Nicholas Arthur FitzGerald,Google
+Kaiwen Guo,Google
+Peter Lincoln,Google
+Philip Davidson,Google
+Xueming Yu,Google
+Matt Whalen,Google
+Geoff Harvey,Google
+Sergio Orts Escolano,Google
+Jason Dourgarian,Google
+Danhang Tang,Google
+Anastasia Tkach,Google
+Emily Cooper,Google
+Mingsong Dou,Google
+Graham Fyffe,Google
+Jonathan Taylor,Google
+Paul Debevec,Google
+Tom Brown,Google
+Dandelion Mane,Google
+Assaf Michaely,Google
+Frank Zhang,Google
+Catalina Naranjo Bock,Google
+Shylaja Nukala,Google
+Soeren Pirk,Google
+Ben Mildenhall,Google
+Rob Carroll,Google
+Asif Baki,Google
+Pat Bowen,Google
+Brianna Brekke,Google
+Elizabeth Ferrall Nunge,Google
+Nina Weber,Google
+Marissa Mayer,Google
+Allison Woodruff,Google
+Jeffrey Warshaw,Google
+Sigalit Bar,Google
+Aviad Bazilai,Google
+Nir Kerem,Google
+Isaac Elias,Google
+Julian Frumar,Google
+Herb Ho,Google
+Ryan Junee,Google
+Simon Ratner,Google
+Jasson Schrock,Google
+Ran Tavory,Google
+Anurag Batra,Google
+Maxwell Douglas Hsu,Google
+Meysam Bastani,Google
+Mohamed G Elfeky,Google
+Robert C Moore,Google
+Florian Bruehlmann,Google
+Sarah Parker,Google
+Hui Su,Google
+Angie Chiang,Google
+Zoe Liu,Google
+Patrick Larvie,Google
+Olga Khroustaleva,Google
+S N Muthukrishnan,Google
+Adhi Kuncoro,Google
+John Tracy Hale,Google
+Bill Freeman,Google
+Ce Liu,Google
+Dilip Krishnan,Google
+Kurt Rosenfeld,Google
+Ashish Venugopal,Google
+Alex Krizhevsky,Google
+Neal Wadhwa,Google
+Max Dzitsiuk,Google
+Vivek Verma,Google
+Ambrus Csaszar,Google
+Ivan Dryanovski,Google
+Joao Afonso,Google
+Jose Pascoal,Google
+Konstantine Nicholas John Tsotsos,Google
+Mira Angela Leung,Google
+Onur Gonen Guleryuz,Google
+Sameh Khamis,Google
+Artyom Sharov,Google
+Brian Fitzpatrick,Google
+Biswapesh Chattopadhyay,Google
+Weiran Liu,Google
+Andrew McCormick,Google
+Paul Harvey,Google
+Roee Aharon Ebenstein,Google
+Nikita Mikhaylin,Google
+Hung ching Lee,Google
+Xiaoyan Zhao,Google
+Guanzhong Xu,Google
+Tran Bui,Google
+Neil McKay,Google
+Vera Lychagina,Google
+Amanda Surya,Google
+Andres Ferrate,Google
+Daniels Lee,Google
+Maile Ohye,Google
+Shawn Shen,Google
+Steven Hines,Google
+Brad Green,Google
+Steven Bohez,Google
+Chris DiGiano,Google
+Jingbin Wang,Google
+Javier Bargas Avila,Google
+Christian Frueh,Google
+Rita Ren,Google
+Max Luebbe,Google
+Tim Harvey,Google
+Eyal Even Dar,Google
+C Alberti,Google
+M Bacchiani,Google
+Steven Seitz,Google
+Philip Q Nelson,Google
+Jessica Mega,Google
+Stuart I Feldman,Google
+Kaisuke Nakajima,Google
+Atul Vasu,Google
+Mike LeBeau,Google
+Russell O Connor,Google
+Niall Richard Murphy,Google
+Dan Bloch,Google
+Hunter John Larco,Google
+Raimondas Kiveris,Google
+Steve Scott,Google
+Ben Treynor,Google
+Benjamin Lutch,Google
+Mike Dahlin,Google
+Vivek Rau,Google
+Rohit Khare,Google
+Nathan Silberman,Google
+Liang chieh Chen,Google
+Omer Gimenez,Google
+Marc Aurelio Ranzato,Google
+E A Baltz,Google
+M Dikovsky,Google
+J C Platt,Google
+P F Riley,Google
+Terry Tai,Google
+Avinash Vaidyanathan Varadarajan,Google
+Christof Angermueller,Google
+Joe Ledsam,Google
+Gregor Hohpe,Google
+Ramana Rao Kompella,Google
+Laura Garcia Barrio,Google
+Lidia Oshlyansky,Google
+Geremy Heitz,Google
+Wilko Horn,Google
+Todd Hester,Google
+Matej Vecerik,Google
+Marc Lanctot,Google
+Tom Schaul,Google
+Bilal Piot,Google
+Dan Horgan,Google
+John Quan,Google
+Ian Osband,Google
+John Agapiou,Google
+Joel Z Leibo,Google
+Audrunas Gruslys,Google
+Doug Grundman,Google
+Max Walker,Google
+Mustafa Acer,Google
+Elisabeth Morant,Google
+Xerxes Dotiwalla,Google
+Bryant Gipson,Google
+Onur Kucuktunc,Google
+Allison Lieber,Google
+Javier Gonzalez Dominguez,Google
+Bob MacDonald,Google
+Peter Truszkowski,Google
+Jason Hipp,Google
+Christopher Lee Gammage,Google
+Florence Thng,Google
+Martin Stumpe,Google
+Daniel Jasper,Google
+Manuel Klimek,Google
+Zhanyong Wan,Google
+Ali Yahya,Google
+Adrian Li,Google
+Olga Kanzheleva,Google
+Bilson Campana,Google
+Raman T V ,Google
+Zelin Wu,Google
+Cinjon Resnick,Google
+Philip Long,Google
+Paul Wohlhart,Google
+Laura Downs,Google
+Peter Pastor Sampedro,Google
+Kurt Konolige,Google
+Michael Hochster,Google
+Balu Adsumilli,Google
+Sasi Inguva,Google
+Cedric Lam,Google
+Chris Johnson,Google
+Sangsoo Sung,Google
+Chee Yee Chung,Google
+Chenhao Nan,Google
+Mobashar Yazdani,Google
+Xin Li,Google
+Nemanja Spasojevic,Google
+Guillaume Poncin,Google
+Alan Mackey,Google
+Krishna Kumar Gadepalli,Google
+Timo Kohlberger,Google
+Aleksey S Boyko,Google
+Aleksei Timofeev,Google
+Daniel Walker IV,Google
+Melanie Kellar,Google
+Christine Kaeser Chen,Google
+Brandon Schlinker,Google
+Sean Smith,Google
+Minlan Yu,Google
+Ethan Katz Bassett,Google
+Michael Rubin,Google
+Andrew Stribblehill,Google
+Pratul Srinivasan,Google
+D Mike Ando,Google
+Hanna Silen,Google
+Ralph Leith,Google
+Vikram Sahai,Google
+Corrie Conrad,Google
+W Brent Seales,Google
+Steve Crossan,Google
+Sertan Girgin,Google
+Mark Yoshitake,Google
+Maxwell Collins,Google
+Michael Figurnov,Google
+Yukun Zhu,Google
+Dan Sanderson,Google
+Lora Mois Aroyo,Google
+David Simcha,Google
+Felix Chern,Google
+John Isidoro,Google
+Johaness Stuerrgen,Google
+Dan Holtmann Rice,Google
+Vasyl Pihur,Google
+DK Choe,Google
+Noah Constant,Google
+Llion Jones,Google
+Doug Fritz,Google
+Florian Stimberg,Google
+Ambar Murillo,Google
+Andreas Kramm,Google
+Matthew Jorde,Google
+Ian McGraw,Google
+Wei Hua,Google
+Fei Fei Li,Google
+Gauri Shah,Google
+Sean Harvey,Google
+Ian Fette,Google
+Betsy Masiello,Google
+Jane Horvath,Google
+Ahmad Abdulkader,Google
+Matthew R Casey,Google
+Alon Ziv,Google
+Alon Y Halevy,Google
+Jost Tobias Springenberg,Google
+Martin Riedmiller,Google
+Ziyu Wang,Google
+Ricardo Martin Brualla,Google
+Shuoran Yang,Google
+Pavel Pidlypenskyi,Google
+Dan Goldman,Google
+Cem Keskin,Google
+Evdokia Nikolova,Google
+Ni Wang,Google
+Steve Davidovic,Google
+Manfred Ernst,Google
+Ashok C Popat,Google
+Vlad Panait,Google
+Steven L Scott,Google
+E Parsons,Google
+Vignesh Ramanathan,Google
+Jia Deng,Google
+Wei Han,Google
+Kunlong Gu,Google
+Zi Yang,Google
+Enrique Robledo Arnuncio,Google
+Philemon Brakel,Google
+Liam Fedus,Google
+Ying Liu,Google
+Yoni Schwarzkopf,Google
+Robert van Gent,Google
+Scott Ritchie,Google
+John Webb,Google
+Xavier Gonzalvo,Google
+Chinmay Karande,Google
+Fabio Soldo,Google
+Luke Metz,Google
+Peter Li,Google
+Michal Januszewski,Google
+Laramie J Leavitt,Google
+Jim Muller,Google
+Taman Narayan,Google
+Serena Wang,Google
+Tao Zhu,Google
+Cody Smith,Google
+Marc Bellemare,Google
+Hazem Elmeleegy,Google
+S Boixo,Google
+Jacob Buckman,Google
+Brett Allen,Google
+Aleksey Golovinskiy,Google
+C Stephen Gunn,Google
+Van Jacobson,Google
+Richard Washington,Google
+Jacob P Baskin,Google
+Carolyn Y Wei,Google
+Shane Gu,Google
+Francis Boland,Google
+Sean O Brien,Google
+David Lie,Google
+Mitch Rudominer,Google
+Ushasree Kode,Google
+Bernhard Seefeld,Google
+Ali Eslami,Google
+Bernardino Romera Paredes,Google
+Clemens Meyer,Google
+Danilo Jimenez Rezende,Google
+Olaf Ronneberger,Google
+Simon Kohl,Google
+Alexander J Smola,Google
+Bo Pang,Google
+Raymond Princess Sparklefists Blum,Google
+Rajiv Mathews,Google
+Zhongdi Qu,Google
+Jean Yves Delort,Google
+Jana Kosecka,Google
+Xin Fu,Google
+Chris Olston,Google
+Joshua Bloch,Google
+Misha Andriluka,Google
+Ajay Kumar Bangla,Google
+Jesse Emond,Google
+Bhuvana Ramabhadran,Google
+Min Ma,Google
+Bill Heavlin,Google
+Niki J Parmar,Google
+Tsung Yi Lin,Google
+Jiri Cermak,Google
+Srikanth Lakshmikanthan,Google
+Mahdi Milani Fard,Google
+Qian Yu,Google
+Liron Yatziv,Google
+Crisitian Sminchisescu,Google
+Joe McClain,Google
+Ke Wang,Google
+David Marmaros,Google
+Monica Chew,Google
+Ian Johnson,Google
+Shan Carter,Google
+Alexander Mordvintsev,Google
+Haoshuo Huang,Google
+Harsh Mehta,Google
+Alex Ku,Google
+Preston McAfee,Google
+Maria Shugrina,Google
+Gang Ren,Google
+Yixin Shi,Google
+Silvius Rus,Google
+Christian S Jensen,Google
+Galen Andrew,Google
+Hubert Eichner,Google
+Haicheng Sun,Google
+Nicholas Kong,Google
+Ming Wei Chang,Google
+Abdul Kabbani,Google
+Dave Rensin,Google
+Vuk Ercegovac,Google
+Brian Chin,Google
+Kevin Hu,Google
+Noam Nisan,Google
+Jason Bayer,Google
+Deepak Chandra,Google
+Tal Franji,Google
+Robert Gardner,Google
+Neil Rhodes,Google
+Misha Seltzer,Google
+Hal Varian,Google
+David Ross,Google
+Karthik Lakshminarayanan,Google
+Emily Denton,Google
+Timnit Gebru,Google
+Jason Hickey,Google
+Michael Brenner,Google
+Michael Emmert Buck,Google
+Narayan G Hegde,Google
+Andrew Moore,Google
+Razvan Bunescu,Google
+Balder ten Cate,Google
+Jeremiah Harmsen,Google
+Bhuwan Dhingra,Google
+William Weston Cohen,Google
+Steinar H Gunderson,Google
+Robert Gruber,Google
+Shiri Azenkot,Google
+Ryan Mcdonald,Google
+Alexander Kehlenbeck,Google
+Sergei Vassilivitskii,Google
+Vibhor Rastogi,Google
+Nader H Bshouty,Google
+Andrea Frome,Google
+MarcAurelio Ranzato,Google
+Tomas Mikolov,Google
+Loredana Afanasiev,Google
+Lyublena Antova,Google
+James Philbin,Google
+John R Hershey,Google
+Mogan Shieh,Google
+Jasmine Collins,Google
+Jane Wang,Google
+Edward Hughes,Google
+Wojciech Czarnecki,Google
+Rui Zhang,Google
+Seungji Lee,Google
+Vlad Schogol,Google
+Erin Gannon,Google
+Gerianne K Bartocci,Google
+Spencer Sugarman,Google
+Theresa Ann Liberman,Google
+Yann Riche,Google
+Adams Wei Yu,Google
+Hiroyuki Hattori,Google
+Adrienne Felt,Google
+Keir Mierle,Google
+Rui Wu,Google
+Thomas Binder,Google
+Meikel Steiding,Google
+Manuel Wille,Google
+Nils Kokemohr,Google
+Steven D Gribble,Google
+Shen fu Tsai,Google
+Sally Goldman,Google
+Jon McCune,Google
+Lauren Schmidt,Google
+Krishna Bharat,Google
+Michael Jeffrey Procopio,Google
+Christopher Olston,Google
+Jordan Soyke,Google
+Kiril Gorovoy,Google
+Li Lao,Google
+Sukriti Ramesh,Google
+Vinu Rajashekhar,Google
+Gulzar Azad,Google
+Saswati Saha Mitra,Google
+Philip Andrew Mansfield,Google
+Phil Adams,Google
+Rob Schill,Google
+Peter Pastor,Google
+Marc aurelio Ranzato,Google
+Marilyn Walker,Google
+Caroline Rebecca Pantofaru,Google
+Minyue Li,Google
+Marc Allen Cartright,Google
+Ivo Krka,Google
+Tobias Kaufmann,Google
+Linh Tran,Google
+Yuhui Chen,Google
+Kelvin Xu,Google
+Marijn Kruisselbrink,Google
+Hao Lu,Google
+Adam Langley,Google
+Al Riddoch,Google
+Alyssa Wilk,Google
+Antonio Vicente,Google
+Charles Buck Krasic,Google
+Cherie Shi,Google
+Dan Zhang,Google
+Fan Yang,Google
+Ian Swett,Google
+Janardhan Iyengar,Google
+Jeremy Christopher Dorfman,Google
+Joanna Kulik,Google
+Patrik Goran Westin,Google
+Raman Tenneti,Google
+Ryan Hamilton,Google
+Victor Vasiliev,Google
+Wan Teh Chang,Google
+Mason Chua,Google
+Alon Cohen,Google
+Kris Kennaway,Google
+Karl Pichotta,Google
+Mike Meyer,Google
+Edgar Gonzalez,Google
+Aron Culotta,Google
+Jonathan Betz,Google
+Varnali Shah,Google
+Michael W Dusenberry,Google
+Edward Choi,Google
+Jonas Kemp,Google
+Jeremy Nixon,Google
+Ghassen Jerfel,Google
+Guillermo Garrido,Google
+Niall Cardin,Google
+Zhengqi Li,Google
+Irene Au,Google
+Richard Boardman,Google
+Molly Stevens,Google
+Debmalya Panigrahi,Google
+Nir Ailon,Google
+Sheng Ma,Google
+Song Liu,Google
+Hannah Raphaelle Muckenhirn,Google
+Prashant Sridhar,Google
+Dan Crow,Google
+Soren B Lassen,Google
+Lichan Hong,Google
+Felicia Lim,Google
+Stewart James Wilcox,Google
+Colin McCormick Beske,Google
+Jeff Peck,Google
+Doug Beeferman,Google
+Ondrej Cifka,Google
+Silvana Hartmann,Google
+Steffen Rendle,Google
+Bill Weihl,Google
+Cory Y McLean,Google
+Raquel Romano,Google
+Tom Zhang,Google
+Daniel E Eisenbud,Google
+Carlo Contavalli,Google
+Roman Kononov,Google
+Eric Mann Hielscher,Google
+Ardas Cilingiroglu,Google
+Bin Cheyney,Google
+Tinghui Zhou,Google
+John Flynn,Google
+Divy Thakkar ,Google
+Nithya Sambasivan ,Google
+Pratap Kalenahalli Sudarshan,Google
+Robert Obryk,Google
+Ostap Stoliarchuk,Google
+Zoltan Szabadka,Google
+Jean Francois Paiement,Google
+Preethi Jyothi,Google
+Matt Paduano,Google
+Ethan Holly,Google
+Jiaxi Tang,Google
+Can Xu,Google
+Corey Lynch,Google
+Allen Collins,Google
+Dean McNamee,Google
+Nagendra Modadugu,Google
+Michael Janosko,Google
+Hunter King,Google
+Juri Ranieri,Google
+Yarik Markov,Google
+Vijay Eranti,Google
+Daniel Margolis,Google
+Loretta Guarino Reid,Google
+Srinivas Annam,Google
+Ohad Shamir,Google
+Michael Marty,Google
+Marc de Kruijf,Google
+Jacob Adriaens,Google
+Christopher Alfeld,Google
+Sean Bauer,Google
+Mike Dalton,Google
+William C Evans,Google
+Nicholas Kidd,Google
+Gautam Kumar,Google
+Carl Mauer,Google
+Emily Musick,Google
+Lena Olson,Google
+Mike Ryan,Google
+Erik Rubow,Google
+Kevin Springborn,Google
+Paul Turner,Google
+Valas Valancius,Google
+Xi Wang,Google
+Ting Chen,Google
+Maayan Roth,Google
+Assaf Ben David,Google
+Guy Flysher,Google
+Ari Leichtberg,Google
+Sajid Siddiqi,Google
+Steven M Seitz,Google
+Brian R Murphy,Google
+Jasper Roland Snoek,Google
+Harikumar Somakumar,Google
+Emily Xue,Google
+Shankar Subramanian,Google
+Matthew Long,Google
+Akshay Gaur,Google
+Abhimanyu Kumar Deora,Google
+Shankar Krishnan,Google
+Mark LaRosa,Google
+HyoukJoong Lee,Google
+David Tsai,Google
+Monia Ghobadi,Google
+David Grangier,Google
+Natalya F Noy,Google
+Vijay Gill,Google
+Sam Kavusi,Google
+Vlad Cardei,Google
+Ariel Liu,Google
+Khadine Singh,Google
+Matt Shannon,Google
+Ya Xu,Google
+Yuri Lin,Google
+William Brockman,Google
+Narendra K Singhal,Google
+Paulo B Golgher,Google
+Henry Tsai,Google
+Naveen Ari,Google
+Chris Palmer,Google
+Chris Bentzel,Google
+Yoelle Maarek,Google
+Jimmy Clidaras,Google
+Shreya Shankar,Google
+Yoni Halpern,Google
+Paul Wilkins,Google
+Shimin Guo,Google
+Darren Bilby,Google
+Ivan Janatra,Google
+Florin Constantin,Google
+Tim Klas Kraska,Google
+Eric Tassone,Google
+H Lally Singh,Google
+Johannes Balle,Google
+Ramesh Govindan,Google
+Ina Minei,Google
+David Chan,Google
+Mitchel Weintraub,Google
+Kevin Tang,Google
+Matt Hancher,Google
+Joondong Kim,Google
+Jingyu Zou,Google
+Eric Nielsen,Google
+Michael Salib,Google
+Tom Roeder,Google
+Luis Lozano,Google
+Grant Ho,Google
+Diamantino Caseiro,Google
+Coline Manon Devin,Google
+Gengxin Miao,Google
+Jason Katz Brown,Google
+Hiroshi Ichikawa,Google
+Masakazu Seno,Google
+Hrishi Aradhye,Google
+Jarrod McClean,Google
+Juan Carlos Niebles,Google
+Yisong Yue,Google
+Hein Roehrig,Google
+Pratik Dave,Google
+Alexander Golynski,Google
+Nina Kang,Google
+Jeffrey L Korn,Google
+Christopher D Richards,Google
+Mengzhi Wang,Google
+Jared Lichtarge,Google
+Simon Tong,Google
+Greg S Corrado,Google
+Mark Z Mao,Google
+Andrew Y Ng,Google
+Lawrence Greenfield,Google
+Robert Cypher,Google
+Theodore T so,Google
+Harris Nover,Google
+Supreeth Achar,Google
+Abhijit Ogale,Google
+Dave Ferguson,Google
+Mark Ethan Trostler,Google
+Aleksandra Korolova,Google
+Andrew G Morgan,Google
+Alexander Moshchuk,Google
+Nasko Oskov,Google
+Signe Nrly,Google
+Jess Scon Holbrook,Google
+Doug Eck,Google
+Preetum Nakkiran,Google
+Nikolay Archak,Google
+Mike Kozhevnikov,Google
+Jennifer Wei,Google
+Qiming Diao,Google
+Saige L McVea,Google
+Patrick Clary,Google
+Ken Goldman,Google
+Alok Aggarwal,Google
+Ken Hoover,Google
+Ian Rutherford Sturdy,Google
+Dong Yin,Google
+Nikhil Thorat,Google
+Noam M Shazeer,Google
+Qi Guo,Google
+Alex Hall,Google
+Ding Zhao,Google
+Qiao Liang,Google
+Deepti Bhatia,Google
+Yuan Shangguan,Google
+Yuval Netzer,Google
+Bo Wu,Google
+Vladimir Ivanov,Google
+Ben Kreuter,Google
+Sarvar Patel,Google
+Deirdre Quillen,Google
+E Santos Neto,Google
+Robert Kroeger,Google
+Melissa Carroll,Google
+Noah Coccaro,Google
+Qi Ming Jiang,Google
+Krzysztof Potempa,Google
+Luca Versari,Google
+Thomas Fischbacher,Google
+Matthew Burgess,Google
+Dan Brickley,Google
+Allan Knies,Google
+Kim Hazelwood,Google
+Mark D Roth,Google
+Amac Herdagdelen,Google
+Daniel Mahler,Google
+Maria Holmqvist,Google
+Baichuan Li,Google
+Eugene Weinsten,Google
+Madhukar Korupolu,Google
+Ben Handy,Google
+Jason Govig,Google
+Chanjun Yang,Google
+Keith Peters,Google
+Daniel Tenedorio,Google
+Felix Weigel,Google
+David G Wilhite,Google
+Jiacheng Yang,Google
+Jiexing Li,Google
+Zhan Yuan,Google
+Craig Chasseur,Google
+Qiang Zeng,Google
+Ian Rae,Google
+Anurag Biyani,Google
+Andrew Harn,Google
+Yang Xia,Google
+Andrey Gubichev,Google
+Amr El Helw,Google
+Orri Erling,Google
+Allen Yan,Google
+Mohan Yang,Google
+Yiqun Wei,Google
+Thanh Do,Google
+Colin Zheng,Google
+Somayeh Sardashti,Google
+Ahmed Aly,Google
+Divy Agrawal,Google
+Shivakumar Venkataraman,Google
+Franz J Och,Google
+Arthur Asuncion,Google
+Jac de Haan,Google
+Lauren Wong,Google
+John Danaher,Google
+Richard E Little,Google
+Jay Pillai,Google
+Kristen Aw,Google
+Rui Min,Google
+John Foley,Google
+Vanja Josifovski,Google
+Cenk Gazen,Google
+Fei Ye,Google
+Shidong Zhang,Google
+Kenichi Kurihara,Google
+Beverly Yang,Google
+Glen Jeh,Google
+Robert Malkin,Google
+Chade Meng Tan,Google
+Remco Teunen,Google
+Niranjan Tulpule,Google
+Oleg Golubitsky,Google
+Andrea Knight Dolan,Google
+Matthew A Jorde,Google
+Greg Coombe,Google
+Allen Lavoie,Google
+Matthew Eric Otey,Google
+Nathan Ratliff,Google
+Jeff Nelson,Google
+David Jeske,Google
+Emma Soderberg,Google
+Ali Razavi,Google
+Sal Candido,Google
+James Kuffner,Google
+Cho Jui Hsieh,Google
+D K Fork,Google
+Rony Amira,Google
+Adi Ben Yoash,Google
+Amir Hardon,Google
+Ari Berger,Google
+Heather Traher,Google
+John Tobin,Google
+S Shalev Shwartz,Google
+Davis King,Google
+Kun Yang,Google
+Roland Nelet,Google
+Yusef Shafi,Google
+Xuedong Zhang,Google
+Joon Suk Lee,Google
+Alex Eagle,Google
+Liam Miller Cushon,Google
+Hartmut Maennel,Google
+Timothy Mann,Google
+Andre Barreto,Google
+Joris Pelemans,Google
+Zhiyun Lu,Google
+Mathew G Monroe,Google
+Yangyi Chen,Google
+Tim Harley,Google
+Peter Hawkins,Google
+Jayavel Shanmugasundaram,Google
+Remi Munos,Google
+Jindrich Libovicky,Google
+Manfred Georg,Google
+Alex Gorban,Google
+Dar Shyang Lee,Google
+Yeqing Li,Google
+Gabriel Pereyra,Google
+Liang Lin,Google
+Prathyusha Aragonda,Google
+Michael Wong,Google
+Pierre Grinspan,Google
+Will Chan,Google
+Tad Hofmeister,Google
+Adel Youssef,Google
+Guan Lin Chao,Google
+Semih Yavuz,Google
+Hyeonwoo Noh,Google
+Bohyung Han,Google
+Arsalan Mousavian,Google
+David Pfau,Google
+Mike Dixon,Google
+Simon Ilyushchenko,Google
+Timothy Kopp,Google
+Mike Cohen,Google
+Maryam Garrett,Google
+Zhicheng Zheng,Google
+Drew Allen,Google
+Emre Sargin,Google
+Stefan Buettcher,Google
+Hao Peng,Google
+Lixia Liu,Google
+Yee Whye Teh,Google
+Omer Berkman,Google
+Cem Paya,Google
+Reeve Ingle,Google
+Jonathan Michael Baccash,Google
+George D Toderici,Google
+Haoyuan Li,Google
+Dong Zhang,Google
+Art Pope,Google
+Jeremy B Maitin Shepard,Google
+Mark Ruzon,Google
+Sherjil Ozair,Google
+Wei Sheng Lai,Google
+Yichang Shih,Google
+Heather Breslow,Google
+Glena Iten,Google
+Eric Kuan,Google
+Yuan Niu,Google
+Charl Van Heerden,Google
+Alireza Makhzani,Google
+Davi Reis,Google
+Fernando C N Pereira,Google
+Jon Skeet,Google
+Hidehiko Abe,Google
+Zheshen Wang,Google
+Fabio De Bona,Google
+Cliff Stein,Google
+Lewis Chiang,Google
+Sukhdeep Sodhi,Google
+Paul Voigtlaender,Google
+Ami Wiesel,Google
+Guy Shalev,Google
+Mor Schlesinger,Google
+Oleg Zlydenko,Google
+Ran El Yaniv,Google
+Yotam Gigi,Google
+Zach Moshe,Google
+Hugh Denman,Google
+Andrew Crawford,Google
+Ruben Villegas,Google
+David Menestrina,Google
+Ivan Diaz,Google
+Adam Kirsch,Google
+Kelvin Chan,Google
+Kevin Lai,Google
+Shuo Wu,Google
+Sandeep Dhoot,Google
+Abhilash Kumar,Google
+Ankur Agiwal,Google
+Mingsheng Hong,Google
+Jamie Cameron,Google
+Masood Siddiqi,Google
+David Jones,Google
+Divyakant Agrawal,Google
+Surya Bhupatiraju,Google
+Dan Shaffer,Google
+Samuel R Bowman,Google
+Jasvir Nagra,Google
+Maruan Al Shedivat,Google
+Dinah McNutt,Google
+James Cook,Google
+Lujun Fang,Google
+Reynold Xin,Google
+Mehran Sahami,Google
+Dar Mehta,Google
+Stefan Bucur,Google
+Markus Kusano,Google
+Michael Skinner,Google
+Elizabeth F Churchill,Google
+Matt Loring,Google
+Michael Pohl,Google
+John Hainsworth,Google
+Tulsee Doshi,Google
+Hai Qian,Google
+Li Wei,Google
+Yi Wu,Google
+Lukasz Heldt,Google
+Cristos Goodrow,Google
+Adam Kramer,Google
+Stephen Gunn,Google
+Douglas Browning,Google
+Xiaojun Di,Google
+Wei Chen,Google
+Sarath Chandar,Google
+Sam Chiu wai Wong,Google
+Orkut Buyukkokten,Google
+Kevin W Wilson,Google
+Xiaoxue Zang,Google
+Srinivas Kumar Sunkara,Google
+Neal Patel,Google
+Dan Abolafia,Google
+Fuhao Shi,Google
+Sung fang Tsai,Google
+Youyou Wang,Google
+Yonathan Perez,Google
+Matthew Lawlor,Google
+Shaunak Kishore,Google
+Wei Liu,Google
+Dragomir Anguelov,Google
+Fartash Faghri,Google
+Muhammad Waliji,Google
+Xudong Shi,Google
+Eric Schrock,Google
+Vincent Michael Casser,Google
+Krishnendu Chaudhury,Google
+Sriram Thirthala,Google
+Vivek Sahasranaman,Google
+Selvam Mahalingam,Google
+Claire Lee,Google
+Melissa Barnhart,Google
+Carole Dulong,Google
+Daniel Filip,Google
+Richard Lyon,Google
+Josh Weaver,Google
+Christian Alexander Sohler,Google
+Richard C Chiburis,Google
+Michelle Lee,Google
+Scott Lederer,Google
+Dean K Jackson,Google
+Warren Kumari Google,Google
+Steve Souders,Google
+Yannick Assogba,Google
+Ann Yuan,Google
+Nick Kreeger,Google
+Ping Yu,Google
+Kangyi Zhang,Google
+Stan Bileschi,Google
+Charles Nicholson,Google
+Sandeep N Gupta,Google
+Sarah Sirajuddin,Google
+Fernanda B Viegas,Google
+Andrew Trenk,Google
+Steve Gross,Google
+Kevin Jordan Swersky,Google
+Efi Kokiopoulou,Google
+Fay Chang,Google
+Deborah A Wallach,Google
+Tushar Chandra,Google
+Andrew Fikes,Google
+Karl Paul Tuyls,Google
+Iain Robert Dunning,Google
+Tina Zhu,Google
+Kevin Robert McKee,Google
+Raphael Koster,Google
+Heather Roff,Google
+Thore Graepel,Google
+Spiros Papadimitriou,Google
+Sridhar Ramaswamy,Google
+Adam Zalcman,Google
+Alan Ho,Google
+Dave Landhuis,Google
+Kevin Jeffery Sung,Google
+Kostyantyn Kechedzhi,Google
+Markus Rudolf Hoffmann,Google
+Roberto Collins,Google
+William Courtney,Google
+J Sorensen,Google
+Mike McConnell,Google
+Lizzie Dorfman,Google
+Mohi Khansari,Google
+Abhinav Gupta,Google
+Adam Edwin Taylor Barratt,Google
+Claudio DeSanti,Google
+Daoyi Wang,Google
+Joy Jiang,Google
+Liang Du,Google
+Tao Zhang,Google
+Xiangjun Zhao,Google
+Lisa Kamm,Google
+John Fitch,Google
+Will Dabney,Google
+Adrien Ali Taiga,Google
+Tor Lattimore,Google
+Neil Daswani,Google
+Christoph Kern,Google
+Yusuf Aytar,Google
+Andrew Zisserman,Google
+Shirley Cohen,Google
+Jonathan Malmaud,Google
+Nicholas Johnston,Google
+Raghav Lagisetty,Google
+Vince Gatto,Google
+Josip Djolonga,Google
+Thomas Walters,Google
+Terry Koo,Google
+Ben Shahshahani,Google
+Michael Elad,Google
+Mihai Stroe,Google
+Cosmin Negruseri,Google
+Dan Popovici,Google
+Sergei V Isakov,Google
+Anshuman Tripathi,Google
+Kat Chou,Google
+Chris Co,Google
+Ananth Sankar,Google
+Justin Jesada Tansuwan,Google
+Alkis Polyzotis,Google
+Martin A Zinkevich,Google
+Xiaodan Song,Google
+Michael Krainin,Google
+Dmitry Kalashnikov,Google
+Hongjun Zhu,Google
+Shuran Song,Google
+Johnny Lee,Google
+Thomas Funkhouser,Google
+Victor Soto,Google
+Ikkjin Ahn,Google
+Justin Scheiner,Google
+Hazim Almuhimedi,Google
+Monika Podsiadlo,Google
+Brendan Burns,Google
+Bart van Merrienboer,Google
+Joao Carreira,Google
+Will Kay,Google
+E Chi,Google
+Huiyi Hu,Google
+Piotr Mirowski,Google
+Mehrdad Farajtabar,Google
+Abhay Vardhan,Google
+Diem Vu,Google
+Burak Gokturk,Google
+Dave Marwood,Google
+Jason Ravitz,Google
+Marielena Ivory,Google
+Wei Ning Hsu,Google
+Alex Kurakin,Google
+Ryan P Adams,Google
+David Andersen,Google
+Zhiwei Guan,Google
+Sheethal Shobowale,Google
+Iliyan Malchev,Google
+Qin Zhao,Google
+Louis Shao,Google
+Ray Kurzweil,Google
+Chun How Tan,Google
+Eugene Agichtein,Google
+Panos Ipeirotis,Google
+Zhiyuan Cheng,Google
+Ofer Dekel,Google
+Randall Bosetti,Google
+Chris Donahue,Google
+Misha Gridnev,Google
+Saining Xie,Google
+David Choi,Google
+Pan Li,Google
+Nancy Chang,Google
+Olivier Teboul,Google
+Alpa Jain,Google
+Tatiana Kichkaylo,Google
+Jacob Menick,Google
+Matthew H Austern,Google
+James C Dehnert,Google
+Grzegorz Czajkowski,Google
+David G Andersen,Google
+Dan Bloomberg,Google
+Muthuian Sivathanu,Google
+Breno Medeiros,Google
+Joseph Redmon,Google
+Dami Choi,Google
+Benjamin Recht,Google
+Alex Rodriguez,Google
+Dylan Curley,Google
+Lorenzo Blanco,Google
+Todd Underwood,Google
+Tzvika Barenholz,Google
+Uday Naik,Google
+Nikhil Kasinadhuni,Google
+Enrique Cauich Zermeno,Google
+Bjorn Carlin,Google
+Mihai Amarandei Stavila,Google
+Mathieu Robin,Google
+Vijay Garg,Google
+Kalle Kormann Philipson,Google
+Christopher J Shallue,Google
+Olivier Teytaud,Google
+Tianwei Sheng,Google
+Kylie McRoberts,Google
+Zongheng Yang,Google
+Andrei Kapishnikov,Google
+Michael Leggett,Google
+Jamie Wilkinson,Google
+Chris Maddison,Google
+Matt Menke,Google
+Andrei Giurgiu,Google
+Stanisaw Kamil Jastrzebski,Google
+Bruna Halila Morrone,Google
+Eric J Kolb,Google
+Nick Edmonds,Google
+Francesco Nerieri,Google
+Michael Young,Google
+Anastasios Sidiropoulos,Google
+Julian Richardson,Google
+Ryan Doherty,Google
+Eric Altendorf,Google
+Carlos Pizano,Google
+Ruben Ortega,Google
+Ali Rahimi,Google
+Marco Cornolti,Google
+Sanjay Kairam,Google
+Lu Wang,Google
+Alex Braunstein,Google
+Laura Granka,Google
+Georgia Gkioxari,Google
+Marius Eriksen,Google
+Mohamed Aly,Google
+Jean Yves Bouguet,Google
+Renate Paes Leme,Google
+Robert Guangyu Yang,Google
+Igor Ganichev,Google
+Chiyuan Zhang,Google
+Hector Fernandez Alcalde,Google
+Esha Banerjee,Google
+Antonio Stella,Google
+Sookyoung Kwak,Google
+Tatiana Lando,Google
+Josie Li,Google
+Joseph Ruthruff,Google
+Ameet Talwalkar,Google
+Georg Goerg,Google
+Brian Cheung,Google
+Lars Bak,Google
+Yuan Li,Google
+Laszlo Lukacs,Google
+Eider Moore,Google
+Seth Hampson,Google
+Blaise Aguera y Arcas,Google
+Eric Turner,Google
+Daniel Renshaw,Google
+Jamie Alexander Smith,Google
+Grant Ayers,Google
+Heiner Litz,Google
+Yiming Liu,Google
+Eduardo Alberto Vela Nava,Google
+Tatiana Shpeisman,Google
+Neema Moraveji,Google
+Jacob Bien,Google
+Marc Alvidrez,Google
+Sascha Brawer,Google
+Hiroshi Takenaka,Google
+Yui Terashima,Google
+Mohit Bansal,Google
+Andy Crawford,Google
+Hubert Pham,Google
+Yonnghui Wu,Google
+Partha Pratim Talukdar,Google
+Rahul Bhagat,Google
+Carlos Esteves ,Google
+F Pereira,Google
+Simon Lynen,Google
+Bernhard Zeisl,Google
+Spyros Gidaris,Google
+Raksit Ashok,Google
+Jyotsna Kaki,Google
+Vivek Ramavajjala,Google
+Martin Pelikan,Google
+Giles Hogben,Google
+Alexander Perry,Google
+Takeshi Yoshino,Google
+Daniel Martin Russell,Google
+Paul Schultz,Google
+James F Kelly,Google
+Alexander Franz,Google
+Adam Berenzweig,Google
+Tsang Wei Lee,Google
+Mike Marty,Google
+Philip Wells,Google
+Peter Klausler,Google
+Matteo Hessel,Google
+Hubert Soyer,Google
+Simon Schmitt,Google
+Hado van Hasselt,Google
+Yutaka Leon Suematsu,Google
+Lawrence Brakmo,Google
+Hsiao keng Jerry Chu,Google
+Tom Herbert,Google
+Tim Au,Google
+Ruei Sung Lin,Google
+Richard Conlan,Google
+Brian Slesinsky,Google
+Nandakumar Ramani,Google
+James A Whittaker,Google
+Oksana Yakhnenko,Google
+Evgenii Kliuchnikov,Google
+Gaurav Kumar,Google
+Colin Andrew Cherry,Google
+Hao He,Google
+Ben Jai,Google
+Chris Harris,Google
+Sam Ieong,Google
+Xi Tan,Google
+Alex Balikov,Google
+Kaya Bekiroglu,Google
+Josh Haberman,Google
+Reuven Lax,Google
+Isaac Councill,Google
+Mikhail Bilenko,Google
+Mike Samuel,Google
+Kathleen Walrath,Google
+Cary Coutant,Google
+Chris Demetriou,Google
+Amaan Mehrabian,Google
+Batz Spear,Google
+Luca Cittadini,Google
+Chao yuan Wu,Google
+Gowtham Ramani Kumar,Google
+Benjamin Sapp,Google
+Tom Duerig,Google
+Lin Yang,Google
+Xiaqing Wu,Google
+Emil Praun,Google
+Xiaoxu Ma,Google
+Catalin Teodor Popescu,Google
+Deepak Merugu,Google
+Giao Nguyen,Google
+Dmitry Lepikhin,Google
+Norman P Jouppi,Google
+David Patterson,Google
+Chris Leary,Google
+Denis M Baylor,Google
+Sammy W Leong,Google
+Rose Liu,Google
+Clemens Mewald,Google
+Mitch Trott,Google
+Marty Zinkevich,Google
+Jeffrey Stevenson,Google
+Cameron Chen,Google
+Corey Adam Baye,Google
+Christina Schulman,Google
+Etienne Perot,Google
+Abhi Meka,Google
+Christian Haene,Google
+Peter Denny,Google
+Howard Gobioff,Google
+Chen Fang Li,Google
+Alex Kehlenbeck,Google
+Blaise Aguera Arcas,Google
+James David Lyon,Google
+Julian James Odell,Google
+Matt Sharifi,Google
+Mihajlo Velimirovic,Google
+Cassandra Xia,Google
+George Roumpos,Google
+Jianwei Xie,Google
+Mustafa Ispir,Google
+Philip Daniel Tucker,Google
+Zakaria Haque,Google
+R Preston McAfee,Google
+Jort F Gemmeke,Google
+Daniel P W Ellis,Google
+Xiaofeng Liu,Google
+Wade Lawrence,Google
+Michele Borassi,Google
+Jonathan McCune,Google
+Greg Durrett,Google
+Ji Ma,Google
+Noel Phillip Gordon,Google
+Elijah Taylor,Google
+Bennet S Yee,Google
+Anton Bakalov,Google
+Alex Salcianu,Google
+Aaron Koblin,Google
+David Kim,Google
+Shengyin Gu,Google
+Peter Jin Hong,Google
+Karl Gyllstrom,Google
+Bennet Yee,Google
+Greg Dardyk,Google
+Robert Muth,Google
+Shiki Okasaka,Google
+Neha Narula,Google
+Nicholas Fullagar,Google
+Hao Tang,Google
+Yunbo Wang,Google
+Ming hsuan Yang,Google
+S Muthukrishan,Google
+Jennifer Gove,Google
+Joseph L Hellerstein,Google
+Justin Fu,Google
+Michael Wildpaner,Google
+Patrick F Riley,Google
+Yiding Jiang,Google
+Daniel Duckworth,Google
+Amit Dubey,Google
+Kyu Young Kim,Google
+Andy Cedilnik,Google
+Phillip M Yelland,Google
+Volodymyr Mnih,Google
+Tom Ward,Google
+Yotam Doron,Google
+Vlad Firoiu,Google
+Shane Legg,Google
+Peter Bulychev,Google
+Aditya Krishna Menon,Google
+Martin Maly,Google
+Yinda Zhang,Google
+Michael Schoenberg,Google
+Tayeb Karim,Google
+Kumar Abhishek,Google
+Konstantina Christakopoulou,Google
+Rui Li,Google
+Adam Juda,Google
+Joseph Antognini,Google
+Michael Ringaard,Google
+Benjamin Liebald,Google
+Junning Liu,Google
+Palash Nandy,Google
+Taylor Van Vleet,Google
+Sujoy Gupta,Google
+Mike Lambert,Google
+Blake Livingston,Google
+Dasarathi Sampath,Google
+Mohammad Gheshlaghi Azar,Google
+Vlad Mnih,Google
+Demis Hassabis,Google
+Derrall Heath,Google
+Laurent Vaucher,Google
+Bhaskar Janakiraman,Google
+Matthew K Gray,Google
+The Google Books Team,Google
+Dan Clancy,Google
+Cory Altheide,Google
+Kevin Clark,Google
+Simon Quellen Field,Google
+Sian Townsend,Google
+Arie Matsliah,Google
+Yifeng Lu,Google
+Piotr Michal Stanczyk,Google
+Micha Zajac,Google
+Jon Howell,Google
+Jeremy Elson,Google
+Colin Meek,Google
+Vishesh Khemani,Google
+Stefan Fulger,Google
+Pan Gu,Google
+Lakshminath Bhuvanagiri,Google
+Jason Hunter,Google
+Roberto Peon,Google
+Michael Epstein,Google
+Christopher Frost,Google
+J J Furman,Google
+Christopher Heiser,Google
+Peter Hochschild,Google
+Sebastian Kanthak,Google
+Eugene Kogan,Google
+Hongyi Li,Google
+David Mwaura,Google
+David Nagle,Google
+Rajesh Rao,Google
+Lindsay Rolig,Google
+Christopher Taylor,Google
+Charles Schafer,Google
+Apoorva Jindal,Google
+Chris Crutchfied,Google
+Samir Goel,Google
+Ravi Kolluri,Google
+Christopher Thompson,Google
+Emily Schechter,Google
+Alexander B Wiltschko,Google
+Moritz Firsching,Google
+Michael Tobias Tschannen,Google
+Paul Kishan Rubenstein,Google
+Aaron Maschinot,Google
+Daniel Vlasic,Google
+Michael Youssefmir,Google
+Pete Kruskall,Google
+Everett Wetchler,Google
+Chris Pentoney,Google
+Anshuman Kumar,Google
+Joshua Lewandowski,Google
+Art Owen,Google
+Xinyan Yan,Google
+Byron Boots,Google
+Timothy C Au,Google
+Jing Yu Cui,Google
+Saurabh Mathur,Google
+Yangqiu Song,Google
+Wen Yen Chen,Google
+Chih Jen Lin,Google
+Bor yiing Su,Google
+Aleksander Madry,Google
+John Jiang,Google
+Bernhard Brodowsky,Google
+Przemek Gajda,Google
+Sergey Novikov,Google
+Robin Dua,Google
+Nicolas Lidzborski,Google
+Keyon Vafa,Google
+Marcin Lukasz Moczulski,Google
+Neal Wu,Google
+Jiahui Liu,Google
+Rajeev Nongpiur,Google
+Matt Fata,Google
+Patrick Hahn,Google
+Philippe Joseph Arida,Google
+Ahmed Methwally,Google
+Michael Graczyk,Google
+Eric Grosse,Google
+Mayank Upadhyay,Google
+David Xinliang Li,Google
+Jerry Zhao,Google
+Jelena Pjesivac Grbovic,Google
+Nisarg Kothari,Google
+Li Ma,Google
+Chris Shallue,Google
+Michael Hatscher,Google
+Chung Wu,Google
+Jonathan A Winter,Google
+Devesh Yamparala,Google
+Justin Vincent,Google
+Chris Leger,Google
+Sharon E Perl,Google
+Zheng Sun,Google
+Mika Pritchard Berman,Google
+A Senior,Google
+G Heigold,Google
+H Liao,Google
+Youngmin Cho,Google
+Chip Brown,Google
+Rob Suderman,Google
+Ross Mcilroy,Google
+Sami Kyostila,Google
+Pierre Antoine Manzagol,Google
+Bharath Ramsundar,Google
+Michael Howell,Google
+Ming Xiong,Google
+Ben Packer,Google
+M Mitchell,Google
+Glenn Hartmann,Google
+Judy Hoffman,Google
+Paolo Ferraris,Google
+Michael Stanton,Google
+Eunjoon Cho,Google
+Sujeet Bhandari,Google
+Libin Jia,Google
+Julian Gibbons,Google
+Alan Green,Google
+Michael James Smith,Google
+Reuben Kan,Google
+Chenhao Tan,Google
+Alex J Smola,Google
+Panayiotis Marvrommatis,Google
+Xin Zhao,Google
+Niels Egberts,Google
+Przemysaw Szczepaniak,Google
+Sivasankar Radhakrishnan,Google
+Jerry Chu,Google
+Guoguo Chen,Google
+Lawrence Wolf Sonkin,Google
+Lilly Irani,Google
+Farzan Rohani,Google
+David Saff,Google
+David Huynh,Google
+Ravindran Rajakumar,Google
+Evelyn Wenzel Grondie,Google
+Lak Lakshmanan,Google
+Hakan Erdogan,Google
+Filip Buruiana,Google
+Silviu Ionut Ganceanu,Google
+Fei Ren,Google
+Borbala Benko,Google
+Andy Archer,Google
+Allan Aquino,Google
+Pramod Kaushik Mudrakarta,Google
+Ola Spyra,Google
+Valentin Dalibard,Google
+Max Jaderberg,Google
+Chenjie Gu,Google
+David Budden,Google
+Pramod Gupta,Google
+Rashmi Ramakrishnan,Google
+Josh Suereth,Google
+Yossi Gil,Google
+Alistair Veitch,Google
+Joshua Redstone,Google
+Stefano Leonardi,Google
+Ilya Razenshteyn,Google
+Mo Shen,Google
+Phil Weaver,Google
+Laukik Chitnis,Google
+Tom Lokovic,Google
+Kamal Nigam,Google
+Hung An Chang,Google
+Qixing Huang,Google
+Shirley Gaw,Google
+Benjamin Haynor,Google
+Bianca Schroeder,Google
+Aideen Stronge,Google
+Ryan Adams,Google
+Scott E Reed,Google
+Larkin Brown,Google
+Charles Krasic,Google
+Mohammad A Alfares,Google
+Rich Alimi,Google
+Kondapa Naidu Bollineni,Google
+Chandan Bhagat,Google
+Sourabh Jain,Google
+Jay Kaimal,Google
+Jeffrey Liang,Google
+Kirill Mendelev,Google
+Faro Thomas Rabe,Google
+Saikat Ray,Google
+Malveeka Tewari,Google
+Monika Zahn,Google
+Jon Zolla,Google
+Rohan Seth,Google
+Sham Kakade,Google
+Shweta Chahar,Google
+Varun Kanade,Google
+Roberto Bayardo,Google
+Greg Coppola,Google
+Mukarram Tariq,Google
+Amgad Zeitoun,Google
+Yuhua Chen,Google
+Chen Luo,Google
+Tanya Birch,Google
+Tomer Gadot,Google
+Albert Angel,Google
+Ari S Morcos,Google
+David GT Barrett,Google
+Matthew Botvinick,Google
+Neil C Rabinowitz,Google
+Acacio Cruz,Google
+Ari Bezman,Google
+L Ballard,Google
+P Mavrommatis,Google
+N Provos,Google
+M Rajab,Google
+Gabriel Magalhaes,Google
+Oscar Martinez,Google
+Jerry Carollo,Google
+Tushar Udeshi,Google
+Pablo Bellver,Google
+Tal Remez,Google
+D Rybach,Google
+Paul McDonald,Google
+Timothy Sohn,Google
+Kathleen O Leary,Google
+Andrew Oplinger,Google
+Andreas Schou,Google
+Dan Vanderkam,Google
+Rob Schonberger,Google
+Chris Roat,Google
+George Trigeorgis,Google
+Krishnamurthy Viswanathan,Google
+Ariel Fuxman,Google
+Chao Jia,Google
+Sheng yi Kong,Google
+Nan Hua,Google
+Nicole Lyn Untalan Limtiaco,Google
+Rhomni St John,Google
+Steve Yuan,Google
+Chris Tar,Google
+Alex Graves,Google
+Quentin Cormier,Google
+Gellert Weisz,Google
+Mary McGlohon,Google
+Natalie Glance,Google
+Zach Reiter,Google
+D Michael Ando,Google
+Andreas Zollmann,Google
+Franz Josef Och,Google
+Varun Ganapathi,Google
+Sebastian Thrun,Google
+Laura Ann Granka,Google
+Jean Francois Kagy,Google
+Ken Wu,Google
+Cezary Kaliszyk,Google
+Amit Agarwal,Google
+Natalia Sutin,Google
+Mihaela Rosca,Google
+Balaji Lakshminarayanan,Google
+Shakir Mohamed,Google
+Brandon Baker,Google
+Jon Chu,Google
+Junyi Luan,Google
+Andrew Fowler,Google
+Claire Cui,Google
+Travis Wolfe,Google
+Brent Welch,Google
+Jim Larson,Google
+Jana Kravalova,Google
+Chris Lattner,Google
+Emily Amanda Fertig,Google
+Andres Lagar Cavilla,Google
+Junwhan Ahn,Google
+Suleiman Souhlal,Google
+Neha Agarwal,Google
+Radoslaw Burny,Google
+Ashwin Chaugule,Google
+Nan Deng,Google
+Junaid Shahid,Google
+Greg Thelen,Google
+Kamil Adam Yurtsever,Google
+Yu Zhao,Google
+Joshua McAdams,Google
+Jacob Matthews,Google
+Nibha Jain,Google
+Taylor Herr,Google
+Ignacio Thayer,Google
+Manish Bhargava,Google
+Laura Cuozzo,Google
+S M Ali Eslami,Google
+Theophane Weber,Google
+Yuval Tassa,Google
+Kevin McCurley,Google
+Ralfi Nahmias,Google
+Ross Koningstein,Google
+John Duchi,Google
+Alex Collins,Google
+Gaurav Agarwal,Google
+Thomas Breuel,Google
+Rajvi Shah,Google
+Rajat Bhattacharjee,Google
+Carl Martin Vondrick,Google
+Arun Narayanaswamy,Google
+David Devoud Coz,Google
+Naama Hammel,Google
+Zahra Rastegar,Google
+Carlos A Colmenares,Google
+Aditi Muralidharan,Google
+Zoltan Gyongyi,Google
+Brian Grant,Google
+Qi Ge,Google
+John Zhang,Google
+Eric Nickell,Google
+Sanjeev Dhanda,Google
+Christopher K Monson,Google
+Yifan Wu,Google
+Sasha Lubomirsky,Google
+Xiyang Luo,Google
+David Hixson,Google
+Yoelle S Maarek,Google
+Miki Rubinstein,Google
+Tejinder Judge,Google
+Karl Rosaen,Google
+David Watson,Google
+Zack Zhu,Google
+Tomer Levinboim,Google
+Ankur P Parikh,Google
+Martin Zinkevich,Google
+Mark Miklic,Google
+Taghrid Samak,Google
+Tobias Kaufman,Google
+Peter Young,Google
+Yang Zhao,Google
+Rob Reeder,Google
+Alex Kulesza,Google
+Cal Peyser,Google
+Michal Sipko,Google
+Tess Smidt,Google
+Catalin Ionescu,Google
+Greg Mori,Google
+Weilong Yang,Google
+Geoffrey Borggaard,Google
+Alison Cichowlas,Google
+Jonathan Feinberg,Google
+Christopher Wren,Google
+Shuchang Zhou,Google
+Petr Zadrazil,Google
+Gary Holt,Google
+Dietmar Ebner,Google
+Julian Grady,Google
+Lan Nie,Google
+Eugene Davydov,Google
+Dan Liu,Google
+Arnar Mar Hrafnkelsson,Google
+Tom Boulos,Google
+Naman Agarwal,Google
+Adam Gaier,Google
+Will Hang,Google
+Dan Delorey,Google
+Milad Siami,Google
+Christopher Clark,Google
+Alexandre Lacoste,Google
+Neil Alldrin,Google
+Ivan Krasin,Google
+Ke Wu,Google
+Victor Agababov,Google
+Michael Buettner,Google
+Victor Chudnovsky,Google
+Mark Cogan,Google
+Ben Greenstein,Google
+Shane McDaniel,Google
+Bolian Yin,Google
+Nic Ford,Google
+Spence Green,Google
+Christian Howard,Google
+Anders Brodersen,Google
+Jana Ehmann,Google
+Lun Cheng Chu,Google
+Tom Dimopoulos,Google
+Michael Siliski,Google
+Yun Hsuan Sung,Google
+Elin Pedersen,Google
+Peter Dolan,Google
+Alexander Mohr,Google
+Jackie Tsay,Google
+Justin Lu,Google
+Tim Sohn,Google
+Yinan Wang,Google
+Michalis Raptis,Google
+Laura Deming,Google
+Graziella Solinas,Google
+Anand Bhalgat,Google
+Bianca Soto,Google
+Joel Reardon,Google
+Pedram Dashti,Google
+Alexandros Chaaraoui,Google
+Pavel Golik,Google
+Alexander Rush,Google
+Nate Coehlo,Google
+Shengyang Dai,Google
+Wilson Hsieh,Google
+Yasushi Saito,Google
+Michal Szymaniak,Google
+Ruth Wang,Google
+David K Fork,Google
+Matthew W Hoffman,Google
+Misha Denil,Google
+Nando de Freitas,Google
+Joseph Paxton,Google
+Junfeng He,Google
+Florian Kainz,Google
+Adam Ghobarah,Google
+Soroosh Mariooryad,Google
+David Kao,Google
+Hang Cui,Google
+Liadan O Callaghan,Google
+Maria Ivanova Gorinova,Google
+Michael Broxton,Google
+Matthew DuVall,Google
+Ryan Styles Overbeck,Google
+Neal Gafter,Google
+Jane Li,Google
+Scott Huffman,Google
+Akihito Tokuda,Google
+Ameet Talkwalkar,Google
+Julien Pilet,Google
+Christopher Gordon Suter,Google
+Clara Fannjiang,Google
+David Alexander,Google
+Matt Mohebbi,Google
+Julia Kodysh,Google
+Hyunyoung Choi,Google
+Aikaterini Fragkiadaki,Google
+Magdalena Dukielska,Google
+Natalya Noy,Google
+Paul Adams,Google
+Shaomei Wu,Google
+Joseph Xu,Google
+Zebo Li,Google
+Santiago Balseiro,Google
+Bartlomiej Wronski,Google
+Robert Grandl,Google
+Ye Wang,Google
+Artsiom Ablavatski,Google
+Nayana Prasad Nagendra,Google
+German Cheung,Google
+Marco Zennaro,Google
+Ulrich Buddemeier,Google
+Fernando Brucher,Google
+Jitendra Malik,Google
+Mark Stevens,Google
+Chris Thornton,Google
+Mohammadali Ghodrat,Google
+Jingbo Shang,Google
+Brian Smith,Google
+Kostya Serebryany,Google
+Evgenii Stepanov,Google
+Dmitriy Vyukov,Google
+Carlos Esteves,Google
+Brandon Ballinger,Google
+Jon Schuringa,Google
+Steven Dropsho,Google
+Piotr Lewandowski,Google
+Eric Sachs,Google
+Song Han,Google
+Isha Dandavate,Google
+Lettie Malan,Google
+Takeru Miayto,Google
+Shai Shalev Shwartz,Google
+Monika R Henzinger,Google
+Luca de Alfaro,Google
+Yazhe Li,Google
+Igor Babuschkin,Google
+George van den Driessche,Google
+Edward Lockhart,Google
+Luis Carlos Cobo Rus,Google
+Norman Casagrande,Google
+Dominik Grewe,Google
+Seb Noury,Google
+Helen King,Google
+Dan Belov,Google
+Eric Dingle,Google
+Jean Philippe Gravel,Google
+Andrew Rankin,Google
+April Lehman,Google
+Alexei Stolboushkin,Google
+Howard Wong Toi,Google
+LaDawn Jentzsch,Google
+Yilin Wang,Google
+Sang Uok Kum,Google
+Pern Hui Chia,Google
+Daniel Simmons Marengo,Google
+Chao Li,Google
+Qiushi Wang,Google
+Miguel Guevara,Google
+Samuel Sudar,Google
+Avraham Ruderman,Google
+Neil Rabinowitz,Google
+Daniel Zoran,Google
+Matt Braithwaite,Google
+Gregory Cooper,Google
+Ning Ye,Google
+Zhenhai Zhu,Google
+Slaven Bilac,Google
+Stefan Pharies,Google
+Adam Roman Kosiorek,Google
+Yaping Zhu,Google
+Benjamin Helsley,Google
+Sumeer Bhola,Google
+Mikaela Grace,Google
+Flavio Oliveira,Google
+Dan Russell,Google
+Laura Nolan,Google
+Florian Kriener,Google
+Binbin Ruan,Google
+Chen Zhou,Google
+Omry Tuval,Google
+Kathryn Stuart McKinley,Google
+Glen Anderson,Google
+Ashby Armistead,Google
+Roy Bannon,Google
+Seb Boving,Google
+Paulie Germano,Google
+Jeff Provost,Google
+Jason Simmons,Google
+Eiichi Tanda,Google
+Bing Liu,Google
+R Guha,Google
+Pete Shaw,Google
+Philip Massey,Google
+Angie Chen,Google
+Harry Case,Google
+Karol Gregor,Google
+Junwei Liang,Google
+Nick Morsillo,Google
+Maxime Cohen,Google
+Phil Keller,Google
+Azin Ashkan,Google
+Hao Wang,Google
+Jian Li,Google
+Zhihuan Qiu,Google
+Siddharth Gopal,Google
+Xiaomin Chen,Google
+P J Opalinski,Google
+Kaustuv,Google
+Guy Lever,Google
+Josh Merel,Google
+Saran Tunyasuvunakool,Google
+Ken Ong,Google
+Jacob Howcroft,Google
+Leon Hong,Google
+Theodore Vassilakis,Google
+Vijay Chandrasekhar,Google
+Helen Li,Google
+Tony Hsieh,Google
+Torsten Kroeger,Google
+Honghua Dong,Google
+Tian Lin,Google
+Maxime C Cohen,Google
+Yifang Liu,Google
+Indraneel Mukherjee,Google
+Rafael Frongillo,Google
+DeLesley Hutchins,Google
+Rob Ewaschuk,Google
+Frances Perry,Google
+Stephen Adams,Google
+Robert Henry,Google
+Nathan,Google
+Jacek Korycki,Google
+Jiyan Pan,Google
+Andrew C Gallagher,Google
+Carol Smith,Google
+Hiroshi Ishii,Google
+Christopher Maddison,Google
+Ching Han Chiang,Google
+Urvang Bharadwaj Joshi,Google
+Glenn Carroll,Google
+Kathryn Hurley,Google
+Karen Jacqmin Adams,Google
+Rod McChesney,Google
+Omar Benjelloun,Google
+Yang Yu,Google
+Chloe M Kiddon,Google
+Hal Abelson,Google
+Wilmer van der Gaast,Google
+Yaniv Ovadia,Google
+Levent Bolelli,Google
+Dmytro Iatskiv,Google
+Alberto Savoia,Google
+Liat Kaver,Google
+Radhika Marvin,Google
+Nathan Christopher Reale,Google
+Kenneth A Kinney,Google
+Juting Zhai,Google
+Max Lin,Google
+Stephanie Wu,Google
+Debra Lauterbach,Google
+Aruna Balakrishnan,Google
+Akshay Naresh Modi,Google
+Chiu Yuen Koo,Google
+Chuan Yu Foo,Google
+Levent Koc,Google
+Lukasz Lew,Google
+Salem Elie Haykal,Google
+Xin Zhang,Google
+Charles Reiss,Google
+Cliff Brunk,Google
+Isaac Caswell,Google
+Steve Edwards,Google
+Manasi N Joshi,Google
+Vinay Chaudhary,Google
+Joe Caroselli,Google
+Rick Rose,Google
+Ilan Caron,Google
+Mike Williamson,Google
+Ossama Abdel Hamid,Google
+Behshad Behzadi,Google
+Stefan Christoph,Google
+R Channing Moore,Google
+Onur Soysal,Google
+Grainne Sheerin,Google
+Mircea Oancea,Google
+Xin Chen,Google
+Beat Jegerlehner,Google
+Kyle Littleeld,Google
+Phoenix Tong,Google
+Shane Markstrum,Google
+Thomas Pellissier Tanon,Google
+Shih Fu Chang,Google
+David Gossow,Google
+E Gil Jones,Google
+Patrick Mihelich,Google
+Brandon Michael Carter,Google
+Nathan Neibauer,Google
+Rob von Behren,Google
+Scott Davidson Geraedts,Google
+Peter Likarish,Google
+Taliver Heath,Google
+Graham William Taylor,Google
+Nishal P Shah,Google
+Aman Agarwal,Google
+James Higbie,Google
+Chinmay Belthangady,Google
+Moonhee Kim,Google
+Khoa Nguyen,Google
+Vicky Demas,Google
+Vik Bajaj,Google
+Charles Santori,Google
+James Roseborough,Google
+Phuc Nguyen,Google
+Gautam Prasad,Google
+Victoria Sosik,Google
+Pankaj Kanwar,Google
+Rajmohan Rajaraman,Google
+Bryan Culbertson,Google
+Austin Myers,Google
+Brendan Gleason,Google
+Scott Gilpin,Google
+Natalia Ponomareva,Google
+Licheng Fang,Google
+Daniil Mirylenka,Google
+Melody Y Guan,Google
+Rafael J Fernandez Moctezuma,Google
+Eric Schmidt,Google
+Scott Alexander Kirkwood,Google
+Natalie Rojowsky Kessel,Google
+MK Ryu,Google
+Eehern Jay Wong,Google
+Binz Roy,Google
+Greg Imwalle,Google
+Megan Nance,Google
+Moustafa Mahmoud Meshry,Google
+Jorgen Cederlof,Google
+Carl H Staelin,Google
+Binh Vo,Google
+Michael W Sherman,Google
+Jacob Baskin,Google
+Gregory H Cooper,Google
+Easwaran Raman,Google
+Martin Thuresson,Google
+Scott Larsen,Google
+Joakim Nivre,Google
+Yoav Goldberg,Google
+Dengyong Zhou,Google
+Richard Shay,Google
+Kevin Fei,Google
+Gus Fernandez,Google
+Gregory Druck,Google
+Gideon S Mann,Google
+Artem Belevich,Google
+Mark Heffernan,Google
+Bjarke Roune,Google
+Xuetian Weng,Google
+Sundar Dorai raj,Google
+Bingbing Ni,Google
+David Silver,Google
+Aja Huang,Google
+Christopher J Maddison,Google
+Arthur Guez,Google
+Laurent Sifre,Google
+Julian Schrittwieser,Google
+Ioannis Antonoglou,Google
+Veda Panneershelvam,Google
+John Nham,Google
+Jeremy Lubin,Google
+Yu Chung Cheng,Google
+Alexey Vorobyov,Google
+Sahaj Garg,Google
+Nicole Limtiaco,Google
+Ning Qu,Google
+C Gollan,Google
+Andreas Haas,Google
+Ben Titzer,Google
+Mitchell Stern,Google
+Kunal Nagpal,Google
+Davis Foote,Google
+Ellery Wulczyn,Google
+Fraser Tan,Google
+Robert MacDonald,Google
+J Orion Pritchard,Google
+Stas Negara,Google
+Ray Buse,Google
+James Martens,Google
+Steve Chien,Google
+Traian Stancescu,Google
+Bruno de Backer,Google
+Yuan Liu,Google
+Dima Lepikhin,Google
+M Mohri,Google
+Audrey Yang,Google
+Konstantin Samoylov,Google
+Elizabeth Nunge,Google
+Joseph Marshall,Google
+Joshua Schpok,Google
+Matthew Mohebbi,Google
+Mark Smolinski,Google
+Larry Brilliant,Google
+Paul Crowley,Google
+Eric Biggers,Google
+Siamak Tazari,Google
+Siva Reddy,Google
+Gil Tabak,Google
+Samuel Yang,Google
+Geoff Davis,Google
+Michael Jahr,Google
+Frank Yung Fong Tang,Google
+Christopher B Colohan,Google
+Andrei Lifchits,Google
+Xiang Zou,Google
+Brad Taylor,Google
+Dan Fingal,Google
+Eric Chu,Google
+Ismail Sebe,Google
+Christophe Van Gysel,Google
+Olaf Bachmann,Google
+Robert Buessow,Google
+Haixun Wang,Google
+Shubham Tulsiani,Google
+Black Hechtman,Google
+Mayur Thakur,Google
+Mo Yun Lei Fong,Google
+Matt Austern,Google
+Lawrence Crowl,Google
+B De Medeiros,Google
+Benjamin H Sigelman,Google
+Donald Beaver,Google
+Saul Jaspan,Google
+Chandan Shanbhag,Google
+Guillaume Verdon,Google
+Hennadiy Leontyev,Google
+Aaron Kimball,Google
+Sierra Michels Slettvet,Google
+Christophe Bisciglia,Google
+Shankar kumar,Google
+David E Konerding,Google
+Rhandeev Singh,Google
+Deepak Ramachandran,Google
+Siddharth Priya,Google
+Sundaresan Krishnan,Google
+Trausti Kristjansson,Google
+Antonina Kononova,Google
+Varden HT Wang,Google
+Arunesh Mishra,Google
+Alexey Alexeevich Gritsenko,Google
+Tyler Randall Mullen,Google
+Jaka Aris Eko Wibawa,Google
+Raymond Blum,Google
+Ravi Kumar Ravikumar,Google
+Michael Hughes Murakami,Google
+Michael F DeWitt,Google
+Renee Johnston,Google
+Nik Bhagat,Google
+Peter Hong,Google
+Paul Fontes,Google
+Rasekh Rifaat,Google
+Joseph Hellerstein,Google
+Gorelick Noel,Google
+Josh Bloch,Google
+Ludwig Schmidt,Google
+Matthew Sharifi,Google
+Ivan Bogun,Google
+Andrew Johnson,Google
+Brian Lee,Google
+Zack Nado,Google
+Munehiko Sato,Google
+Ivan Poupyrev,Google
+Nikhil Balram,Google
+Ehsan Amid,Google
+John Alex,Google
+Ana Radovanic,Google
+Anand Ramesh,Google
+Wolf Weber,Google
+Sangsun Kim,Google
+Jyoti Sastry,Google
+Scott Collyer,Google
+Ankit Somani,Google
+Adam E Bloniarz,Google
+Alex Blocker,Google
+Andy Chen,Google
+Andy Chu,Google
+Jai Prakash Gupta,Google
+Qian Zhao,Google
+Jochen Hollmann,Google
+Craig Gidney,Google
+TJ Lu,Google
+Javier Gonzalvo,Google
+Scott Yak,Google
+Hanna Mazzawi,Google
+Nathaniel Fairfield,Google
+Chris Urmson,Google
+Heather Schiller,Google
+Amir Ali Fayazi,Google
+Aaron Boodman,Google
+Rami Eid,Google
+Yuanlong Shao,Google
+Emilio Antunez,Google
+Salih Gokturk,Google
+Baris Sumengen,Google
+Ade Oshineye,Google
+Rodrigo Frassetto Nogueira,Google
+Jeff Vander Stoep,Google
+Chad Brubaker,Google
+Nick Kralevich,Google
+Stella Marie Laurenzo,Google
+M D Zeiler,Google
+M Ranzato,Google
+R Monga,Google
+M Mao,Google
+K Yang,Google
+Q V Le,Google
+P Nguyen,Google
+V Vanhoucke,Google
+J Dean,Google
+G E Hinton,Google
+Lars Hellsten,Google
+Sam Mackness,Google
+Pascal Massimino,Google
+Pawe Lichocki,Google
+Craig H Mermel,Google
+Amit Deutsch,Google
+Rick Hank,Google
+George Zhang,Google
+Bo Fu,Google
+Rong Yang,Google
+Charles Killian,Google
+Tomas Kocisky,Google
+Edward Grefenstette,Google
+Mustafa Suleyman,Google
+Phil Blunsom,Google
+Bill Cox,Google
+Yu To Chen,Google
+Ryan Geiss,Google
+Eduardo Vela Nava,Google
+Tim Heilman,Google
+Nathan Bales,Google
+Nico Bruno,Google
+Brian F Cooper,Google
+Campbell Fraser,Google
+Milind Joshi,Google
+Alex Lloyd,Google
+Dave Shue,Google
+Chris Taylor,Google
+Marcel van der Holst,Google
+Hal R Varian,Google
+Adam Barth,Google
+Steve Rogers,Google
+Tal Shaked,Google
+Wei Chai,Google
+Hemal Shah,Google
+Ruud van Asseldonk,Google
+Martin Bruse,Google
+Sebastian Gomez,Google
+Alexander Smolyanov,Google
+Haifeng Jiang,Google
+Manish Bhatia,Google
+Monica Chawathe Lenart,Google
+Namit Sikka,Google
+Navin Melville,Google
+Scott Holzer,Google
+Shan He,Google
+Tianhao Qiu,Google
+Yuri Vasilevski,Google
+KUNAL TANEJA,Google
+Teresa Tung,Google
+Fei Sha,Google
+Daniel Erickson,Google
+Daniel Evangelakos,Google
+David Kelley,Google
+Peter Ciccolo,Google
+John Looney,Google
+Michael Kacirek,Google
+Brian Kemler,Google
+Hylke Buisman,Google
+Manish Patel,Google
+John Blackburn,Google
+David Brown,Google
+Gil I Shamir,Google
+Filip Zyzniewski,Google
+Marrisa Mayer,Google
+Jim Winget,Google
+Ed Keyes,Google
+Chris Dann,Google
+Per Karlsson,Google
+L de Alfaro,Google
+A Kulshrestra,Google
+J Mittleman,Google
+Ken Oslund,Google
+Shiro Kadowaki,Google
+Nam Vo,Google
+Shaojin Ding,Google
+Clare Lyle,Google
+Craig Silverstein,Google
+Dario Amodei,Google
+Dzmitry Huba,Google
+Timon Van Overveldt,Google
+David Petrou,Google
+Jason Roselander,Google
+Hui Xu,Google
+Octavian Ganea,Google
+Michael Schapira,Google
+Theodore Tso,Google
+KJ Pittl,Google
+Elena Spitzer,Google
+Parker Barnes,Google
+Simone Sanoian McCloskey Wu,Google
+Jung Ho Ahn,Google
+David Hreczany,Google
+Linda Zhang,Google
+Carmelo Kintana,Google
+David Turner,Google
+Alec Brooks,Google
+Ed Lu,Google
+Dan Reicher,Google
+Joe Yue Hei Ng,Google
+Matthew Hausknecht,Google
+Radhika Mittal,Google
+Emily Blem,Google
+David Zats,Google
+Andrej Karpathy,Google
+Ara Kim,Google
+Masayuki Nanzawa,Google
+Jing Wang,Google
+Ritesh Agarwal,Google
+Praveen K Paritosh,Google
+Dustin Smith,Google
+Marius Schilder,Google
+Jon Moeller,Google
+Greg Priest Dorman,Google
+Thad Starner,Google
+Ben Carroll,Google
+Timothy D Heilman,Google
+Benjamin Kreuter,Google
+Charles L Chen,Google
+Zhenzhen Kou,Google
+Gokul Nath Babu Manoharan,Google
+Larysa Aharkava,Google
+Liqian Luo,Google
+Nick Monath,Google
+Ali Elqursh,Google
+L Vincent,Google
+Jamie Taylor,Google
+David Pablo Cohn,Google
+Jiulong Shan,Google
+Genqing Wu,Google
+Zhihong Hu,Google
+Xiliu Tang,Google
+Daria Antonova,Google
+Boris Roussev,Google
+John Orr,Google
+Michael Lenaghan,Google
+Mike Gainer,Google
+Saurabh Gupta,Google
+Robert Anderson,Google
+Carlos Hernandez Esteban,Google
+Melanie Kambadur,Google
+Claire Leong,Google
+Abhayendra Singh,Google
+Sara Zebian,Google
+Aurelien Lucchi,Google
+David E Jacobs,Google
+Bryan E Feldman,Google
+Robert Carroll,Google
+Kathleen OLeary,Google
+Raza Habib,Google
+Ulysse Beaugnon,Google
+Jonathan Elsas,Google
+Hannah Bast,Google
+Erik Carlsson,Google
+Veselin Raychev,Google
+Richard Shin,Google
+Gnanasekaran Sundarraj,Google
+David Li,Google
+Eyal Oren,Google
+Nissan Hajaj,Google
+Mimi Sun,Google
+Patrik Per Sundberg,Google
+Kun Zhang,Google
+Gerardo Flores,Google
+Gavin Duggan,Google
+Jamie Irvine,Google
+Kurt Litsch,Google
+Alex Mossin,Google
+De Wang,Google
+Srinivasan Madabushi,Google
+Martin Baeuml,Google
+Witold Jarnicki,Google
+Aonan Zhang,Google
+Zhenyao Zhu,Google
+Julien Perolat,Google
+Kevin Yeo,Google
+Patrick Gage Kelley,Google
+Dmitry Lagun,Google
+Chih Hung Hsieh,Google
+Zhi D Weng,Google
+YiChang Shih,Google
+Hanhan Li,Google
+Krisztian Balog,Google
+Jake D Brutlag,Google
+Maria Stone,Google
+Hao Du,Google
+Agustin Gravano,Google
+Chris Morrow,Google
+Daniel Holtmann Rice,Google
+Morgane Lustman,Google
+Jim McFadden,Google
+Reto Strobl,Google
+Mika Raento,Google
+Joshua Hailpern,Google
+Nicholas Jitkoff,Google
+Subhashini Venugopalan,Google
+Jon Hazard,Google
+Brian Patrick Williams,Google
+Shizhen Zhao,Google
+Rui Wang,Google
+Jill Woelfer,Google
+Mike Ulrich,Google
+Mark Dredze,Google
+Montse Gonzalez Arenas,Google
+Tamsyn P Waterhouse,Google
+Thomas A Limoncelli,Google
+Ahsan Arefin,Google
+Alex Docauer,Google
+Anshuman Gupta,Google
+Brian Matthew Fahs,Google
+Dima Rubinstein,Google
+Jake Adriaens,Google
+Jesse L Alpert,Google
+Jon Olson,Google
+Kevin P DeCabooter,Google
+Nathan Lewis,Google
+Riccardo Crepaldi,Google
+Srinivas Krishnan,Google
+Yossi Richter,Google
+Edward Y ,Google
+Dan Newburger,Google
+Jojo Dijamco,Google
+Nam Nguyen,Google
+Sam S Gross,Google
+Stefan Burkhardt,Google
+Shuo Chen,Google
+Ishaan Gulrajani,Google
+Yuxiao Hu,Google
+Mikhal Shemer,Google
+Marco Paniconi,Google
+David Meisner,Google
+Christopher M Sadler,Google
+Rajagopal Ananthanarayanan,Google
+Sumit Das,Google
+Alexey Reznichenko,Google
+Deomid Ryabkov,Google
+Victor Khimenko,Google
+Egor Pasko,Google
+Karl Schimpf,Google
+Hyun Jin Park,Google
+Christine Luu,Google
+Pierre Kreitmann,Google
+Jonathan Bischof,Google
+ ,Google
+Rong Ge,Google
+Ori Gershony,Google
+Stephen Craig Denuyl,Google

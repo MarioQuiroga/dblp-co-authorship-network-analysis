@@ -24,7 +24,9 @@ url = "https://ai.google/static/data/authors.json"
 organitation= 'Google'
 #url base to get papers title 
 url_titles = 'https://ai.google/research/people/'
-#os.getcwd()
+
+#authors brokens csv
+authors_brokes_csv = os.getcwd()+'/data/google/broken_auth.csv'
 #publications json
 publications_json = os.getcwd()+'/data/google/publications.json'
 #json file 
@@ -68,11 +70,16 @@ authors_json={}
 authorscsv=[]
 for author in jsoncontent['authors']:
     data = {}
+    data['original_name']=author['name']
     path_author = author['filename_html'].replace('.html','')
     name = name_normalize(author['name'])
     authorscsv.append([name,organitation])
     data['afiliation']=organitation
     data['url_titles']= url_titles+path_author
+    data['original_name']=author['name']
+    data["is_diferent"]=False
+    if data['original_name'] == name:
+        data["is_diferent"]=True
     authors_json[name]=data
 
 
@@ -82,8 +89,7 @@ content =response.content
 jsoncontent = json.loads(content)
 publications_authors = google_authors_titles(jsoncontent)
 
-with open(authors_titles, 'w') as jsonfile:
-    json.dump(authors_json, jsonfile) 
+
 
 
 with open(publications_json, 'w') as jsonfile:
@@ -91,6 +97,9 @@ with open(publications_json, 'w') as jsonfile:
 
 i=1
 s=1
+
+authors_broken=[]
+
 for author,pubs in publications_authors.items():
     if author in authors_json.keys():
         authors_json[author]['publications']=pubs
@@ -98,12 +107,20 @@ for author,pubs in publications_authors.items():
         print("CORRECTO:",author,"CON",s)
         s+=1
     else:
+        
         print("ERROR:",author,"CON",i)
-    i+=1
+        if author not in authors_broken:
+            i+=1
+            authors_broken.append([author,organitation])
 print(s)
 with open(savecsv, 'w') as f:
     writer = csv.writer(f)
     writer.writerows(authorscsv)    
 
+with open(authors_titles, 'w') as jsonfile:
+    json.dump(authors_json, jsonfile) 
 
+with open(authors_brokes_csv, 'w') as f:
+    writer = csv.writer(f)
+    writer.writerows(authors_broken) 
 
