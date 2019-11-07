@@ -1,8 +1,11 @@
 import requests
 import csv
-
+from bs4 import BeautifulSoup
+import re
+import dryscrape
 #parameters
 url = "http://csrankings.org/csrankings.csv"
+url_index= 'http://csrankings.org/#/index?all&world'
 folder = "data/institutes"
 type='authors'
 
@@ -18,10 +21,6 @@ response = requests.request("GET", url, data=payload)
 author_decoded = response.content
 
 authors_csv = csv.reader(author_decoded.splitlines(), delimiter=',')
-
-
-#authors_csv = csv.reader(response.content.splitlines(), delimiter=',')
-
 
 #transformation
 
@@ -49,3 +48,24 @@ for intitute in Institutes_athorships.keys():
         writer = csv.writer(institute_file)
         writer.writerows(author_institute_csv)             
     institute_file.close()     
+
+session = dryscrape.Session()
+session.visit(url_index)
+response = session.body()
+soup = BeautifulSoup(response,features="lxml")
+#soup.find_all("a",'href')
+
+#for author ,institute in author_institute_csv:
+for tr in soup.find_all("tr"):
+
+    for a in tr.find_all('a',href=True):
+        if a.text:
+            if not re.match("^[0-9 -]+$", a.text):
+                author = a.text
+            else:
+                author=''
+        if 'dblp' in a['href'] and author not in '':
+                print(a['href'],author)
+                
+
+            
