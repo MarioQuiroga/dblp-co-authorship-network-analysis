@@ -8,7 +8,7 @@ import requests
 from bs4 import BeautifulSoup as Soup
 import json
 
-SPECIAL_CHARS = ['"', '“', '”', '\'', '’', '´', '-', '_', '(', ')', '.', '[', ']', ':', ';', ',','–', '|', '°', '¬', '!', '\\','?','¿','¡', '朱', '曉', '耕', '&']
+SPECIAL_CHARS = ['"', '“', '”', '\'', '’', '´', '-', '_', '(', ')', '.', '[', ']', ':', ';', ',','–', '|', '°', '¬', '!', '\\','?','¿','¡', '朱', '曉', '耕', '&', '鄭','又','中']
 
 # Read csv data
 csv_file = os.getcwd()+'/data/google/google_authors.csv'
