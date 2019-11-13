@@ -22,7 +22,7 @@ def get_url_scholar_google(content):
 
 save_csv= os.getcwd()+'/data/facebook/facebook_authors.csv'
 save_csv_not_found= os.getcwd()+'/data/facebook/facebook_authors_not_found.csv'
-save_json= os.getcwd()+'/data/facebook/facebook_authors.json'
+save_json= os.getcwd()+'/data/facebook/facebook_authors_titles.json'
 authors_list = []
 authors_list_not_found = []
 authors_json = {}
