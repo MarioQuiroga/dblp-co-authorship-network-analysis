@@ -42,9 +42,9 @@ def get_coauthor(author,coworkers):
         
         if worker_name!=author:
             a = int(worker['@oc'])
-            for i in range(1,a):
+            #for i in range(1,a):
                 #<print(worker_name)
-                result.append(worker_name)
+            result.append([worker_name,a])
     return result
 
 def get_name_in_json(json_author):
@@ -69,7 +69,7 @@ def create_coauthor_json(json_author):
 
 def coautor_list_to_edge(name,coauthors):
     result=[]
-    result = [[name,val] for  val in coauthors]
+    result = [[name,val,count] for  val,count in coauthors]
     return result
 
 def authors_titles_by_url_to_coauthor_edge(authors_titles_json):
