@@ -5,10 +5,6 @@ import matplotlib.pyplot as plt
 '''
     Structural properties
 '''
-# Load network 
-def load_networks(files_list):
-    return None
-
 # Average degree
 def compute_avg_degree(g):
     degress = g.degree()
@@ -76,6 +72,18 @@ def compute_degree_distribution(graph):
     plt.show()
 
     
+# Distribucion coeficiente de clustering
+def compute_coef_clustering_distribution(graph):
+    clusterings = nx.clustering(graph)
+    keys, values = zip(*clusterings.items())
+    seq = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+    hist, bins = np.histogram(values, bins=seq)
+    plt.title("Distribución del coeficiente de clustering") 
+    plt.xlabel("Coeficiente de clustering") 
+    plt.ylabel("Cantidad") 
+    plt.plot(bins[:-1], hist) 
+    plt.show()    
+
     
 '''
     Most important
