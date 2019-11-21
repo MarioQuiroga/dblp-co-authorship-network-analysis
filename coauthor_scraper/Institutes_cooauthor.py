@@ -14,14 +14,14 @@ institutes_dict={}
 
 with open(institute_author_json_path)as authors_titles_file_json:
     authors_titles_json = json.loads(authors_titles_file_json.read())
-
+    #lo separo por intituto
     for key,val in authors_titles_json.items():
         if val['afiliation'] in institutes_dict:
             institutes_dict[val['afiliation']][key]=val
         else:
             institutes_dict[val['afiliation']]={key:val}
             
-    authors_json = authors_titles_by_url_to_coauthor_edge(authors_titles_json)
+    #authors_json = authors_titles_by_url_to_coauthor_edge(authors_titles_json)
 
 for inst in institutes_dict.keys():
     authors_json = authors_titles_by_url_to_coauthor_edge(institutes_dict[inst])

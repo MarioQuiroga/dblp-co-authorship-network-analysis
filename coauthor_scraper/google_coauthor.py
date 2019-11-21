@@ -1,22 +1,66 @@
 #imports
-import csv
-import json
-from tools.dblp_author_url_serch import *
+# import csv
+# import json
+# from tools.dblp_author_url_serch import *
 
 #get authors from file json
 
-title_search = "Estimating the size of online social networks"
-author = "Shaozhi Ye"
-author = "eYS ohahzi"
-json_auth='{"Shaozhi Ye": {"original_name": "Shaozhi Ye", "afiliation": "Google", "url_titles": "https://ai.google/research/people/ShaozhiYe", "is_diferent": true, "publications": ["Estimating the size of online social networks", "Design and Implementation of FAITH, an Experimental System to Intercept and Manipulate Online Social Informatics"]}, "Jim Shuma": {"original_name": "Jim Shuma", "afiliation": "Google", "url_titles": "https://ai.google/research/people/JimShuma", "is_diferent": true, "publications": ["Extracting Patterns from Location History"]}, "Esteban Real": {"original_name": "Esteban Real", "afiliation": "Google", "url_titles": "https://ai.google/research/people/EstebanReal", "is_diferent": true, "publications": ["Attention for fine-grained categorization", "Regularized Evolution for Image Classifier Architecture Search", "Large-Scale Evolution of Image Classifiers", "YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Dataset for Object Detection in Video"]}, "Liz Fong Jones": {"original_name": "Liz Fong-Jones", "afiliation": "Google", "url_titles": "https://ai.google/research/people/105479", "is_diferent": false, "publications": [";login: Interrupt Reduction Projects", "How SRE relates to DevOps"]}, "Ariel Gutman": {"original_name": "Ariel Gutman", "afiliation": "Google", "url_titles": "https://ai.google/research/people/105627", "is_diferent": true, "publications": ["Crafting a lexicon of referential expressions for NLG applications"]}, "Rianne van den Berg": {"original_name": "Rianne van den Berg", "afiliation": "Google", "url_titles": "https://ai.google/research/people/RiannevandenBerg", "is_diferent": true}, "Ryan McDonald": {"original_name": "Ryan McDonald", "afiliation": "Google", "url_titles": "https://ai.google/research/people/author32317", "is_diferent": true, "publications": ["Sentiment Summarization: Evaluating and Learning User Preferences", "Structured Models for Fine-to-Coarse Sentiment Analysis", "Evaluation of Dependency Parsers on Unbounded Dependencies", "Using Search-Logs to Improve Query Tagging", "The Viability of Web-derived Polarity Lexicons", "On the Complexity of Non-Projective Data-Driven Dependency Parsing", "Building a Sentiment Summarizer for Local Service Reviews", "Enforcing Structural Diversity in Cube-pruned Dependency Parsing", "Efficient Large-Scale Distributed Training of Conditional Maximum Entropy Models", "Morpho-syntactic Lexicon Generation Using Graph-based Semi-supervised Learning", "Overview of the 2012 Shared Task on Parsing the Web", "A Linear-Time Transition System for Crossing Interval Trees", "Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging", "Deep Relevance Ranking using Enhanced Document-Query Interactions", "Adapting taggers to Twitter with not-so-distant supervision", "Generalized Higher-Order Dependency Parsing with Cube Pruning", "Universal Dependency Annotation for Multilingual Parsing", "Training a Parser for Machine Translation Reordering", "A Study of Global Inference Algorithms in Multi-Document Summarization", "Training Structured Prediction Models with Extrinsic Loss Functions", "Dependency Parsing", "What\u2019s great and what\u2019s not: learning to classify the scope of negation for improved sentiment analysis", "Characterizing the Errors of Data-Driven Dependency Parsers", "A Joint Model of Text and Aspect Ratings for Sentiment Summarization", "Online Learning for Inexact Hypergraph Search", "Integrating Graph-based and Transition-based Dependency Parsers", "Discovering fine-grained sentiment with latent variable structured prediction models", "Universal Dependencies v1: A Multilingual Treebank Collection", "Multi-Source Transfer of Delexicalized Dependency Parsers", "Analyzing and Integrating Dependency Parsers", "Training dependency parsers by jointly optimizing multiple objectives", "Target Language Adaptation of Discriminative Transfer Parsers", "Contrastive summarization: An experiment with consumer reviews", "Constrained Arc-Eager Dependency Parsing", "A Universal Part-of-Speech Tagset", "Cross-lingual Word Clusters for Direct Transfer of Linguistic Structure", "Modeling Online Reviews with Multi-Grain Topic Models", "AUEB-NLP at BioASQ 6: Document and Snippet Retrieval", "Distributed Training Strategies for the Structured Perceptron", "Semi-supervised Latent Variable Models for Fine-grained Sentiment Analysis"]}, "Jason Schiller": {"original_name": "Jason Schiller", "afiliation": "Google", "url_titles": "https://ai.google/research/people/JasonSchiller", "is_diferent": true, "publications": ["CSRIC III WORKING GROUP 4  Network Security Best Practices    FINAL Report \u2013 BGP Security Best Practice"]}, "Anton Raichuk": {"original_name": "Anton Raichuk", "afiliation": "Google", "url_titles": "https://ai.google/research/people/AntonRaichuk", "is_diferent": true, "publications": ["Episodic Curiosity through Reachability", "Google Research Football: A Novel Reinforcement Learning Environment"]}}'
-
-json_auth = json.loads(json_auth)
-print (get_authors_titles('itle Crafting a lexicon of referential expressions for NLG applications'))
-
-# a = get_authors_titles('Estimating the size of online social networks')
+# title_search = "Estimating the size of online social networks"
+# author = "Shaozhi Ye"
+# author = "eYS ohahzi"
+#json_auth='{"Ashwin Ganti": {"original_name": "Ashwin Ganti", "afiliation": "Google", "url_titles": "https://ai.google/research/people/author37533", "is_diferent": true, "publications": ["Plan 9 Authentication in Linux"]}}'
+# json_auth = json.loads(json_auth)
+# print (get_authors_titles('itle Crafting a lexicon of referential expressions for NLG applications'))
+# a = get_authors_titles('Plan 9 Authentication in Linux')
 # print(a)
 # b= get_author_url_comparing_name(author,a)
-
 #print(b)
+# print(authors_titles_by_url_to_coauthor_edge(json_auth))
 
-print(authors_titles_by_url_to_coauthor_edge(json_auth))
+#imports
+import csv
+import json
+from tools.dblp_author_url_serch import *
+import time
+
+
+ #declare paths
+google_author_json_path ='data/google/google_authors_titles.json'
+google_coauthors_edges_path = 'data/google/authors_titles_google.csv'
+#read json authors and extract coauthors
+authors_json=[]
+
+
+# def chunks(data, SIZE=10000):
+#     it = iter(data)
+#     for i in range(0, len(data), SIZE):
+#         yield {k:data[k] for k in islice(it, SIZE)}
+
+
+
+with open(google_author_json_path)as authors_titles_file_json:
+    authors_titles_json = json.loads(authors_titles_file_json.read())
+
+
+dic_aux={}
+dic1=dict(list(authors_titles_json.items())[:300])
+dic2=dict(list(authors_titles_json.items())[301:600])
+dic3=dict(list(authors_titles_json.items())[601:900])
+dic4=dict(list(authors_titles_json.items())[901:1200])
+dic5=dict(list(authors_titles_json.items())[1201:1500])
+dic6=dict(list(authors_titles_json.items())[1501:1800])
+dic7=dict(list(authors_titles_json.items())[1801:])
+dic8 = dict(list(authors_titles_json.items())[1761:1800])
+#listos dic1 dic2 dic3 dic 4 dic5 dic6
+dics=[dic1, dic2, dic3, dic4, dic5, dic6,dic7]
+
+with open(google_coauthors_edges_path,'a')as intitute_csv_file:
+#for author,coauthor in authors_json:
+    for dic in dics:
+        authors_json = authors_titles_by_url_to_coauthor_edge(dic)
+        writer = csv.writer(intitute_csv_file)
+        writer.writerows(authors_json)  
+        print("esperando")
+        time.sleep(50)
+
+
