@@ -63,16 +63,12 @@ def get_coauthor(author,coworkers):
         
         if worker_name!=author:
             a = int(worker['@oc'])
-            #for i in range(1,a):
-                #<print(worker_name)
             result.append([worker_name,a])
     return result
 
 def get_name_in_json(json_author):
     if "c" in json_author['result']['completions'].keys():        
         if int(json_author['result']['completions']['@total'])>1:
-            # print(json_author,"JSON")
-            # print(json_author['result']['hits']['@total'],"total")
             return json_author['result']['completions']['c'][0]['text'].split(':')[3]
         else:
             return False
@@ -102,7 +98,7 @@ def authors_titles_by_url_to_coauthor_edge(authors_titles_json):
     edges=[]
     errors=[]
     i=0
-    for values in authors_titles_json.values():
+    for key,values in authors_titles_json.items():
         time.sleep(1)
         print(i)
         i+=1
@@ -125,7 +121,10 @@ def authors_titles_by_url_to_coauthor_edge(authors_titles_json):
             print("title",title)
             authors = get_authors_titles(title)
             if authors:
-                dblp_url = get_author_url_comparing_name(values['original_name'],authors)
+                if 'original_name' in values.keys():
+                    dblp_url = get_author_url_comparing_name(values['original_name'],authors)
+                else:
+                    dblp_url = get_author_url_comparing_name(key,authors)
                 url = urldblp_to_coauthorurl(dblp_url)
                 json_author = get_json_by_url(url)
                 name = get_name_in_json(json_author)
@@ -135,7 +134,7 @@ def authors_titles_by_url_to_coauthor_edge(authors_titles_json):
                     edge = coautor_list_to_edge(name,coworkers)
                     edges.extend(edge)
             else:
-                print("name not found")
+                print("name not found by publication",key)
 
     return edges
 

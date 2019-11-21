@@ -1,23 +1,4 @@
 #imports
-# import csv
-# import json
-# from tools.dblp_author_url_serch import *
-
-#get authors from file json
-
-# title_search = "Estimating the size of online social networks"
-# author = "Shaozhi Ye"
-# author = "eYS ohahzi"
-#json_auth='{"Ashwin Ganti": {"original_name": "Ashwin Ganti", "afiliation": "Google", "url_titles": "https://ai.google/research/people/author37533", "is_diferent": true, "publications": ["Plan 9 Authentication in Linux"]}}'
-# json_auth = json.loads(json_auth)
-# print (get_authors_titles('itle Crafting a lexicon of referential expressions for NLG applications'))
-# a = get_authors_titles('Plan 9 Authentication in Linux')
-# print(a)
-# b= get_author_url_comparing_name(author,a)
-#print(b)
-# print(authors_titles_by_url_to_coauthor_edge(json_auth))
-
-#imports
 import csv
 import json
 from tools.dblp_author_url_serch import *
@@ -29,12 +10,6 @@ google_author_json_path ='data/google/google_authors_titles.json'
 google_coauthors_edges_path = 'data/google/authors_titles_google.csv'
 #read json authors and extract coauthors
 authors_json=[]
-
-
-# def chunks(data, SIZE=10000):
-#     it = iter(data)
-#     for i in range(0, len(data), SIZE):
-#         yield {k:data[k] for k in islice(it, SIZE)}
 
 
 
