@@ -1,6 +1,23 @@
 import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt
+from os import scandir, getcwd
+
+def ls(ruta = getcwd()):
+    return [arch.name for arch in scandir(ruta) if arch.is_file()]
+
+
+def load_networks(path):
+    files = ls(path)
+    graphs = {}
+    full = nx.Graph()
+    for file in files:
+        name = file.split('_')[-1].split('.')[0]
+        g = nx.read_weighted_edgelist(path+'/'+file, delimiter=',')
+        full = nx.compose(full, g)
+        graphs[name] = g        
+    graphs['full'] = full
+    return graphs
 
 '''
     Structural properties
@@ -23,8 +40,8 @@ def hist(array, bins):
     return zip(*b.items())
 
 # SCC 
-def compute_scc(g)
-    scc = nx.strongly_connected_component_subgraphs(g)
+def compute_scc(g):
+    scc = nx.weakly_connected_component_subgraphs(g)
     # Select max SCC 
     m_scc = []
     count = 0
@@ -95,11 +112,9 @@ def most_important_authors(name, graph, top):
     sorted_degrees = sorted(degrees, key=lambda degree: degree[1],reverse = True)
     print("Top "+str(top)+" de autores por su grado")
     print("Autor , Grado")
-    top_ten = []
     for i in range(0,top):
-      top_ten.append(sorted_degrees[i])
       print(sorted_degrees[i])    
-        
+    print("-----------------------------------------")
     # PageRank centrality
     a = 0.3
     pr = nx.pagerank(graph, alpha=a)
@@ -108,16 +123,17 @@ def most_important_authors(name, graph, top):
     print("Autor ,  Pagerank")
     for i in range(0,top):
       print(sorted_pr[i], " %2.5f"%(pr[sorted_pr[i]]))
+    print("-----------------------------------------")
     
     
 def most_important_coauthors(name, graph, top):
     print("Grafo:", name)
     print("Top "+str(top)+" de coautores.")
-    print("autor     autor    peso")
+    print("autor --- autor --- peso")
     authors = []
-    for a, b, data in sorted(graph.edges(data=True), key=lambda x: x[2]['weight']):
+    for a, b, data in sorted(graph.edges(data=True), key=lambda x: x[2]['weight'], reverse = True):
         #print('{a} {b} {w}'.format(a=a, b=b, w=data['weight']))
-        authors.append('{a} {b} {w}'.format(a=a, b=b, w=data['weight']))
+        authors.append('{a}---{b}---{w}'.format(a=a, b=b, w=data['weight']))
     for i in range(0,top):
         print(authors[i])
     
@@ -126,10 +142,11 @@ def top_betweenness(name, graph, top):
     print("Top "+str(top)+" de autores por betweenness centrality.")
     print("autor   betweenness")
     bw_centrality = nx.betweenness_centrality(graph, normalized=False)
+    bw_sorted = sorted(bw_centrality, key=lambda bw: bw[1],reverse = True)
     bw = []
-    for key, value in bw_centrality.items():
+    for key, value in bw_sorted:
         bw.append('{key} {value}'.format(key=key, value=value))
-    for i in range(0,top)
+    for i in range(0,top):
         print(bw[i])
 
     
@@ -141,12 +158,13 @@ def compute_degree_correlation(name, g):
     degrees = g.degree()
     # Make correlation matrix
     max_degree = max([d for n, d in degrees])
-    corr_matrix = np.zeros((max_degree,max_degree))
+    corr_matrix = np.zeros((max_degree+1,max_degree+1))
     for node in g.nodes():
-        neighbors = g.neighbors(node)        
+        neighbors = g.neighbors(node)
         for neighbor in neighbors:
             corr_matrix[degrees[node]][degrees[neighbor]] += 1
-            
+    print(corr_matrix)
+    
     # Plot correlation matrix
     f = plt.figure(figsize=(19, 15))
     plt.matshow(corr_matrix, fignum=f.number, origin='lower')
