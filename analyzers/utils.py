@@ -13,7 +13,14 @@ def load_networks(path):
     full = nx.Graph()
     for file in files:
         name = file.split('_')[-1].split('.')[0]
-        g = nx.read_weighted_edgelist(path+'/'+file, delimiter=',')
+        g = nx.read_weighted_edgelist(path+'/'+file, delimiter=',')        
+        coauthors = set()        
+        with open(path+'/'+file) as f:
+            lines = f.readlines()
+            for line in lines:
+                author = line.split(',')[0]
+                coauthors.add(author)
+            g = g.subgraph(coauthors)
         full = nx.compose(full, g)
         graphs[name] = g        
     graphs['full'] = full
@@ -41,7 +48,8 @@ def hist(array, bins):
 
 # SCC 
 def compute_scc(g):
-    scc = nx.weakly_connected_component_subgraphs(g)
+    scc = nx.algorithms.components.connected_component_subgraphs(g)
+    #scc = nx.weakly_connected_component_subgraphs(g)
     # Select max SCC 
     m_scc = []
     count = 0
@@ -155,23 +163,29 @@ def top_betweenness(name, graph, top):
     Homophilia
 '''
 def compute_degree_correlation(name, g):
+    #g = nx.algorithms.components.connected_components(graph)
     degrees = g.degree()
     # Make correlation matrix
+    #print(degrees)
     max_degree = max([d for n, d in degrees])
-    corr_matrix = np.zeros((max_degree+1,max_degree+1))
-    for node in g.nodes():
+    print(max_degree)
+    corr_matrix = np.zeros((max_degree+1,max_degree+1))    
+    for node in g.nodes():            
         neighbors = g.neighbors(node)
         for neighbor in neighbors:
-            corr_matrix[degrees[node]][degrees[neighbor]] += 1
-    print(corr_matrix)
-    
+            #print(node, neighbor)
+            corr_matrix[degrees[node]][degrees[neighbor]]+= 1
+            #print(degrees[node], degrees[neighbor])
+    for i in range(len(corr_matrix)):
+        for j in range(len(corr_matrix[i])):
+            corr_matrix[i][j] = corr_matrix[i][j]
     # Plot correlation matrix
-    f = plt.figure(figsize=(19, 15))
+    f = plt.figure(figsize=(10, 10))
     plt.matshow(corr_matrix, fignum=f.number, origin='lower')
-    plt.xticks(range(corr_matrix.shape[1]), range(max_degree), fontsize=14)
-    plt.yticks(range(corr_matrix.shape[1]), range(max_degree), fontsize=14)
+    plt.xticks(range(max_degree+1), range(max_degree+1), fontsize=7)
+    plt.yticks(range(max_degree+1), range(max_degree+1), fontsize=7)
     cb = plt.colorbar()
-    cb.ax.tick_params(labelsize=14)
+    plt.colorbar().ax.tick_params(labelsize=10)
     plt.title('Matriz de correlación de grado del grafo: '+ name, fontsize=16);
     plt.gca().xaxis.tick_bottom()
     plt.show()
