@@ -153,15 +153,18 @@ def get_authors_titles(title):
 
     session.visit(url_query)
     response = session.body()
-    soup = BeautifulSoup(response,features="lxml")
-    span =soup.find_all("span",{"itemprop":"author"})
-    
+    print(session.status_code())
     authors=[]
-    for a in span:
-        ahref=a.find("a")['href']
-        aname=a.find("a").text
-        authors.append([aname,ahref])
-    session.reset()
+    if session.status_code() == 200:
+        soup = BeautifulSoup(response,features="lxml")
+        span =soup.find_all("span",{"itemprop":"author"})
+    
+        
+        for a in span:
+            ahref=a.find("a")['href']
+            aname=a.find("a").text
+            authors.append([aname,ahref])
+        session.reset()
     return authors
 
 def get_author_url_comparing_name(name, name_url_list):
