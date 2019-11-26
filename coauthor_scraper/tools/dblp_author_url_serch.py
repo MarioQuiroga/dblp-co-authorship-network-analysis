@@ -36,7 +36,7 @@ def urldblp_to_coauthorurl(url):
     comp='compl=author&'
     p='p=2&'
     h='h=0&'
-    c='c=100&'
+    c='c=200&'
     format='format=json&'
     url_array = url.split('/')
     print(url_array,url)
