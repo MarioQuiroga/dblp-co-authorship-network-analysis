@@ -48,7 +48,9 @@ def hist(array, bins):
 
 # SCC 
 def compute_scc(g):
-    scc = nx.algorithms.components.connected_component_subgraphs(g)
+    largest_cc = max(nx.connected_components(g), key=len)
+    m_scc = g.subgraph(largest_cc)
+    '''
     #scc = nx.weakly_connected_component_subgraphs(g)
     # Select max SCC 
     m_scc = []
@@ -59,10 +61,11 @@ def compute_scc(g):
             m_scc = x
     print("Cantidad de componentes fuertemente conectados:", count)
     print("El componente gigante tiene", str(len(m_scc)), "nodos")
+    '''
     return m_scc
 
 # Distribución de grado
-def compute_degree_distribution(graph):
+def compute_degree_distribution(name,graph):
     degrees = [i for _, i in graph.degree()]
     for _, i in graph.degree():
         degrees.append(i)
@@ -73,8 +76,9 @@ def compute_degree_distribution(graph):
     for i in range(0, len(dist)):
         if (int(dist[i]) != 0) and (bins[i] != 0):
             x.append(bins[i])
-            y.append(dist[i]/graph.number_of_nodes())
+            y.append(dist[i])
     # Exponente de la power law
+    '''
     # Log scale
     log_x = np.log(x)
     log_y = np.log(y)
@@ -84,26 +88,27 @@ def compute_degree_distribution(graph):
     ajuste = np.polyfit(log_x, log_y, deg=1)
     rect = np.poly1d(ajuste) #internamente representa un polinomio 
     print("Recta de ajuste:", rect)
-    print("Exponente de la power law: %2.3f" %(rect[1]))
-
+    print("Exponente de la power law: %2.3f" %(rect[1]))o
+    '''
     # Gráfico del ajuste
-    y_pred = rect(log_x)
-    plt.title("Gráfico comparación del modelo obtenido y datos reales") 
-    plt.xlabel("log(k)") 
-    plt.ylabel("log(Pk)") 
-    plt.plot(log_x, log_y, log_x, y_pred) 
-    plt.legend(('Curva real', 'Curva ajustada'),
-    prop = {'size':10}, loc = 'upper right')
+    #y_pred = rect(log_x)
+    plt.title("Histograma de grado " + name) 
+    plt.xlabel("k") 
+    plt.ylabel("Cantidad") 
+    plt.bar(x,y) 
+    #plt.plot(log_x, log_y, log_x, y_pred) 
+    #plt.legend(('Curva real', 'Curva ajustada'),
+    #prop = {'size':10}, loc = 'upper right')
     plt.show()
 
     
 # Distribucion coeficiente de clustering
-def compute_coef_clustering_distribution(graph):
+def compute_coef_clustering_distribution(name,graph):
     clusterings = nx.clustering(graph)
     keys, values = zip(*clusterings.items())
     seq = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
     hist, bins = np.histogram(values, bins=seq)
-    plt.title("Distribución del coeficiente de clustering") 
+    plt.title("Distribución del coeficiente de clustering " + name) 
     plt.xlabel("Coeficiente de clustering") 
     plt.ylabel("Cantidad") 
     plt.plot(bins[:-1], hist) 
@@ -116,7 +121,7 @@ def compute_coef_clustering_distribution(graph):
 def most_important_authors(name, graph, top):
     # Degree centrality
     print("Grafo:", name)
-    degrees = graph.degree()
+    degrees = graph.degree(weight='weight')
     sorted_degrees = sorted(degrees, key=lambda degree: degree[1],reverse = True)
     print("Top "+str(top)+" de autores por su grado")
     print("Autor , Grado")
@@ -150,10 +155,11 @@ def top_betweenness(name, graph, top):
     print("Top "+str(top)+" de autores por betweenness centrality.")
     print("autor   betweenness")
     bw_centrality = nx.betweenness_centrality(graph, normalized=False)
-    bw_sorted = sorted(bw_centrality, key=lambda bw: bw[1],reverse = True)
     bw = []
-    for key, value in bw_sorted:
-        bw.append('{key} {value}'.format(key=key, value=value))
+    import operator
+    sorted_x = sorted(bw_centrality.items(), key=operator.itemgetter(1), reverse=True)
+    for a, b in sorted_x:
+        bw.append('{key}    {value}'.format(key=a, value=b))
     for i in range(0,top):
         print(bw[i])
 
@@ -163,31 +169,27 @@ def top_betweenness(name, graph, top):
     Homophilia
 '''
 def compute_degree_correlation(name, g):
-    #g = nx.algorithms.components.connected_components(graph)
     degrees = g.degree()
-    # Make correlation matrix
-    #print(degrees)
+    # Make correlation matrix    
     max_degree = max([d for n, d in degrees])
-    print(max_degree)
     corr_matrix = np.zeros((max_degree+1,max_degree+1))    
     for node in g.nodes():            
         neighbors = g.neighbors(node)
         for neighbor in neighbors:
-            #print(node, neighbor)
-            corr_matrix[degrees[node]][degrees[neighbor]]+= 1
-            #print(degrees[node], degrees[neighbor])
-    for i in range(len(corr_matrix)):
-        for j in range(len(corr_matrix[i])):
-            corr_matrix[i][j] = corr_matrix[i][j]
+            corr_matrix[degrees[node]][degrees[neighbor]]+= 1            
+    
     # Plot correlation matrix
-    f = plt.figure(figsize=(10, 10))
-    plt.matshow(corr_matrix, fignum=f.number, origin='lower')
-    plt.xticks(range(max_degree+1), range(max_degree+1), fontsize=7)
-    plt.yticks(range(max_degree+1), range(max_degree+1), fontsize=7)
-    cb = plt.colorbar()
-    plt.colorbar().ax.tick_params(labelsize=10)
-    plt.title('Matriz de correlación de grado del grafo: '+ name, fontsize=16);
-    plt.gca().xaxis.tick_bottom()
+    #f = plt.figure(figsize=(10, 10))
+    #f = plt.figure()
+    #plt.imshow(corr_matrix, fignum=f.number, origin='lower', cmap='Reds', interpolation='none')
+    plt.imshow(corr_matrix, origin='lower', cmap='Reds', interpolation='none')
+    spl=1
+    if(max_degree>25):
+        spl=10
+    ax = plt.xticks(range(0,max_degree+1,spl), range(0,max_degree+1,spl), fontsize=7)    
+    plt.yticks(range(0,max_degree+1,spl), range(0,max_degree+1,spl), fontsize=7)
+    plt.colorbar().ax.tick_params(labelsize=7, length=5, width=2)
+    plt.title('Matriz de correlación de grado del grafo: '+ name, fontsize=10);
     plt.show()
     
     
