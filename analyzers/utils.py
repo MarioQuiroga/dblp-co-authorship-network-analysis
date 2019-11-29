@@ -11,19 +11,27 @@ def load_networks(path):
     files = ls(path)
     graphs = {}
     full = nx.Graph()
+    
     for file in files:
         name = file.split('_')[-1].split('.')[0]
         g = nx.read_weighted_edgelist(path+'/'+file, delimiter=',')        
-        coauthors = set()        
+        coauthors = set()
+        full = nx.compose(full, g)
         with open(path+'/'+file) as f:
             lines = f.readlines()
             for line in lines:
                 author = line.split(',')[0]
                 coauthors.add(author)
-            g = g.subgraph(coauthors)
-        full = nx.compose(full, g)
-        graphs[name] = g        
-    graphs['full'] = full
+            g = g.subgraph(coauthors)            
+        graphs[name] = g   
+        
+    coauthors = set()    
+    for _, graph in graphs.items():
+        for coauthor in graph.nodes():
+            coauthors.add(coauthor) 
+    full_filtred = full.subgraph(coauthors)
+        
+    graphs['Todas'] = full_filtred
     return graphs
 
 '''
@@ -78,7 +86,7 @@ def compute_degree_distribution(name,graph):
             x.append(bins[i])
             y.append(dist[i])
     # Exponente de la power law
-    '''
+    
     # Log scale
     log_x = np.log(x)
     log_y = np.log(y)
@@ -87,9 +95,9 @@ def compute_degree_distribution(name,graph):
     # ajuste = np.polyfit(x log, y log, grado del polinomio = 1) retorna los coeficientes del polinomio [coef grado 1 alfa, coef grado 0 c]
     ajuste = np.polyfit(log_x, log_y, deg=1)
     rect = np.poly1d(ajuste) #internamente representa un polinomio 
-    print("Recta de ajuste:", rect)
-    print("Exponente de la power law: %2.3f" %(rect[1]))o
-    '''
+    #print("Recta de ajuste:", rect)
+    print("Exponente de la power law: %2.3f" %(rect[1]))
+    
     # Gráfico del ajuste
     #y_pred = rect(log_x)
     plt.title("Histograma de grado " + name) 
@@ -112,6 +120,23 @@ def compute_coef_clustering_distribution(name,graph):
     plt.xlabel("Coeficiente de clustering") 
     plt.ylabel("Cantidad") 
     plt.plot(bins[:-1], hist) 
+    plt.show()    
+
+    
+# Distribucion coeficiente de clustering
+def compute_coef_clustering_distributions(graphs):    
+    names = []    
+    seq = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    for name, g in graphs.items():
+        clusterings = nx.clustering(g)
+        keys, values = zip(*clusterings.items())
+        hist, bins = np.histogram(values, bins=seq)
+        plt.plot(bins[:-1], hist) 
+        names.append(name)
+    plt.title("Comparación distribución del coeficiente de clustering ") 
+    plt.xlabel("Coeficiente de clustering") 
+    plt.ylabel("Cantidad") 
+    plt.legend(names, prop = {'size':10}, loc = 'upper right')
     plt.show()    
 
     
@@ -182,14 +207,17 @@ def compute_degree_correlation(name, g):
     #f = plt.figure(figsize=(10, 10))
     #f = plt.figure()
     #plt.imshow(corr_matrix, fignum=f.number, origin='lower', cmap='Reds', interpolation='none')
-    plt.imshow(corr_matrix, origin='lower', cmap='Reds', interpolation='none')
+    plt.imshow(corr_matrix[:20,:20], origin='lower', cmap='Reds', interpolation='none')
+    print(corr_matrix[:20,:20])
     spl=1
     if(max_degree>25):
         spl=10
-    ax = plt.xticks(range(0,max_degree+1,spl), range(0,max_degree+1,spl), fontsize=7)    
-    plt.yticks(range(0,max_degree+1,spl), range(0,max_degree+1,spl), fontsize=7)
+    ax = plt.xticks(range(0,20), range(0,20), fontsize=7)    
+    plt.yticks(range(0,20), range(0,20), fontsize=7)
     plt.colorbar().ax.tick_params(labelsize=7, length=5, width=2)
     plt.title('Matriz de correlación de grado del grafo: '+ name, fontsize=10);
+    plt.xlabel("K") 
+    plt.ylabel("K") 
     plt.show()
     
     
