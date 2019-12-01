@@ -207,13 +207,13 @@ def compute_degree_correlation(name, g):
     #f = plt.figure(figsize=(10, 10))
     #f = plt.figure()
     #plt.imshow(corr_matrix, fignum=f.number, origin='lower', cmap='Reds', interpolation='none')
-    plt.imshow(corr_matrix[:20,:20], origin='lower', cmap='Reds', interpolation='none')
-    print(corr_matrix[:20,:20])
+    plt.imshow(corr_matrix[:15,:15], origin='lower', cmap='Reds', interpolation='none')
+    print(corr_matrix[:15,:15])
     spl=1
     if(max_degree>25):
         spl=10
-    ax = plt.xticks(range(0,20), range(0,20), fontsize=7)    
-    plt.yticks(range(0,20), range(0,20), fontsize=7)
+    ax = plt.xticks(range(0,15), range(0,15), fontsize=7)    
+    plt.yticks(range(0,15), range(0,15), fontsize=7)
     plt.colorbar().ax.tick_params(labelsize=7, length=5, width=2)
     plt.title('Matriz de correlación de grado del grafo: '+ name, fontsize=10);
     plt.xlabel("K") 
