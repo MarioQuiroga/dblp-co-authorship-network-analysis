@@ -6,35 +6,6 @@ from os import scandir, getcwd
 def ls(ruta = getcwd()):
     return [arch.name for arch in scandir(ruta) if arch.is_file()]
 
-'''
-def load_networks(path):
-    files = ls(path)
-    graphs = {}
-    full = nx.Graph()
-    
-    for file in files:
-        name = file.split('_')[-1].split('.')[0]
-        print(name)
-        g = nx.read_weighted_edgelist(path+'/'+file, delimiter=',')        
-        coauthors = set()
-        full = nx.compose(full, g)
-        with open(path+'/'+file) as f:
-            lines = f.readlines()
-            for line in lines:
-                author = line.split(',')[0]
-                coauthors.add(author)
-            g = g.subgraph(coauthors)            
-        graphs[name] = g   
-        
-    coauthors = set()    
-    for _, graph in graphs.items():
-        for coauthor in graph.nodes():
-            coauthors.add(coauthor) 
-    full_filtred = full.subgraph(coauthors)
-        
-    graphs['Todas'] = full_filtred
-    return graphs
-'''
 def load_networks(path):
     files = ls(path)
     graphs = {}
@@ -85,18 +56,6 @@ def hist(array, bins):
 def compute_scc(g):
     largest_cc = max(nx.connected_components(g), key=len)
     m_scc = g.subgraph(largest_cc)
-    '''
-    #scc = nx.weakly_connected_component_subgraphs(g)
-    # Select max SCC 
-    m_scc = []
-    count = 0
-    for x in scc:
-        count = count + 1
-        if len(x) > len(m_scc):
-            m_scc = x
-    print("Cantidad de componentes fuertemente conectados:", count)
-    print("El componente gigante tiene", str(len(m_scc)), "nodos")
-    '''
     return m_scc
 
 # Distribución de grado
@@ -254,9 +213,6 @@ def compute_degree_correlation(name, g):
             corr_matrix[degrees[node]][degrees[neighbor]]+= 1            
     
     # Plot correlation matrix
-    #f = plt.figure(figsize=(10, 10))
-    #f = plt.figure()
-    #plt.imshow(corr_matrix, fignum=f.number, origin='lower', cmap='Reds', interpolation='none')
     plt.imshow(corr_matrix[:15,:15], origin='lower', cmap='Reds', interpolation='none')
     print(corr_matrix[:15,:15])
     spl=1
@@ -271,7 +227,3 @@ def compute_degree_correlation(name, g):
     plt.show()
     
     
-'''
-    Communities
-'''
-
