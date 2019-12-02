@@ -6,12 +6,12 @@ from os import scandir, getcwd
 def ls(ruta = getcwd()):
     return [arch.name for arch in scandir(ruta) if arch.is_file()]
 
-
 def load_networks(path):
     files = ls(path)
     graphs = {}
     full = nx.Graph()
-    
+    coauthors_full = set() 
+
     for file in files:
         name = file.split('_')[-1].split('.')[0]
         g = nx.read_weighted_edgelist(path+'/'+file, delimiter=',')        
@@ -22,17 +22,15 @@ def load_networks(path):
             for line in lines:
                 author = line.split(',')[0]
                 coauthors.add(author)
-            g = g.subgraph(coauthors)            
+                coauthors_full.add(author)
+            g = g.subgraph(coauthors)
+            #g = g.subgraph(max(nx.connected_components(g), key=len))            
         graphs[name] = g   
-        
-    coauthors = set()    
-    for _, graph in graphs.items():
-        for coauthor in graph.nodes():
-            coauthors.add(coauthor) 
-    full_filtred = full.subgraph(coauthors)
-        
-    graphs['Todas'] = full_filtred
+   
+    graphs['full']=full.subgraph(list(coauthors_full))
+    #graphs['full'] = graphs['full'].subgraph(max(nx.connected_components(graphs['full']), key=len))
     return graphs
+
 
 '''
     Structural properties
@@ -58,18 +56,6 @@ def hist(array, bins):
 def compute_scc(g):
     largest_cc = max(nx.connected_components(g), key=len)
     m_scc = g.subgraph(largest_cc)
-    '''
-    #scc = nx.weakly_connected_component_subgraphs(g)
-    # Select max SCC 
-    m_scc = []
-    count = 0
-    for x in scc:
-        count = count + 1
-        if len(x) > len(m_scc):
-            m_scc = x
-    print("Cantidad de componentes fuertemente conectados:", count)
-    print("El componente gigante tiene", str(len(m_scc)), "nodos")
-    '''
     return m_scc
 
 # Distribución de grado
@@ -99,14 +85,20 @@ def compute_degree_distribution(name,graph):
     print("Exponente de la power law: %2.3f" %(rect[1]))
     
     # Gráfico del ajuste
-    #y_pred = rect(log_x)
+    y_pred = rect(log_x)
+    
+    lineal_y_pred = []
+    for n in y_pred:
+        f = np.exp(n)
+        lineal_y_pred.append(f)
+
     plt.title("Histograma de grado " + name) 
     plt.xlabel("k") 
     plt.ylabel("Cantidad") 
-    plt.bar(x,y) 
+    plt.scatter(x,y, label="Dsitribución de grado", color='red')
+    plt.plot(x, lineal_y_pred, label="Curva ajustada")
     #plt.plot(log_x, log_y, log_x, y_pred) 
-    #plt.legend(('Curva real', 'Curva ajustada'),
-    #prop = {'size':10}, loc = 'upper right')
+    plt.legend(prop = {'size':10}, loc = 'upper right')
     plt.show()
 
     
@@ -143,6 +135,7 @@ def compute_coef_clustering_distributions(graphs):
 '''
     Most important
 '''
+import csv
 def most_important_authors(name, graph, top):
     # Degree centrality
     print("Grafo:", name)
@@ -150,18 +143,28 @@ def most_important_authors(name, graph, top):
     sorted_degrees = sorted(degrees, key=lambda degree: degree[1],reverse = True)
     print("Top "+str(top)+" de autores por su grado")
     print("Autor , Grado")
+    coauthors = []
     for i in range(0,top):
       print(sorted_degrees[i])    
+      coauthors.append(sorted_degrees[i])
     print("-----------------------------------------")
+    with open('most_important_degree', 'w') as f:
+        writer = csv.writer(f)
+        writer.writerows(coauthors)
     # PageRank centrality
     a = 0.3
     pr = nx.pagerank(graph, alpha=a)
     sorted_pr = sorted(pr, key=pr.__getitem__ ,reverse = True)
     print("Top "+str(top)+" de autores por su PageRank")
     print("Autor ,  Pagerank")
+    coauthors = []
     for i in range(0,top):
       print(sorted_pr[i], " %2.5f"%(pr[sorted_pr[i]]))
+      coauthors.append([sorted_pr[i], pr[sorted_pr[i]]])
     print("-----------------------------------------")
+    with open('most_important_pr', 'w') as f:
+        writer = csv.writer(f)
+        writer.writerows(coauthors)
     
     
 def most_important_coauthors(name, graph, top):
@@ -181,12 +184,18 @@ def top_betweenness(name, graph, top):
     print("autor   betweenness")
     bw_centrality = nx.betweenness_centrality(graph, normalized=False)
     bw = []
+    coauthors = []
     import operator
     sorted_x = sorted(bw_centrality.items(), key=operator.itemgetter(1), reverse=True)
     for a, b in sorted_x:
         bw.append('{key}    {value}'.format(key=a, value=b))
+        coauthors.append([a,b])
     for i in range(0,top):
         print(bw[i])
+        
+    with open('most_important_bw', 'w') as f:
+        writer = csv.writer(f)
+        writer.writerows(coauthors)
 
     
     
@@ -204,9 +213,6 @@ def compute_degree_correlation(name, g):
             corr_matrix[degrees[node]][degrees[neighbor]]+= 1            
     
     # Plot correlation matrix
-    #f = plt.figure(figsize=(10, 10))
-    #f = plt.figure()
-    #plt.imshow(corr_matrix, fignum=f.number, origin='lower', cmap='Reds', interpolation='none')
     plt.imshow(corr_matrix[:15,:15], origin='lower', cmap='Reds', interpolation='none')
     print(corr_matrix[:15,:15])
     spl=1
@@ -221,7 +227,3 @@ def compute_degree_correlation(name, g):
     plt.show()
     
     
-'''
-    Communities
-'''
-
